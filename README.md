@@ -102,11 +102,12 @@
 
 ## What is deliverability testing?
 
-> **Deliverability testing ensures that emails successfully reach recipients' inboxes without being flagged as spam or facing delivery issues. It involves:**  
+> **Deliverability testing ensures that emails reach the inbox without issues like:**  
 >  
-> - Spam Filter Testing: Checks if emails pass through spam filters.  
-> - Inbox Placement: Verifies whether emails land in the primary inbox or junk folder.  
-> - Content Quality Check: Ensures email content meets deliverability standards (e.g., no broken links or blocked images).  
+> - Spam Triggers: Identifies phrases or elements that could cause an email to be flagged as spam.  
+> - Email Clipping: Verifies email size and formatting to prevent content from being cut off by email clients.  
+> - Layout Shifts: Ensures responsive design for proper rendering across devices.  
+> - Unsupported Content: Checks compatibility of media types and links to avoid display issues.  
 
 **[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
