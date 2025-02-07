@@ -6,6 +6,7 @@
 
 | No. | Questions |
 | --- | --------- |
+| 87 | [What are test artifacts in software testing?](#what-are-test-artifacts-in-software-testing) |  
 | 86 | [What are the key types of software testing?](#what-are-the-key-types-of-software-testing) |  
 | 85 | [What are boundary validation, range checks, threshold checks, and data truncation in data quality assurance?](#what-are-boundary-validation-range-checks-threshold-checks-and-data-truncation-in-data-quality-assurance) |  
 | 84 | [What are constraint violations in databases, and how do they impact data integrity?](#what-are-constraint-violations-in-databases-and-how-do-they-impact-data-integrity) |  
@@ -92,6 +93,20 @@
 | 71 | [How can logs be efficiently managed when time is limited?](#how-can-logs-be-efficiently-managed-when-time-is-limited) |  
 | 73 | [What is the importance of frontend and backend testing in application development?](#what-is-the-importance-of-frontend-and-backend-testing-in-application-development) |  
 | 80 | [How do Unix command-line tools assist in data processing?](#how-do-unix-command-line-tools-assist-in-data-processing) |  
+
+---
+
+## What are test artifacts in software testing?
+
+> **Test artifacts are essential documents and assets in the testing process, ensuring clarity, traceability, and accountability:**  
+>  
+> - **Test Plan:** Outlines scope, strategy, and objectives.  
+> - **Test Cases:** Detailed steps for executing tests.  
+> - **Test Scripts:** Automated test execution scripts.  
+> - **Test Reports:** Summarizes results, defects, and coverage.  
+> - **Bug Reports:** Documents identified issues and resolutions.  
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
 ---
 
