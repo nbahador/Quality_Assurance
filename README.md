@@ -6,6 +6,7 @@
 
 | No. | Questions |
 | --- | --------- |
+| 11 | [What is the purpose of testing success/failure emails in a process?](#what-is-the-purpose-of-testing-successfailure-emails-in-a-process) |
 | 10 | [What is the purpose of testing dependencies in workflows?](#what-is-the-purpose-of-testing-dependencies-in-workflows) |
 | 7 | [What are the key aspects of ETL workflow validation?](#what-are-the-key-aspects-of-etl-workflow-validation) |
 | 1 | [How can you compare database data with extracted CSV data using command-line tools?](#how-can-you-compare-database-data-with-extracted-csv-data-using-command-line-tools) |
@@ -17,6 +18,16 @@
 | 5 | [How can you compare flat files and tables using the Linux command line?](#how-can-you-compare-flat-files-and-tables-using-the-linux-command-line) |
 | 6 | [What are the key validations for testing ETL target objects structure?](#what-are-the-key-validations-for-testing-etl-target-objects-structure) |
 
+---
+
+## What is the purpose of testing success/failure emails in a process?
+
+> **The purpose of testing success/failure emails in a process:**
+> 
+> - To ensure that appropriate emails are sent when the process finishes, whether it succeeds or fails.
+> - For example, if the data load fails, an error email should be sent to the team to notify them of the issue.
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
 ---
 
