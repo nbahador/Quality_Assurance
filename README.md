@@ -6,7 +6,7 @@
 
 | No. | Questions |
 | --- | --------- |
-| 43 | [What are triggers in SQL and what is the purpose of the sync_changes table?](#what-are-triggers-in-sql-and-what-is-the-purpose-of-the-sync-changes-table) |  
+| 43 | [What are triggers in SQL and what is the purpose of the sync changes table?](#what-are-triggers-in-sql-and-what-is-the-purpose-of-the-sync-changes-table) |  
 | 42 | [What does a Test Plan include?](#what-does-a-test-plan-include) |  
 | 39 | [What is a good test case?](#what-is-a-good-test-case) |  
 | 38 | [What is a Test Plan?](#what-is-a-test-plan) |  
@@ -52,7 +52,7 @@
 
 ---
 
-## What are triggers in SQL and what is the purpose of the sync_changes table?
+## What are triggers in SQL and what is the purpose of the sync changes table?
 
 > **Triggers in SQL:** Used to automatically perform operations when certain actions (like INSERT, UPDATE, or DELETE) occur on a table.  
 > **The sync_changes table:** Might store a history of changes for data consistency or auditing purposes.  
