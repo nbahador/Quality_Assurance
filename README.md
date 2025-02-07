@@ -6,6 +6,7 @@
 
 | No. | Questions |
 | --- | --------- |
+| 10 | [What is the purpose of testing dependencies in workflows?](#what-is-the-purpose-of-testing-dependencies-in-workflows) |
 | 7 | [What are the key aspects of ETL workflow validation?](#what-are-the-key-aspects-of-etl-workflow-validation) |
 | 1 | [How can you compare database data with extracted CSV data using command-line tools?](#how-can-you-compare-database-data-with-extracted-csv-data-using-command-line-tools) |
 | 2 | [How can duplicates be identified in a database table using SQL?](#how-can-duplicates-be-identified-in-a-database-table-using-sql) |
@@ -16,6 +17,17 @@
 | 5 | [How can you compare flat files and tables using the Linux command line?](#how-can-you-compare-flat-files-and-tables-using-the-linux-command-line) |
 | 6 | [What are the key validations for testing ETL target objects structure?](#what-are-the-key-validations-for-testing-etl-target-objects-structure) |
 
+
+---
+
+## What is the purpose of testing dependencies in workflows?
+
+> **The purpose of testing dependencies in workflows:**
+> 
+> - To ensure that tasks in the workflow run in the correct order, with dependent tasks completed first.
+> - For example, ensuring that the "Data Cleaning" step runs before the "Data Load" step to maintain data integrity.
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
 ---
 
