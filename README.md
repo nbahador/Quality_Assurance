@@ -6,6 +6,7 @@
 
 | No. | Questions |
 | --- | --------- |
+| 53 | [How do database scaling techniques like replication and sharding address performance challenges?](#how-do-database-scaling-techniques-like-replication-and-sharding-address-performance-challenges) |  
 | 52 | [How does GitHub Actions automate workflows?](#how-does-github-actions-automate-workflows) |  
 | 51 | [What is TestGrid and what are its key features?](#what-is-testgrid-and-what-are-its-key-features) |  
 | 50 | [What is the importance of debugging emails and ensuring proper deliverability?](#what-is-the-importance-of-debugging-emails-and-ensuring-proper-deliverability) |  
@@ -58,6 +59,41 @@
 | 36 | [What are the common ETL challenges and their solutions?](#what-are-the-common-etl-challenges-and-their-solutions) |  
 | 40 | [What is the difference between functional and nonfunctional testing?](#what-is-the-difference-between-functional-and-nonfunctional-testing) |  
 | 41 | [What are the common challenges faced by QA teams?](#what-are-the-common-challenges-faced-by-qa-teams) |
+
+---
+
+## How do database scaling techniques like replication and sharding address performance challenges?
+
+> **As systems grow, a single database might struggle with high load, leading to slow reads and writes. To address this, database scaling techniques such as replication and sharding are used.**  
+> 
+> **Single Database Challenges:**
+> - When everything is hosted on a single machine, it may become difficult to scale as traffic increases, resulting in performance issues like slow reads and writes.
+> 
+> **Database Replication:**
+> - Improves performance and provides fault tolerance.
+> - **Master-Slave Setup:** The master database handles all write operations, while one or more slave databases handle read operations.
+> - **Faster Reads:** Offloading read queries to the slave databases improves overall read performance.
+> - **Fault Tolerance:** If the master database fails, a slave can be promoted to master, ensuring system availability.
+> 
+> **Challenges with Replication:**
+> - **Replication Lag:** There may be a delay between when data is written to the master and when it is replicated to the slaves, meaning the data on the slaves may not always be up-to-date.
+> - **Slower Writes:** Even though reads are offloaded to slaves, writes to the master can still become slow as the system scales.
+> 
+> **Database Sharding:**
+> - Sharding involves partitioning data and distributing it across multiple servers to handle large volumes of data.
+> - **Shards:** The database is divided into smaller pieces, called shards, and distributed across different servers.
+> - **Complex Queries:** Sharding can make queries more complex, particularly when joins are required, which could lead to expensive operations.
+> - **Data Denormalization:** Often, sharding requires data denormalization to optimize query performance.
+> 
+> **Combining Sharding and Replication:**
+> - Sharding and replication can be used together. For instance, each shard can have its own replication structure, where reads are offloaded to slave databases, and data is partitioned for scalability.
+> 
+> **Summary:**
+> - **Replication** improves read performance and fault tolerance.
+> - **Sharding** helps distribute large datasets across multiple servers, enabling horizontal scaling.
+> - **Combining both** techniques enhances both performance and availability.
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
 ---
 
