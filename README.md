@@ -6,6 +6,7 @@
 
 | No. | Questions |
 | --- | --------- |
+| 75 | [What factors affect email deliverability and user experience?](#what-factors-affect-email-deliverability-and-user-experience) |  
 | 74 | [How do failed network requests impact an application?](#how-do-failed-network-requests-impact-an-application) |  
 | 72 | [What are common test operations in data validation?](#what-are-common-test-operations-in-data-validation) |  
 | 70 | [What should be included in test reports for analysis?](#what-should-be-included-in-test-reports-for-analysis) |  
@@ -80,6 +81,22 @@
 | 66 | [What are the steps in a bug lifecycle?](#what-are-the-steps-in-a-bug-lifecycle) |  
 | 71 | [How can logs be efficiently managed when time is limited?](#how-can-logs-be-efficiently-managed-when-time-is-limited) |  
 | 73 | [What is the importance of frontend and backend testing in application development?](#what-is-the-importance-of-frontend-and-backend-testing-in-application-development) |  
+
+---
+
+## What factors affect email deliverability and user experience?
+
+> **Factors affecting email deliverability and user experience:**
+> 
+> - **Spam Triggers:** Words, phrases, or excessive links that flag emails as spam.
+> - **Formatting Issues:** Incorrect HTML, missing alt text, or improper styling can affect rendering.
+> - **Clipped Content:** Large emails may get clipped in certain email clients, hiding important information.
+> - **Unresponsive Layouts:** Emails not optimized for mobile devices lead to poor readability.
+> - **Broken Links:** Non-functional or incorrect links reduce user engagement and credibility.
+> 
+> Ensuring proper email design, testing across devices, and avoiding spam triggers can improve deliverability and experience.
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
 ---
 
