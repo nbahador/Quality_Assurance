@@ -6,6 +6,7 @@
 
 | No. | Questions |
 | --- | --------- |
+| 44 | [What are the steps involved in setting up a PostgreSQL database for storing data?](#what-are-the-steps-involved-in-setting-up-a-postgresql-database-for-storing-data) |  
 | 43 | [What are triggers in SQL and what is the purpose of the sync changes table?](#what-are-triggers-in-sql-and-what-is-the-purpose-of-the-sync-changes-table) |  
 | 42 | [What does a Test Plan include?](#what-does-a-test-plan-include) |  
 | 39 | [What is a good test case?](#what-is-a-good-test-case) |  
@@ -49,6 +50,30 @@
 | 36 | [What are the common ETL challenges and their solutions?](#what-are-the-common-etl-challenges-and-their-solutions) |  
 | 40 | [What is the difference between functional and nonfunctional testing?](#what-is-the-difference-between-functional-and-nonfunctional-testing) |  
 | 41 | [What are the common challenges faced by QA teams?](#what-are-the-common-challenges-faced-by-qa-teams) |
+
+---
+
+## What are the steps involved in setting up a PostgreSQL database for storing data?
+
+> **1. Push Data to Server:** Upload the downloaded data to the correct server paths using a push script.  
+> **2. Install PostgreSQL:** Install PostgreSQL and create a new database for storing the data using the `CREATE` command.  
+> **3. Set Up Database Schema:** Set up the database and create the necessary tables and schema in PostgreSQL for storing the data.  
+> **4. Install Dependencies:** Create a Python virtual environment and install the necessary packages.  
+> **5. Run Metadata Builder:** Add metadata to the database using the relevant command.  
+> **6. Create Indexes:** Improve database performance by creating indexes on important fields (e.g., `patient_id`).  
+> **7. Partition Data:** If needed, partition large tables for better query performance. This links the raw binary data with the metadata.  
+
+> **Once the data is loaded, you can use SQL queries to access seizure data, patient information, and binary recordings.**  
+
+> **Additional setup includes:**  
+> - Commands for setting up PostgreSQL and creating the database.  
+> - SQL migration scripts for database setup.  
+> - Repository and setup information.  
+> - Configuration file for managing settings.  
+> - Code related to the server setup.  
+> - Containerization with Docker if required.  
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**  
 
 ---
 
