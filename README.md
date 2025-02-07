@@ -6,6 +6,7 @@
 
 | No. | Questions |
 | --- | --------- |
+| 31 | [What key information should be included in a test case?](#what-key-information-should-be-included-in-a-test-case) |
 | 30 | [How do you handle bug triage and bug reports?](#how-do-you-handle-bug-triage-and-bug-reports) |
 | 24 | [What to include in a bug report?](#what-to-include-in-a-bug-report) |
 | 23 | [What's included in Jira and how is it used?](#whats-included-in-jira-and-how-is-it-used) |
@@ -36,6 +37,28 @@
 | 27 | [How do you address the failure to simulate concurrent users in testing?](#how-do-you-address-the-failure-to-simulate-concurrent-users-in-testing) |
 | 28 | [What tools do you use for QA and how are they utilized?](#what-tools-do-you-use-for-qa-and-how-are-they-utilized) |
 | 29 | [How did you improve the onboarding process for new employees?](#how-did-you-improve-the-onboarding-process-for-new-employees) |
+
+---
+
+## What key information should be included in a test case?
+
+> **Test Case ID:** Unique identifier for each test case (like TC_001). Helps track and reference test cases efficiently.  
+> **Test Case Title:** Brief description of the test case purpose (like "Login functionality with valid credentials").  
+> **Preconditions:** Setup steps or conditions that must be met before executing the test (like "User is logged out," "Test environment is configured").  
+> **Test Data:** Specific input data required for the test (like valid username/password, date formats). Include edge cases and boundary values where applicable.  
+> **Test Steps:** Step-by-step instructions to execute the test. Ensure clarity and conciseness (like "Step 1: Open the login page," "Step 2: Enter username").  
+> **Expected Result:** Define the expected outcome of each step or the overall test (like "User is successfully logged in," "Error message is displayed").  
+> **Actual Result:** To be filled out after test execution with actual behavior observed. Comparison with the expected result.  
+> **Status:** Pass/Fail indicator based on whether the actual result matches the expected result. Include "Blocked" or "In Progress" if needed.  
+> **Priority:** Assign a priority level (like High, Medium, Low) based on test case importance or impact.  
+> **Test Type:** Define the type of test (like Functional, Regression, Smoke, UI). Helps categorize and target the right areas of the application.  
+> **Dependencies:** List any pre-existing conditions or tests that need to run first (like "Test case TC_005 must pass before executing TC_010").  
+> **Postconditions:** Define the state of the system after test execution (like "User remains logged out," "System returns to default settings").  
+> **Test Case Version:** Version control for test cases, tracking changes over time. Helpful for continuous improvement and reference (like "v1.0," "v1.1").  
+> **Automated vs. Manual:** Specify if the test case is to be executed manually or automated. Important for efficiency and future scalability.  
+> **Comments/Notes:** Include any additional clarifications or information (like "Test only applicable for mobile version," "Check compatibility with different browsers").
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
 ---
 
