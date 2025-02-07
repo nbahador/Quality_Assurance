@@ -6,6 +6,7 @@
 
 | No. | Questions |
 | --- | --------- |
+| 97 | [What are positive and negative testing?](#what-are-positive-and-negative-testing) |  
 | 96 | [What is a traceable record?](#what-is-a-traceable-record) |  
 | 95 | [What is an integrity rule in database management?](#what-is-an-integrity-rule-in-database-management) |  
 | 94 | [What is source-target reconciliation in data validation?](#what-is-source-target-reconciliation-in-data-validation) |  
@@ -101,6 +102,15 @@
 | 71 | [How can logs be efficiently managed when time is limited?](#how-can-logs-be-efficiently-managed-when-time-is-limited) |  
 | 73 | [What is the importance of frontend and backend testing in application development?](#what-is-the-importance-of-frontend-and-backend-testing-in-application-development) |  
 | 80 | [How do Unix command-line tools assist in data processing?](#how-do-unix-command-line-tools-assist-in-data-processing) |  
+
+---
+
+## What are positive and negative testing?
+
+> **Positive Testing:** Validates that the system behaves as expected with correct or valid inputs.  
+> **Negative Testing:** Tests how the system handles incorrect, invalid, or unexpected inputs.
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
 ---
 
