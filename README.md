@@ -6,6 +6,7 @@
 
 | No. | Questions |
 | --- | --------- |
+| 69 | [What is fault tolerance in a system?](#what-is-fault-tolerance-in-a-system) |  
 | 68 | [What is refactoring in software development?](#what-is-refactoring-in-software-development) |  
 | 67 | [What should be included in a well-written bug report?](#what-should-be-included-in-a-well-written-bug-report) |  
 | 64 | [What’s the difference between backend testing and frontend testing?](#whats-the-difference-between-backend-testing-and-frontend-testing) |  
@@ -74,6 +75,14 @@
 | 62 | [What would you do if you filed a bug and the developer tells you it’s not a bug?](#what-would-you-do-if-you-filed-a-bug-and-the-developer-tells-you-its-not-a-bug) |  
 | 65 | [What would you do if asked to write test cases based on requirements provided?](#what-would-you-do-if-asked-to-write-test-cases-based-on-requirements-provided) |  
 | 66 | [What are the steps in a bug lifecycle?](#what-are-the-steps-in-a-bug-lifecycle) |  
+
+---
+
+## What is fault tolerance in a system?
+
+> **Fault tolerance is the ability of a system to continue operating even if some components fail.**
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
 ---
 
