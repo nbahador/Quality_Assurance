@@ -6,6 +6,7 @@
 
 | No. | Questions |
 | --- | --------- |
+| 84 | [What are constraint violations in databases, and how do they impact data integrity?](#what-are-constraint-violations-in-databases-and-how-do-they-impact-data-integrity) |  
 | 83 | [What are the different types of testing?](#what-are-the-different-types-of-testing) |  
 | 82 | [What is the purpose of Cogito SQL in reporting?](#what-is-the-purpose-of-cogito-sql-in-reporting) |  
 | 81 | [How does MongoDB differ from relational databases?](#how-does-mongodb-differ-from-relational-databases) |  
@@ -89,6 +90,18 @@
 | 71 | [How can logs be efficiently managed when time is limited?](#how-can-logs-be-efficiently-managed-when-time-is-limited) |  
 | 73 | [What is the importance of frontend and backend testing in application development?](#what-is-the-importance-of-frontend-and-backend-testing-in-application-development) |  
 | 80 | [How do Unix command-line tools assist in data processing?](#how-do-unix-command-line-tools-assist-in-data-processing) |  
+
+---
+
+## What are constraint violations in databases, and how do they impact data integrity?
+
+> **Constraint violations occur when database rules are broken, leading to data integrity issues. Common violations include:**  
+>  
+> - **Unique Key Violation:** Duplicate values in a column that must be unique.  
+> - **Primary Key Violation:** Attempting to insert a record with a duplicate or null primary key.  
+> - **Foreign Key Violation:** Referential integrity failure when a referenced record is missing.  
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
 ---
 
