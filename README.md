@@ -5,7 +5,8 @@
 ### <a id="table-of-contents"></a>Table of Contents - Quality Assurance
 
 | No. | Questions |
-| --- | --------- | 
+| --- | --------- |
+| 43 | [What are triggers in SQL and what is the purpose of the sync_changes table?](#what-are-triggers-in-sql-and-what-is-the-purpose-of-the-sync-changes-table) |  
 | 42 | [What does a Test Plan include?](#what-does-a-test-plan-include) |  
 | 39 | [What is a good test case?](#what-is-a-good-test-case) |  
 | 38 | [What is a Test Plan?](#what-is-a-test-plan) |  
@@ -48,6 +49,15 @@
 | 36 | [What are the common ETL challenges and their solutions?](#what-are-the-common-etl-challenges-and-their-solutions) |  
 | 40 | [What is the difference between functional and nonfunctional testing?](#what-is-the-difference-between-functional-and-nonfunctional-testing) |  
 | 41 | [What are the common challenges faced by QA teams?](#what-are-the-common-challenges-faced-by-qa-teams) |
+
+---
+
+## What are triggers in SQL and what is the purpose of the sync_changes table?
+
+> **Triggers in SQL** are used to automatically perform operations when certain actions (like `INSERT`, `UPDATE`, or `DELETE`) occur on a table.  
+> **The `sync_changes` table** might store a history of changes for data consistency or auditing purposes.  
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**  
 
 ---
 
