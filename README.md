@@ -6,6 +6,7 @@
 
 | No. | Questions |
 | --- | --------- |
+| 17 | [What is the difference between a good test case and a bad test case?](#what-is-the-difference-between-a-good-test-case-and-a-bad-test-case) |
 | 16 | [Why should tasks be automated?](#why-should-tasks-be-automated) |
 | 14 | [What are the key checks for ensuring target data quality and accuracy?](#what-are-the-key-checks-for-ensuring-target-data-quality-and-accuracy) |
 | 13 | [What are the key checks for ensuring target data completeness?](#what-are-the-key-checks-for-ensuring-target-data-completeness) |
@@ -22,6 +23,16 @@
 | 5 | [How can you compare flat files and tables using the Linux command line?](#how-can-you-compare-flat-files-and-tables-using-the-linux-command-line) |
 | 6 | [What are the key validations for testing ETL target objects structure?](#what-are-the-key-validations-for-testing-etl-target-objects-structure) |
 | 15 | [What are Slowly Changing Dimensions (SCD), and how can they be managed?](#what-are-slowly-changing-dimensions-scd-and-how-can-they-be-managed) |
+
+---
+
+## What is the difference between a good test case and a bad test case?
+
+> **A bad test case** is one that is difficult to follow. If you give it to someone else, they should be able to repeat the steps exactly and get the same result. If they can't, the test case is poorly written.
+
+> **A good test case** is clear, detailed, and easy to follow. It should be structured in a way that anyone can execute it with minimal confusion and get consistent results.
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
 ---
 
