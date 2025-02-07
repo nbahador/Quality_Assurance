@@ -59,12 +59,9 @@
 
 ## How should issues with the user interface be handled?
 
-> **Handling UI Issues:**  
-> - UI issues involve elements like buttons, forms, images, and navigation.  
-> - Examples include non-clickable buttons, broken links, missing images, or distorted layouts.  
-> - Quickly determine why an issue is occurring.  
-> - Investigate deeply to identify the root cause, not just surface-level problems.  
-> - Explore backend, frontend, and database interactions to diagnose defects.  
+> There are always some issues with the user interface, which includes anything the user interacts with, such as buttons, forms, images, navigation menus, etc. For example, a button might not be clickable, a link could be broken, an image might not display, or the page could load with a distorted layout.  
+>  
+> When such issues appear, it’s important to quickly determine why something is broken or not working as expected. However, it's crucial to investigate the issue deeply to identify the root cause, rather than just fixing the surface-level problem. This often requires exploring other parts of the system—such as the backend, frontend, and database—to find the true source of the defect.  
 
 **[ Back to the question in the Table ⬆ ](#table-of-contents)**  
 
