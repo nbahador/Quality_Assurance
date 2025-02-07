@@ -54,8 +54,8 @@
 
 ## What are triggers in SQL and what is the purpose of the sync_changes table?
 
-> **Triggers in SQL** are used to automatically perform operations when certain actions (like `INSERT`, `UPDATE`, or `DELETE`) occur on a table.  
-> **The `sync_changes` table** might store a history of changes for data consistency or auditing purposes.  
+> **Triggers in SQL:** Used to automatically perform operations when certain actions (like INSERT, UPDATE, or DELETE) occur on a table.  
+> **The sync_changes table:** Might store a history of changes for data consistency or auditing purposes.  
 
 **[ Back to the question in the Table ⬆ ](#table-of-contents)**  
 
