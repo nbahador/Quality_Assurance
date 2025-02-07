@@ -6,6 +6,7 @@
 
 | No. | Questions |
 | --- | --------- |
+| 61 | [What are the common HTTP methods used for retrieving, creating, and updating resources?](#what-are-the-common-http-methods-used-for-retrieving-creating-and-updating-resources) |  
 | 60 | [What is the Red-Green-Refactor cycle in Test-Driven Development (TDD)?](#what-is-the-red-green-refactor-cycle-in-test-driven-development-tdd) |  
 | 59 | [What steps do you follow when testing a database to ensure data accuracy and integrity?](#what-steps-do-you-follow-when-testing-a-database-to-ensure-data-accuracy-and-integrity) |  
 | 58 | [What are the key types of queries used in database testing?](#what-are-the-key-types-of-queries-used-in-database-testing) |  
@@ -66,6 +67,19 @@
 | 36 | [What are the common ETL challenges and their solutions?](#what-are-the-common-etl-challenges-and-their-solutions) |  
 | 40 | [What is the difference between functional and nonfunctional testing?](#what-is-the-difference-between-functional-and-nonfunctional-testing) |  
 | 41 | [What are the common challenges faced by QA teams?](#what-are-the-common-challenges-faced-by-qa-teams) |
+
+---
+
+## What are the common HTTP methods used for retrieving, creating, and updating resources?
+
+> **The common HTTP methods for interacting with web resources:**
+>  
+> - **GET:** Retrieves data from the server without modifying it.  
+> - **POST:** Sends data to create a new resource.  
+> - **PUT:** Updates or replaces an entire resource; if it doesn’t exist, it can create one.  
+> - **PATCH:** Partially updates an existing resource.
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
 ---
 
