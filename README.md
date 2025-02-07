@@ -6,6 +6,8 @@
 
 | No. | Questions |
 | --- | --------- |
+| 23 | [What's included in Jira and how is it used?](#whats-included-in-jira-and-how-is-it-used) |
+| 22 | [What are the definitions of Backlog and Sprint?](#what-are-the-definitions-of-backlog-and-sprint) |
 | 21 | [If you have three tasks that are all high priority, how will you decide which task to take on?](#if-you-have-three-tasks-that-are-all-high-priority-how-will-you-decide-which-task-to-take-on) |
 | 20 | [As a first QA, what would you do?](#as-a-first-qa-what-would-you-do) |
 | 19 | [If you need to start automation from scratch, what would your steps and processes be?](#if-you-need-to-start-automation-from-scratch-what-would-your-steps-and-processes-be) |
@@ -27,6 +29,91 @@
 | 5 | [How can you compare flat files and tables using the Linux command line?](#how-can-you-compare-flat-files-and-tables-using-the-linux-command-line) |
 | 6 | [What are the key validations for testing ETL target objects structure?](#what-are-the-key-validations-for-testing-etl-target-objects-structure) |
 | 15 | [What are Slowly Changing Dimensions (SCD), and how can they be managed?](#what-are-slowly-changing-dimensions-scd-and-how-can-they-be-managed) |
+
+
+---
+
+## What's included in Jira and how is it used?
+
+> **Bug Tracking:**  
+> Track and manage bugs/issues.
+
+> **Projects:**  
+> Access and manage multiple projects.
+
+> **Scrum Board:**  
+> Visualize backlog and sprint tasks.
+
+> **Sprint Board:**  
+> Track tasks in a specific sprint.
+
+> **To Do:**  
+> Tasks to be started (like design, new login page).
+
+> **Task:**  
+> Work items to be completed.
+
+> **Ticket:**  
+> Task details (description, assignee, attachments).
+
+### QA Process:
+
+> **QA Assignee:**  
+> Person responsible for testing.
+
+> **Check Requirements/Function:**  
+> Ensure task meets requirements and works.
+
+> **Done Status:**  
+> Task is ready for release.
+
+### Bug Reports:
+
+> **Bug Report:**  
+> Detailed issue description (e.g., "User can't login").
+
+> **Priority:**  
+> How quickly the bug needs fixing.
+
+> **Severity:**  
+> Impact level of the bug.
+
+> **Team/Sprint:**  
+> Assigned team and sprint.
+
+> **Point Estimate:**  
+> Time/effort required to fix.
+
+> **Backlog:**  
+> Current and future sprint tasks.
+
+### Sprint Management:
+
+> **Create Ticket in Backlog:**  
+> Add summary, description, assignee.
+
+> **Move Ticket:**  
+> Move tasks across boards.
+
+> **Add Sprint:**  
+> Assign tasks to a sprint.
+
+> **Start Sprint:**  
+> Begin tracking the sprint.
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
+
+---
+
+## What are the definitions of Backlog and Sprint?
+
+> **Backlog:**  
+> A list of tasks or issues that need to be worked on, but are not yet started. It can include tasks for future sprints.
+
+> **Sprint:**  
+> A set period (usually 1-2 weeks) where a team works on a specific set of tasks from the backlog. At the end of the sprint, the tasks should be completed and ready for release.
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
 ---
 
