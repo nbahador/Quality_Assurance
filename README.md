@@ -6,6 +6,7 @@
 
 | No. | Questions |
 | --- | --------- |
+| 24 | [What to include in a bug report?](#what-to-include-in-a-bug-report) |
 | 23 | [What's included in Jira and how is it used?](#whats-included-in-jira-and-how-is-it-used) |
 | 22 | [What are the definitions of Backlog and Sprint?](#what-are-the-definitions-of-backlog-and-sprint) |
 | 21 | [If you have three tasks that are all high priority, how will you decide which task to take on?](#if-you-have-three-tasks-that-are-all-high-priority-how-will-you-decide-which-task-to-take-on) |
@@ -30,6 +31,74 @@
 | 6 | [What are the key validations for testing ETL target objects structure?](#what-are-the-key-validations-for-testing-etl-target-objects-structure) |
 | 15 | [What are Slowly Changing Dimensions (SCD), and how can they be managed?](#what-are-slowly-changing-dimensions-scd-and-how-can-they-be-managed) |
 
+---
+
+## What to include in a bug report?
+
+> **Title:**  
+> A brief and clear title summarizing the issue.
+
+> **What happened:**  
+> A description of what went wrong or what behavior was observed.
+
+> **Where it happened:**  
+> The location or specific module, page, or area in the system where the bug was observed.
+
+> **Under which circumstances:**  
+> Any particular conditions or actions that triggered the bug.
+
+> **Pre-condition:**  
+> Any required setup, login, or previous actions before the bug can be reproduced.
+
+> **Environment:**  
+> - **OS:** (like Windows, macOS)  
+> - **Browser:** (like Chrome)  
+> - **Hardware:** (like server specifications)  
+> - **Network conditions:** (like Wi-Fi, VPN)  
+> - **Third-party dependencies:** (like APIs)
+
+> **Steps to reproduce:**  
+> Step 1  
+> Step 2  
+> Step 3  
+> A clear and sequential list of actions that lead to the bug occurrence.
+
+> **Actual results vs expected:**  
+> A comparison of what actually happened versus what should have happened.
+
+> **Attachments:**  
+> Screenshots, videos, log files, error dumps, or any other supporting files.
+
+> **Severity:**  
+> - **Critical:** Blocks major functionality, system crashes, or data loss.  
+> - **Major:** Significant impact but with a workaround.  
+> - **Minor:** Low impact or cosmetic issue.
+
+> **Priority:**  
+> - **High:** Needs to be fixed immediately.  
+> - **Medium:** Needs to be fixed in the near future.  
+> - **Low:** Can be fixed at a later time (rarely affects users).
+
+> **Frequency:**  
+> - **Always:** The bug occurs every time the described conditions are met.  
+> - **Sometimes:** The bug occurs intermittently or randomly.  
+> - **Rarely:** The bug happens under very specific or rare conditions.
+
+> **Root cause:**  
+> If identified, include the root cause of the issue.
+
+> **Assigned to:**  
+> Who is responsible for addressing the bug.
+
+> **Status:**  
+> Current state of the bug (Open, In Progress, Fixed, Verified).
+
+> **Reproducibility:**  
+> - **100% reproducible:** The issue happens every time under the stated conditions.  
+> - **50% reproducible:** The issue happens intermittently under the stated conditions.  
+> - **Not reproducible:** The issue cannot be reproduced despite multiple attempts.
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
 ---
 
