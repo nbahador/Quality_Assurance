@@ -6,6 +6,7 @@
 
 | No. | Questions |
 | --- | --------- |
+| 35 | [What is the bug triage process and how is it carried out?](#what-is-the-bug-triage-process-and-how-is-it-carried-out) |
 | 34 | [How do you estimate the time for bug fixing?](#how-do-you-estimate-the-time-for-bug-fixing) |
 | 33 | [How do you classify bug priority?](#how-do-you-classify-bug-priority) |
 | 32 | [What are the key components of a test plan?](#what-are-the-key-components-of-a-test-plan) |
@@ -40,6 +41,61 @@
 | 27 | [How do you address the failure to simulate concurrent users in testing?](#how-do-you-address-the-failure-to-simulate-concurrent-users-in-testing) |
 | 28 | [What tools do you use for QA and how are they utilized?](#what-tools-do-you-use-for-qa-and-how-are-they-utilized) |
 | 29 | [How did you improve the onboarding process for new employees?](#how-did-you-improve-the-onboarding-process-for-new-employees) |
+
+---
+
+## What is the bug triage process and how is it carried out?
+
+The bug triage process involves the following steps:
+
+1. **Evaluating bug severity and impact**:
+   - Assessing the severity and the effect of the bug on the system and users.
+
+2. **Categorizing issues as Critical, Major, or Minor**:
+   - Classifying bugs based on their impact level.
+
+3. **Prioritizing based on customer impact and business risk**:
+   - Focusing on issues that affect customers or the business the most.
+
+The process also includes:
+
+4. **Working closely with developers for root cause analysis**:
+   - Collaborating with developers to identify the cause of the bug.
+
+5. **Collaborating to identify underlying issues**:
+   - Identifying if the bug is part of a larger issue or a symptom of something else.
+
+6. **Estimating fix times based on complexity and resources**:
+   - Assessing how long it will take to fix the bug based on its complexity.
+
+Additional steps involve:
+
+7. **Reproducing issues in multiple environments**:
+   - Testing the bug in different environments to ensure it can be reproduced consistently.
+
+8. **Testing on varied platforms and browsers**:
+   - Checking the bug's behavior across different platforms and browsers for consistency.
+
+9. **Verifying reproducibility and capturing detailed logs**:
+   - Ensuring the issue can be consistently reproduced and documenting the process with logs.
+
+Clear bug documentation is maintained by:
+
+10. **Including reproducible steps, error logs, and screenshots**:
+    - Documenting the bug thoroughly to aid developers in fixing it faster.
+
+11. **Ensuring clarity to speed up developer resolution**:
+    - Providing clear instructions and information so developers can quickly resolve the issue.
+
+Lastly, bug reports are managed in Jira by:
+
+12. **Creating detailed bug tickets with priority tags**:
+    - Ensuring tickets contain all necessary information and are tagged appropriately for prioritization.
+
+13. **Tracking status and providing timely updates to stakeholders**:
+    - Keeping stakeholders informed on the status and progress of bug resolution.
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
 ---
 
