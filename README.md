@@ -6,6 +6,7 @@
 
 | No. | Questions |
 | --- | --------- |
+| 13 | [What are the key checks for ensuring target data completeness?](#what-are-the-key-checks-for-ensuring-target-data-completeness) |
 | 12 | [What is the purpose of checking ETL logs?](#what-is-the-purpose-of-checking-etl-logs) |
 | 11 | [What is the purpose of testing success/failure emails in a process?](#what-is-the-purpose-of-testing-successfailure-emails-in-a-process) |
 | 10 | [What is the purpose of testing dependencies in workflows?](#what-is-the-purpose-of-testing-dependencies-in-workflows) |
@@ -18,6 +19,20 @@
 | 8 | [What are the key aspects of Target Data Completeness testing?](#what-are-the-key-aspects-of-target-data-completeness-testing) |
 | 5 | [How can you compare flat files and tables using the Linux command line?](#how-can-you-compare-flat-files-and-tables-using-the-linux-command-line) |
 | 6 | [What are the key validations for testing ETL target objects structure?](#what-are-the-key-validations-for-testing-etl-target-objects-structure) |
+
+---
+
+## What are the key checks for ensuring target data completeness?
+
+> **Key checks for ensuring target data completeness:**
+> 
+> - **Verifying that all source data is loaded into the target system**: Ensure that all records, like "Sales" data, are correctly transferred to the "Reporting" system.
+> - **Comparing record counts between the source and target systems**: Confirm that the record count in both systems match, such as having 1000 records in both source and target.
+> - **Investigating rejected records**: Examine why records were rejected and not loaded, like missing customer information in "Order" records.
+> - **Checking for duplicate records**: Ensure no duplicates are present, such as making sure each "Customer_ID" appears only once in the target system.
+> - **Ensuring data integrity by verifying relationships between tables**: Check the integrity of relationships, like ensuring every "Order_ID" in the "Order Details" table has a matching "Order_ID" in the "Orders" table.
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
 ---
 
