@@ -6,6 +6,7 @@
 
 | No. | Questions |
 | --- | --------- |
+| 88 | [What is database testing?](#what-is-database-testing) |  
 | 87 | [What are test artifacts in software testing?](#what-are-test-artifacts-in-software-testing) |  
 | 86 | [What are the key types of software testing?](#what-are-the-key-types-of-software-testing) |  
 | 85 | [What are boundary validation, range checks, threshold checks, and data truncation in data quality assurance?](#what-are-boundary-validation-range-checks-threshold-checks-and-data-truncation-in-data-quality-assurance) |  
@@ -93,6 +94,17 @@
 | 71 | [How can logs be efficiently managed when time is limited?](#how-can-logs-be-efficiently-managed-when-time-is-limited) |  
 | 73 | [What is the importance of frontend and backend testing in application development?](#what-is-the-importance-of-frontend-and-backend-testing-in-application-development) |  
 | 80 | [How do Unix command-line tools assist in data processing?](#how-do-unix-command-line-tools-assist-in-data-processing) |  
+
+---
+
+## What is database testing?
+
+> **Database testing ensures data integrity, consistency, and reliability through key validations:**  
+>  
+> - **Structure Validation:** Checks tables, schemas, constraints, and relationships (e.g., primary/foreign keys) for correctness.  
+> - **Format Validation:** Ensures data types, field lengths, and formats (e.g., date, currency) follow expected standards.  
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
 ---
 
