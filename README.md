@@ -6,6 +6,7 @@
 
 | No. | Questions |
 | --- | --------- |
+| 59 | [What steps do you follow when testing a database to ensure data accuracy and integrity?](#what-steps-do-you-follow-when-testing-a-database-to-ensure-data-accuracy-and-integrity) |  
 | 58 | [What are the key types of queries used in database testing?](#what-are-the-key-types-of-queries-used-in-database-testing) |  
 | 57 | [What is the difference between functional and non-functional testing in database testing?](#what-is-the-difference-between-functional-and-non-functional-testing-in-database-testing) |
 | 56 | [What tool can be used to measure performance and load test web applications?](#what-tool-can-be-used-to-measure-performance-and-load-test-web-applications) |  
@@ -64,6 +65,24 @@
 | 36 | [What are the common ETL challenges and their solutions?](#what-are-the-common-etl-challenges-and-their-solutions) |  
 | 40 | [What is the difference between functional and nonfunctional testing?](#what-is-the-difference-between-functional-and-nonfunctional-testing) |  
 | 41 | [What are the common challenges faced by QA teams?](#what-are-the-common-challenges-faced-by-qa-teams) |
+
+---
+
+## What steps do you follow when testing a database to ensure data accuracy and integrity?
+
+> **Steps in Database Testing:**  
+>  
+> - **Requirements Review:** Collaborate with business analysts to understand data expectations.  
+> - **Test Planning:** Develop a test plan and cases, including negative testing, and store them centrally.  
+> - **Data Profiling:** Identify anomalies and inconsistencies to improve data accuracy.  
+> - **Record Verification:** Compare entered data with input sources (e.g., documents, spreadsheets).  
+> - **Field-Level Validation:** Ensure data type, size, and format compliance.  
+> - **Boundary Testing:** Test limits by exceeding field constraints.  
+> - **Data Integrity Testing:** Verify relationships and dependencies between data.  
+> - **Data Completeness Testing:** Ensure all required fields are populated correctly.  
+> - **Test Execution:** Use manual testing and automation tools like Selenium to run the test plan.  
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
 ---
 
