@@ -6,6 +6,7 @@
 
 | No. | Questions |
 | --- | --------- |
+| 86 | [What are the key types of software testing?](#what-are-the-key-types-of-software-testing) |  
 | 85 | [What are boundary validation, range checks, threshold checks, and data truncation in data quality assurance?](#what-are-boundary-validation-range-checks-threshold-checks-and-data-truncation-in-data-quality-assurance) |  
 | 84 | [What are constraint violations in databases, and how do they impact data integrity?](#what-are-constraint-violations-in-databases-and-how-do-they-impact-data-integrity) |  
 | 83 | [What are the different types of testing?](#what-are-the-different-types-of-testing) |  
@@ -91,6 +92,20 @@
 | 71 | [How can logs be efficiently managed when time is limited?](#how-can-logs-be-efficiently-managed-when-time-is-limited) |  
 | 73 | [What is the importance of frontend and backend testing in application development?](#what-is-the-importance-of-frontend-and-backend-testing-in-application-development) |  
 | 80 | [How do Unix command-line tools assist in data processing?](#how-do-unix-command-line-tools-assist-in-data-processing) |  
+
+---
+
+## What are the key types of software testing?
+
+> **Key types of software testing ensure software reliability and performance:**  
+>  
+> - **Functional Testing:** Verifies that features work as expected.  
+> - **Integration Testing:** Ensures seamless interaction between components.  
+> - **Interface Testing:** Validates communication between systems or APIs.  
+> - **Performance Testing:** Assesses speed, scalability, and stability under load.  
+> - **Regression Testing:** Confirms new updates don’t break existing functionality.  
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
 ---
 
