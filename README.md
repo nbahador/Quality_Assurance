@@ -99,13 +99,13 @@
 
 ---
 
-## What is frontend testing?
+## What is negative testing?
 
-> **Frontend testing ensures a smooth and responsive user experience by validating:**  
+> **Negative testing involves inputting invalid or unexpected data to ensure that the application handles errors properly. For unhandled exceptions, negative testing helps by:**  
 >  
-> - **UI Testing:** Checks layout, scaling, and clickable elements.  
-> - **UX Testing:** Evaluates usability, responsiveness, and potential freezing issues.  
-> - **Network & Data Handling:** Verifies API calls, database connectivity, and handles failed network requests.  
+> - Triggering edge cases that might cause unhandled exceptions.  
+> - Verifying error messages and system behavior when inputs are incorrect or out of bounds.  
+> - Ensuring graceful failure without crashes or data loss.  
 
 **[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
