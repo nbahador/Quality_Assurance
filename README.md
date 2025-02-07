@@ -6,6 +6,7 @@
 
 | No. | Questions |
 | --- | --------- |
+| 58 | [What are the key types of queries used in database testing?](#what-are-the-key-types-of-queries-used-in-database-testing) |  
 | 57 | [What is the difference between functional and non-functional testing in database testing?](#what-is-the-difference-between-functional-and-non-functional-testing-in-database-testing) |
 | 56 | [What tool can be used to measure performance and load test web applications?](#what-tool-can-be-used-to-measure-performance-and-load-test-web-applications) |  
 | 55 | [What is json-server, and how does it help with API testing?](#what-is-json-server-and-how-does-it-help-with-api-testing) |  
@@ -63,6 +64,21 @@
 | 36 | [What are the common ETL challenges and their solutions?](#what-are-the-common-etl-challenges-and-their-solutions) |  
 | 40 | [What is the difference between functional and nonfunctional testing?](#what-is-the-difference-between-functional-and-nonfunctional-testing) |  
 | 41 | [What are the common challenges faced by QA teams?](#what-are-the-common-challenges-faced-by-qa-teams) |
+
+---
+
+## What are the key types of queries used in database testing?
+
+> **Key Types of Queries in Database Testing:**  
+>  
+> - **Select Queries:** Ensure accurate data retrieval by verifying that the correct records are returned.  
+>   - Example: Fetching customers who placed an order in the last 30 days.  
+> - **Update Queries:** Validate that data modifications are applied correctly.  
+>   - Example: Updating a customer's address and verifying that only the intended record is changed.  
+> - **Delete Queries:** Test data deletion functionality.  
+>   - Example: Removing inactive customer accounts and confirming successful deletion.  
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
 ---
 
