@@ -6,12 +6,29 @@
 
 | No. | Questions |
 | --- | --------- |
+| 7 | [What are the key aspects of ETL workflow validation?](#what-are-the-key-aspects-of-etl-workflow-validation) |
 | 1 | [How can you compare database data with extracted CSV data using command-line tools?](#how-can-you-compare-database-data-with-extracted-csv-data-using-command-line-tools) |
 | 2 | [How can duplicates be identified in a database table using SQL?](#how-can-duplicates-be-identified-in-a-database-table-using-sql) |
 | 3 | [How can you load a CSV table into a database?](#how-can-you-load-a-csv-table-into-a-database) |
 | 4 | [How can I find records that are present in one table but not in another using SQL?](#how-can-i-find-records-that-are-present-in-one-table-but-not-in-another-using-sql) |
 | 5 | [How can you compare flat files and tables using the Linux command line?](#how-can-you-compare-flat-files-and-tables-using-the-linux-command-line) |
 | 6 | [What are the key validations for testing ETL target objects structure?](#what-are-the-key-validations-for-testing-etl-target-objects-structure) |
+
+
+---
+
+## What are the key aspects of ETL workflow validation?
+
+> **Key aspects of ETL workflow validation:**
+> 
+> - **Test that the workflow can run successfully**: Ensure the workflow loads data correctly from source to target, including scripts and parameter files.
+> - **Test workflow execution dependencies**: Validate the proper execution order and dependencies between tasks in the workflow.
+> - **Verify the generation of success or failure email notifications**: Check if email notifications are sent based on workflow success or failure.
+> - **Verify ETL logs**: Ensure that logs are generated and contain the necessary details for troubleshooting and auditing.
+> - **Validate ETL control tables**: Verify the accuracy and completeness of control tables used in the ETL process.
+> - **Measure ETL workflow execution time**: Ensure that the ETL workflow completes within the expected time frame for efficiency.
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
 ---
 
