@@ -34,6 +34,8 @@
 | 26 | [How do you ensure effective requirement management in QA?](#how-do-you-ensure-effective-requirement-management-in-qa) |
 | 27 | [How do you address the failure to simulate concurrent users in testing?](#how-do-you-address-the-failure-to-simulate-concurrent-users-in-testing) |
 | 28 | [What tools do you use for QA and how are they utilized?](#what-tools-do-you-use-for-qa-and-how-are-they-utilized) |
+| 29 | [How did you improve the onboarding process for new employees?](#how-did-you-improve-the-onboarding-process-for-new-employees) |
+
 
 
 
@@ -578,6 +580,23 @@
 > **Test Automation Frameworks:** Used to automate testing.
 > 
 > **Email Automation System:** Used to send notifications and updates about onboarding requirements.
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
+
+---
+
+## How did you improve the onboarding process for new employees?
+
+> I created a knowledge repository to make onboarding easier for new employees. I designed standardized template documents using Google Workspace tools.
+> 
+> These documents cover:
+> 
+> - Tools and software, with manuals, tutorials, and guides
+> - Information about teams and roles
+> - FAQs that new hires commonly ask
+> - Best practices for coding and workflows
+> 
+> I also set up automated email notifications to alert employees whenever the documents are updated.
 
 **[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
