@@ -6,6 +6,7 @@
 
 | No. | Questions |
 | --- | --------- |
+| 47 | [How should failures be monitored over time during testing?](#how-should-failures-be-monitored-over-time-during-testing) |  
 | 46 | [What is an example of negative testing?](#what-is-an-example-of-negative-testing) |  
 | 45 | [What do test logs include?](#what-do-test-logs-include) |  
 | 44 | [What are the steps involved in setting up a PostgreSQL database for storing data?](#what-are-the-steps-involved-in-setting-up-a-postgresql-database-for-storing-data) |  
@@ -52,6 +53,19 @@
 | 36 | [What are the common ETL challenges and their solutions?](#what-are-the-common-etl-challenges-and-their-solutions) |  
 | 40 | [What is the difference between functional and nonfunctional testing?](#what-is-the-difference-between-functional-and-nonfunctional-testing) |  
 | 41 | [What are the common challenges faced by QA teams?](#what-are-the-common-challenges-faced-by-qa-teams) |
+
+---
+
+## How should failures be monitored over time during testing?
+
+> **Monitoring Failures Over Time:**  
+> - Identify consistently failing tests.  
+> - Filter tests based on what you want or don’t want to see.  
+> - Narrow down tests by grouping them into specific categories.  
+> - Cluster, sort, filter, and group tests for better analysis.  
+> - Provide a summary for each failure type.  
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**  
 
 ---
 
