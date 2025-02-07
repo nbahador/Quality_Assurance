@@ -6,7 +6,7 @@
 
 | No. | Questions |
 | --- | --------- |
-| 102 | [What is exploratory testing, and why is it useful in software testing?](#what-is-exploratory-testing-and-why-is-it-useful-in-software-testing) |  
+| 102 | [What is exploratory testing?](#what-is-exploratory-testing) |  
 | 101 | [What does "cosmetic" refer to in software testing?](#what-does-cosmetic-refer-to-in-software-testing) |  
 | 99 | [What are environment details in testing?](#what-are-environment-details-in-testing) |  
 | 98 | [What is the difference between expected and actual results in software testing?](#what-is-the-difference-between-expected-and-actual-results-in-software-testing) | 
@@ -109,14 +109,13 @@
 
 ---
 
-## What does "cosmetic" refer to in software testing?
+## What is exploratory testing?
 
-> **Cosmetic issues** in software testing refer to visual or aesthetic problems that don't affect the core functionality but impact the user experience. These can include:
+> **Exploratory testing** is an approach where testers actively explore the application without predefined test cases, using their creativity and intuition to identify defects. It involves:
 > 
-> - Misaligned text
-> - Inconsistent fonts or colors
-> - Broken images
-> - Layout or spacing issues
+> - Simultaneous test design and execution
+> - Learning about the system while testing
+> - Investigating unexpected behaviors or edge cases
 
 **[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
