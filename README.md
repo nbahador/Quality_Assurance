@@ -6,6 +6,7 @@
 
 | No. | Questions |
 | --- | --------- |
+| 14 | [What are the key checks for ensuring target data quality and accuracy?](#what-are-the-key-checks-for-ensuring-target-data-quality-and-accuracy) |
 | 13 | [What are the key checks for ensuring target data completeness?](#what-are-the-key-checks-for-ensuring-target-data-completeness) |
 | 12 | [What is the purpose of checking ETL logs?](#what-is-the-purpose-of-checking-etl-logs) |
 | 11 | [What is the purpose of testing success/failure emails in a process?](#what-is-the-purpose-of-testing-successfailure-emails-in-a-process) |
@@ -19,6 +20,31 @@
 | 8 | [What are the key aspects of Target Data Completeness testing?](#what-are-the-key-aspects-of-target-data-completeness-testing) |
 | 5 | [How can you compare flat files and tables using the Linux command line?](#how-can-you-compare-flat-files-and-tables-using-the-linux-command-line) |
 | 6 | [What are the key validations for testing ETL target objects structure?](#what-are-the-key-validations-for-testing-etl-target-objects-structure) |
+
+---
+
+## What are the key checks for ensuring target data quality and accuracy?
+
+> **Key checks for ensuring target data quality and accuracy:**
+> 
+> - **Ensuring that the loaded data meets quality standards**: Validate that there is no invalid data, such as "John Doe" in numeric fields.
+> - **Verifying that not-null fields are populated**: Ensure required fields, such as the "Email" field, are filled for every customer.
+> - **Checking numeric data accuracy**: Confirm that fields like "Total_Sales" contain accurate numbers without rounding errors.
+> - **Ensuring there are no unnecessary spaces in data values**: Remove spaces before or after data values, such as "John Doe".
+> - **Verifying that date fields have the correct format and values**: Ensure fields like "Order Date" follow the "YYYY-MM-DD" format.
+> - **Performing boundary value testing**: Test extreme values like ensuring the "Age" field can handle values like 0 and 120.
+> - **Ensuring case sensitivity is handled correctly**: Check that case sensitivity works, such as distinguishing "John" from "john".
+> - **Verifying that special characters are properly loaded**: Ensure that characters like "$" and "%" are accurately handled.
+> - **Checking for data truncation**: Ensure no data is truncated, such as verifying that a 15-digit phone number is fully loaded.
+> - **Testing both valid and invalid data**: Test with both valid and invalid data to ensure correct system behavior, like rejecting invalid emails.
+> - **Validating that data transformations follow business rules**: Ensure transformations, like calculating "Amount" as "Quantity * Unit Price", are accurate.
+> - **Ensuring default values are applied when data is missing**: Confirm that default values, like "Unknown" for missing "Region", are correctly applied.
+> - **Checking that update logic works**: Ensure the system properly updates old records, like replacing a customer's old email with a new one.
+> - **Ensuring slowly changing dimensions add new records and mark old ones as expired**: Verify that updates to customer details, like address changes, are handled correctly.
+> - **Verifying the number of records inserted, updated, or deleted**: Ensure the record count matches the expected number of changes.
+> - **Ensuring all dates are accurate and correctly formatted**: Reject invalid dates, such as "2022-02-29".
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
 ---
 
