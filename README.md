@@ -6,6 +6,7 @@
 
 | No. | Questions |
 | --- | --------- |
+| 101 | [What does "cosmetic" refer to in software testing?](#what-does-cosmetic-refer-to-in-software-testing) |  
 | 99 | [What are environment details in testing?](#what-are-environment-details-in-testing) |  
 | 98 | [What is the difference between expected and actual results in software testing?](#what-is-the-difference-between-expected-and-actual-results-in-software-testing) | 
 | 97 | [What are positive and negative testing?](#what-are-positive-and-negative-testing) |  
@@ -104,6 +105,19 @@
 | 71 | [How can logs be efficiently managed when time is limited?](#how-can-logs-be-efficiently-managed-when-time-is-limited) |  
 | 73 | [What is the importance of frontend and backend testing in application development?](#what-is-the-importance-of-frontend-and-backend-testing-in-application-development) |  
 | 80 | [How do Unix command-line tools assist in data processing?](#how-do-unix-command-line-tools-assist-in-data-processing) |  
+
+---
+
+## What does "cosmetic" refer to in software testing?
+
+> **Cosmetic issues** in software testing refer to visual or aesthetic problems that don't affect the core functionality but impact the user experience. These can include:
+> 
+> - Misaligned text
+> - Inconsistent fonts or colors
+> - Broken images
+> - Layout or spacing issues
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
 ---
 
