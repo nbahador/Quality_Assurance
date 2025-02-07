@@ -6,6 +6,7 @@
 
 | No. | Questions |
 | --- | --------- |
+| 30 | [How do you handle bug triage and bug reports?](#how-do-you-handle-bug-triage-and-bug-reports) |
 | 24 | [What to include in a bug report?](#what-to-include-in-a-bug-report) |
 | 23 | [What's included in Jira and how is it used?](#whats-included-in-jira-and-how-is-it-used) |
 | 22 | [What are the definitions of Backlog and Sprint?](#what-are-the-definitions-of-backlog-and-sprint) |
@@ -36,8 +37,17 @@
 | 28 | [What tools do you use for QA and how are they utilized?](#what-tools-do-you-use-for-qa-and-how-are-they-utilized) |
 | 29 | [How did you improve the onboarding process for new employees?](#how-did-you-improve-the-onboarding-process-for-new-employees) |
 
+---
 
+## How do you handle bug triage and bug reports?
 
+> **Bug Triage:** Estimate fix times.
+> 
+> **Bug Reports:** Include reproducible steps, error logs, and screenshots.
+> 
+> Create detailed bug tickets with priority tags: Critical, Major, Minor.
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
 ---
 
