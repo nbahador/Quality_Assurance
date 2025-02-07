@@ -6,6 +6,7 @@
 
 | No. | Questions |
 | --- | --------- |
+| 83 | [What are the different types of testing?](#what-are-the-different-types-of-testing) |  
 | 82 | [What is the purpose of Cogito SQL in reporting?](#what-is-the-purpose-of-cogito-sql-in-reporting) |  
 | 81 | [How does MongoDB differ from relational databases?](#how-does-mongodb-differ-from-relational-databases) |  
 | 79 | [What role does ETL play in data processing?](#what-role-does-etl-play-in-data-processing) |  
@@ -88,6 +89,22 @@
 | 71 | [How can logs be efficiently managed when time is limited?](#how-can-logs-be-efficiently-managed-when-time-is-limited) |  
 | 73 | [What is the importance of frontend and backend testing in application development?](#what-is-the-importance-of-frontend-and-backend-testing-in-application-development) |  
 | 80 | [How do Unix command-line tools assist in data processing?](#how-do-unix-command-line-tools-assist-in-data-processing) |  
+
+---
+
+## What are the different types of testing?
+
+> **Testing in software development ensures quality, performance, security, and compliance through:**  
+>  
+> - **Functional Testing:** Unit, integration, end-to-end, regression, UI/UX, exploratory, workflow validation.  
+> - **Data & Database Testing:** Backend validation, database connectivity, source-target reconciliation, constraint checks, audit logs, ETL testing.  
+> - **Performance & Security Testing:** Load, stress, fault tolerance, boundary validation, security compliance.  
+> - **Test Automation & CI/CD:** Automated test cases, CI/CD pipeline execution, bug reporting.  
+> - **UI & Visual Testing:** Graphical layout checks, positioning issues, clickable elements, email rendering validation.  
+> - **Logging & Debugging:** Log file analysis, error handling, session tracking, workflow monitoring.  
+> - **Business & Compliance Testing:** Business rule validation, regulatory compliance, release process verification.  
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
 ---
 
