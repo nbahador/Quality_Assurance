@@ -33,6 +33,8 @@
 | 25 | [How do you develop your skills and stay up-to-date?](#how-do-you-develop-your-skills-and-stay-up-to-date) |
 | 26 | [How do you ensure effective requirement management in QA?](#how-do-you-ensure-effective-requirement-management-in-qa) |
 | 27 | [How do you address the failure to simulate concurrent users in testing?](#how-do-you-address-the-failure-to-simulate-concurrent-users-in-testing) |
+| 28 | [What tools do you use for QA and how are they utilized?](#what-tools-do-you-use-for-qa-and-how-are-they-utilized) |
+
 
 
 ---
@@ -558,6 +560,24 @@
 ## How do you address the failure to simulate concurrent users in testing?
 
 > **Solution:** Use tools like JMeter to simulate realistic load patterns.
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
+
+---
+
+## What tools do you use for QA and how are they utilized?
+
+> **Jira:** Used for bug tracking and prioritizing issues (critical, major, minor).
+> 
+> **Docker:** Used to create consistent environments, ensuring reproducibility across setups.
+> 
+> **ETL Tools (unspecified):** Used for building and testing ETL pipelines to ensure data integrity, consistency, and accuracy.
+> 
+> **Parallel Processing / Partitioning / Batch Processing:** Used for optimizing ETL data processing, reducing time from days to hours.
+> 
+> **Test Automation Frameworks:** Used to automate testing, reducing testing time by 40-50%.
+> 
+> **Email Automation System:** Used to send notifications and updates about onboarding requirements.
 
 **[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
