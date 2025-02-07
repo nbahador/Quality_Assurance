@@ -59,33 +59,24 @@
 ---
 
 ## How should UI issues be investigated to determine the root cause?
-
 > The goal is to figure out why something is broken or not working as expected when encountering an issue in the user interface. The UI could include elements like buttons, forms, images, or navigation menus. Examples of UI issues include:  
->  
 > - A button on a web page is not clickable or looks broken (e.g., missing text or icon).  
-> - A page loads with a distorted layout, or images don't display properly.  
->  
+> - A page loads with a distorted layout, or images don't display properly.   
 > To resolve the issue, it's important to investigate deeply and not just fix the surface-level problem. This often requires exploring various parts of the system:  
 
-# **Network Calls:**
+**Network Calls:**
 > Modern web apps often rely on network requests to fetch data from servers. If there's a UI issue (e.g., data not showing correctly), it might be due to a failed network request.  
-
 > **What to do:** Open browser developer tools (like Chrome DevTools) and inspect the network tab to check if all the network requests are succeeding.  
-
 > **Example:** If a button click is supposed to load data, but the network call fails (e.g., 404 or 500 error), you can investigate the request/response cycle to determine what went wrong.  
 
-# **Backend Service Logs:**
+**Backend Service Logs:**
 > The backend handles business logic, data retrieval, and data storage. If a network call to the backend fails, checking the backend service logs is crucial.  
-
 > **What to do:** Look at the logs of the backend service (e.g., web server, API service) to identify errors or unexpected behavior during the request.  
-
 > **Example:** If a data fetch request fails with an internal server error (500), the backend logs may show an exception explaining why (e.g., database connectivity issues, missing data).  
 
-# **Database Validation:**
+**Database Validation:**
 > Sometimes, the issue might be due to missing, incorrect, or corrupted data in the database. If the UI relies on data from the database, the issue could be data-related.  
-
 > **What to do:** Inspect the database directly to verify that the necessary data is available and correctly formatted.  
-
 > **Example:** If a UI component should display user profiles but shows nothing, check the database to ensure the user records exist and contain the required fields (e.g., name, email, profile picture URL).  
 
 So when a UI defect occurs, you should:  
