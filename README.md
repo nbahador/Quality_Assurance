@@ -6,6 +6,7 @@
 
 | No. | Questions |
 | --- | --------- |
+| 98 | [What is the difference between expected and actual results in software testing?](#what-is-the-difference-between-expected-and-actual-results-in-software-testing) | 
 | 97 | [What are positive and negative testing?](#what-are-positive-and-negative-testing) |  
 | 96 | [What is a traceable record?](#what-is-a-traceable-record) |  
 | 95 | [What is an integrity rule in database management?](#what-is-an-integrity-rule-in-database-management) |  
@@ -102,6 +103,15 @@
 | 71 | [How can logs be efficiently managed when time is limited?](#how-can-logs-be-efficiently-managed-when-time-is-limited) |  
 | 73 | [What is the importance of frontend and backend testing in application development?](#what-is-the-importance-of-frontend-and-backend-testing-in-application-development) |  
 | 80 | [How do Unix command-line tools assist in data processing?](#how-do-unix-command-line-tools-assist-in-data-processing) |  
+
+---
+
+## What is the difference between expected and actual results in software testing?
+
+> **Expected Results:** The anticipated outcome based on the test case or requirements.  
+> **Actual Results:** The outcome produced by the system during testing.
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
 ---
 
