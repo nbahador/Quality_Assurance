@@ -6,6 +6,7 @@
 
 | No. | Questions |
 | --- | --------- |
+| 46 | [What is an example of negative testing?](#what-is-an-example-of-negative-testing) |  
 | 45 | [What do test logs include?](#what-do-test-logs-include) |  
 | 44 | [What are the steps involved in setting up a PostgreSQL database for storing data?](#what-are-the-steps-involved-in-setting-up-a-postgresql-database-for-storing-data) |  
 | 43 | [What are triggers in SQL and what is the purpose of the sync changes table?](#what-are-triggers-in-sql-and-what-is-the-purpose-of-the-sync-changes-table) |  
@@ -51,6 +52,16 @@
 | 36 | [What are the common ETL challenges and their solutions?](#what-are-the-common-etl-challenges-and-their-solutions) |  
 | 40 | [What is the difference between functional and nonfunctional testing?](#what-is-the-difference-between-functional-and-nonfunctional-testing) |  
 | 41 | [What are the common challenges faced by QA teams?](#what-are-the-common-challenges-faced-by-qa-teams) |
+
+---
+
+## What is an example of negative testing?
+
+> **Example of Negative Testing:**  
+> A user tries to submit a form without selecting an option from the drop-down menu.  
+> This shouldn't lead to a system crash; instead, the user should be prompted to select an option.  
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**  
 
 ---
 
