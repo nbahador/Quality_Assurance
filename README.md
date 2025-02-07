@@ -6,6 +6,7 @@
 
 | No. | Questions |
 | --- | --------- |
+| 33 | [How do you classify bug priority?](#how-do-you-classify-bug-priority) |
 | 32 | [What are the key components of a test plan?](#what-are-the-key-components-of-a-test-plan) |
 | 31 | [What information should be included in a test case?](#what-information-should-be-included-in-a-test-case) |
 | 30 | [How do you handle bug triage and bug reports?](#how-do-you-handle-bug-triage-and-bug-reports) |
@@ -38,6 +39,20 @@
 | 27 | [How do you address the failure to simulate concurrent users in testing?](#how-do-you-address-the-failure-to-simulate-concurrent-users-in-testing) |
 | 28 | [What tools do you use for QA and how are they utilized?](#what-tools-do-you-use-for-qa-and-how-are-they-utilized) |
 | 29 | [How did you improve the onboarding process for new employees?](#how-did-you-improve-the-onboarding-process-for-new-employees) |
+
+---
+
+## How do you classify bug priority?
+
+### **Critical Priority:**
+- System failure or security breach.
+- Affects core functionality or end-user experience.
+
+### **Minor Priority:**
+- Low impact or cosmetic issues (UI glitches, small bugs).
+- Does not affect core functionality or user workflow.
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
 ---
 
