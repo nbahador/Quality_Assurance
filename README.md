@@ -41,6 +41,7 @@
 | 27 | [How do you address the failure to simulate concurrent users in testing?](#how-do-you-address-the-failure-to-simulate-concurrent-users-in-testing) |
 | 28 | [What tools do you use for QA and how are they utilized?](#what-tools-do-you-use-for-qa-and-how-are-they-utilized) |
 | 29 | [How did you improve the onboarding process for new employees?](#how-did-you-improve-the-onboarding-process-for-new-employees) |
+| 36 | [What are the common ETL challenges and their solutions?](#what-are-the-common-etl-challenges-and-their-solutions) |  
 
 ---
 
@@ -757,5 +758,71 @@
 > I also set up automated email notifications to alert employees whenever the documents are updated.
 
 **[ Back to the question in the Table ⬆ ](#table-of-contents)**
+
+---
+
+## What are the common ETL challenges and their solutions?
+
+> **Data Inconsistency**  
+> **Solution:** Implement data validation rules, use transformation scripts for standardization.  
+
+> **Data Volume Handling**  
+> **Solution:** Use partitioning, parallel processing, and batch processing.  
+
+> **Data Quality Issues**  
+> **Solution:** Apply data cleansing techniques like deduplication, error checking, and normalization.  
+
+> **Slow ETL Process**  
+> **Solution:** Optimize SQL queries, use indexing, and employ incremental loading.  
+
+> **Schema Changes**  
+> **Solution:** Use schema evolution frameworks like Apache Avro or Apache Parquet.  
+
+> **Real-time Data Integration**  
+> **Solution:** Implement change data capture (CDC) and event-driven architecture.  
+
+> **Data Latency**  
+> **Solution:** Leverage in-memory processing and stream processing engines (like Apache Kafka).  
+
+> **Resource Management**  
+> **Solution:** Use cloud-based auto-scaling, workload management tools (like Kubernetes).  
+
+> **ETL Monitoring and Error Handling**  
+> **Solution:** Implement automated alerting and logging with centralized monitoring (like ELK stack).  
+
+> **Data Transformation Complexity**  
+> **Solution:** Use modular transformation pipelines, employ SQL UDFs or custom Python functions.  
+
+> **Dependency Management**  
+> **Solution:** Use workflow orchestration tools like Apache Airflow to manage task dependencies.  
+
+> **Data Encryption and Security**  
+> **Solution:** Apply end-to-end encryption, use secure protocols (like SSL/TLS), and implement role-based access control.  
+
+> **Data Duplication**  
+> **Solution:** Use deduplication techniques within transformation scripts, enforce unique constraints.  
+
+> **Handling Unstructured Data**  
+> **Solution:** Use semi-structured formats (JSON, XML) and tools like Apache NiFi for ingestion.  
+
+> **Version Control for ETL Jobs**  
+> **Solution:** Use Git for version control, deploy with CI/CD pipelines.  
+
+> **Poor Documentation**  
+> **Solution:** Automate documentation generation, use metadata management tools.  
+
+> **Data Integration with Multiple Sources**  
+> **Solution:** Use APIs, adapters, and connectors for seamless integration (like Fivetran, Talend).  
+
+> **Fault Tolerance**  
+> **Solution:** Implement checkpointing, retry mechanisms, and fault-tolerant frameworks (like Apache Flink).  
+
+> **Data Governance**  
+> **Solution:** Implement data lineage tracking and auditing tools (like Collibra).  
+
+> **Scalability Issues**  
+> **Solution:** Use distributed computing (like Spark) and cloud-native solutions (like AWS Glue).  
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**  
 
 ---
