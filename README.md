@@ -6,6 +6,7 @@
 
 | No. | Questions |
 | --- | --------- |
+| 91 | [What is deliverability testing?](#what-is-deliverability-testing) |  
 | 90 | [What is negative testing?](#what-is-negative-testing) |  
 | 89 | [What is frontend testing?](#what-is-frontend-testing) |  
 | 88 | [What is database testing?](#what-is-database-testing) |  
@@ -96,6 +97,18 @@
 | 71 | [How can logs be efficiently managed when time is limited?](#how-can-logs-be-efficiently-managed-when-time-is-limited) |  
 | 73 | [What is the importance of frontend and backend testing in application development?](#what-is-the-importance-of-frontend-and-backend-testing-in-application-development) |  
 | 80 | [How do Unix command-line tools assist in data processing?](#how-do-unix-command-line-tools-assist-in-data-processing) |  
+
+---
+
+## What is deliverability testing?
+
+> **Deliverability testing ensures that emails successfully reach recipients' inboxes without being flagged as spam or facing delivery issues. It involves:**  
+>  
+> - Spam Filter Testing: Checks if emails pass through spam filters.  
+> - Inbox Placement: Verifies whether emails land in the primary inbox or junk folder.  
+> - Content Quality Check: Ensures email content meets deliverability standards (e.g., no broken links or blocked images).  
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
 ---
 
