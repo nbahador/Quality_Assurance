@@ -46,56 +46,35 @@
 
 ## What is the bug triage process and how is it carried out?
 
-The bug triage process involves the following steps:
+> **The bug triage process involves the following steps:**  
+>  
+> - Evaluating bug severity and impact.  
+> - Categorizing issues as Critical, Major, or Minor.  
+> - Prioritizing based on customer impact and business risk.  
 
-1. **Evaluating bug severity and impact**:
-   - Assessing the severity and the effect of the bug on the system and users.
+> **The process also includes:**  
+>  
+> - Working closely with developers for root cause analysis.  
+> - Collaborating to identify underlying issues.  
+> - Estimating fix times based on complexity and resources.  
 
-2. **Categorizing issues as Critical, Major, or Minor**:
-   - Classifying bugs based on their impact level.
+> **Additional steps involve:**  
+>  
+> - Reproducing issues in multiple environments.  
+> - Testing on varied platforms and browsers.  
+> - Verifying reproducibility and capturing detailed logs.  
 
-3. **Prioritizing based on customer impact and business risk**:
-   - Focusing on issues that affect customers or the business the most.
+> **Clear bug documentation is maintained by:**  
+>  
+> - Including reproducible steps, error logs, and screenshots.  
+> - Ensuring clarity to speed up developer resolution.  
 
-The process also includes:
+> **Lastly, bug reports are managed in Jira by:**  
+>  
+> - Creating detailed bug tickets with priority tags.  
+> - Tracking status and providing timely updates to stakeholders.  
 
-4. **Working closely with developers for root cause analysis**:
-   - Collaborating with developers to identify the cause of the bug.
-
-5. **Collaborating to identify underlying issues**:
-   - Identifying if the bug is part of a larger issue or a symptom of something else.
-
-6. **Estimating fix times based on complexity and resources**:
-   - Assessing how long it will take to fix the bug based on its complexity.
-
-Additional steps involve:
-
-7. **Reproducing issues in multiple environments**:
-   - Testing the bug in different environments to ensure it can be reproduced consistently.
-
-8. **Testing on varied platforms and browsers**:
-   - Checking the bug's behavior across different platforms and browsers for consistency.
-
-9. **Verifying reproducibility and capturing detailed logs**:
-   - Ensuring the issue can be consistently reproduced and documenting the process with logs.
-
-Clear bug documentation is maintained by:
-
-10. **Including reproducible steps, error logs, and screenshots**:
-    - Documenting the bug thoroughly to aid developers in fixing it faster.
-
-11. **Ensuring clarity to speed up developer resolution**:
-    - Providing clear instructions and information so developers can quickly resolve the issue.
-
-Lastly, bug reports are managed in Jira by:
-
-12. **Creating detailed bug tickets with priority tags**:
-    - Ensuring tickets contain all necessary information and are tagged appropriately for prioritization.
-
-13. **Tracking status and providing timely updates to stakeholders**:
-    - Keeping stakeholders informed on the status and progress of bug resolution.
-
-**[ Back to the question in the Table ⬆ ](#table-of-contents)**
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**  
 
 ---
 
