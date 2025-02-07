@@ -6,6 +6,7 @@
 
 | No. | Questions |
 | --- | --------- |
+| 72 | [What are common test operations in data validation?](#what-are-common-test-operations-in-data-validation) |  
 | 70 | [What should be included in test reports for analysis?](#what-should-be-included-in-test-reports-for-analysis) |  
 | 69 | [What is fault tolerance in a system?](#what-is-fault-tolerance-in-a-system) |  
 | 68 | [What is refactoring in software development?](#what-is-refactoring-in-software-development) |  
@@ -77,6 +78,24 @@
 | 65 | [What would you do if asked to write test cases based on requirements provided?](#what-would-you-do-if-asked-to-write-test-cases-based-on-requirements-provided) |  
 | 66 | [What are the steps in a bug lifecycle?](#what-are-the-steps-in-a-bug-lifecycle) |  
 | 71 | [How can logs be efficiently managed when time is limited?](#how-can-logs-be-efficiently-managed-when-time-is-limited) |  
+
+---
+
+## What are common test operations in data validation?
+
+> **Common test operations in data validation include:**
+> 
+> - **COUNT:** Counts all values in a field.
+> - **COUNT DISTINCT:** Counts only unique values.
+> - **COUNT ROWS:** Counts all rows.
+> - **MIN:** Finds the lowest value in a field.
+> - **MAX:** Finds the highest value in a field.
+> - **AVERAGE:** Calculates the average value.
+> - **SUM:** Adds up all values.
+> 
+> These operations help validate data quality, such as ensuring there are more than 1,000 rows or checking if a sum falls within a specific range.
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
 ---
 
