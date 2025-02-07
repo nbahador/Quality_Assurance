@@ -25,7 +25,7 @@
 > HAVING COUNT(*) > 1;
 > ```
 
-**[ Back to the question in the Table <span style="color:green;">⬆</span> ](#table-of-contents)**
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
 ---
 
@@ -44,4 +44,4 @@
 > SELECT * FROM TableB MINUS SELECT * FROM TableA;
 > ```
 
-**[ Back to the question in the Table <span style="color:green;">⬆</span> ](#table-of-contents)**
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
