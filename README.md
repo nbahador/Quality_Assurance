@@ -10,6 +10,7 @@
 | 2 | [How can duplicates be identified in a database table using SQL?](#how-can-duplicates-be-identified-in-a-database-table-using-sql) |
 | 3 | [How can you load a CSV table into a database?](#how-can-you-load-a-csv-table-into-a-database) |
 | 4 | [How can I find records that are present in one table but not in another using SQL?](#how-can-i-find-records-that-are-present-in-one-table-but-not-in-another-using-sql) |
+| 5 | [How can you compare flat files and tables using the Linux command line?](#how-can-you-compare-flat-files-and-tables-using-the-linux-command-line) |
 
 ---
 
@@ -82,21 +83,24 @@
 
 **[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
----
+## How can you compare flat files and tables using the Linux command line?
 
-## How can you compare database data with extracted CSV data using command-line tools?
-
-> **To compare data from a database and a CSV file:**
+> **To compare flat files and tables:**
 > 
-> - **Extract data** from the database to a CSV file.
-> - Use **diff** (a command-line tool in Linux) to compare the two files.
+> - **Extract data** from both the database and the flat file in the same format (e.g., CSV).
+> - Use **diff**, a Linux command, to compare the two files.
 > 
 > ### Example Command:
 > ```bash
-> diff database_data.csv extracted_data.csv
+> diff extracted_file.csv flat_file.csv
 > ```
 
 **[ Back to the question in the Table ⬆ ](#table-of-contents)**
+
+
+---
+
+
 
 ---
 
