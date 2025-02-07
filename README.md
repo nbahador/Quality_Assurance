@@ -6,6 +6,7 @@
 
 | No. | Questions |
 | --- | --------- |
+| 74 | [How do failed network requests impact an application?](#how-do-failed-network-requests-impact-an-application) |  
 | 72 | [What are common test operations in data validation?](#what-are-common-test-operations-in-data-validation) |  
 | 70 | [What should be included in test reports for analysis?](#what-should-be-included-in-test-reports-for-analysis) |  
 | 69 | [What is fault tolerance in a system?](#what-is-fault-tolerance-in-a-system) |  
@@ -79,6 +80,20 @@
 | 66 | [What are the steps in a bug lifecycle?](#what-are-the-steps-in-a-bug-lifecycle) |  
 | 71 | [How can logs be efficiently managed when time is limited?](#how-can-logs-be-efficiently-managed-when-time-is-limited) |  
 | 73 | [What is the importance of frontend and backend testing in application development?](#what-is-the-importance-of-frontend-and-backend-testing-in-application-development) |  
+
+---
+
+## How do failed network requests impact an application?
+
+> **Impact of failed network requests:**
+> 
+> - Prevent data retrieval, leading to missing or outdated information.
+> - Degrade user experience by causing delays, broken UI components, or incomplete pages.
+> - Cause application failures if error handling mechanisms are not in place.
+> 
+> Implementing robust error handling and retry mechanisms can mitigate these issues.
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
 ---
 
