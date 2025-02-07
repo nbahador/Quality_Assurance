@@ -6,6 +6,7 @@
 
 | No. | Questions |
 | --- | --------- |
+| 82 | [What is the purpose of Cogito SQL in reporting?](#what-is-the-purpose-of-cogito-sql-in-reporting) |  
 | 81 | [How does MongoDB differ from relational databases?](#how-does-mongodb-differ-from-relational-databases) |  
 | 79 | [What role does ETL play in data processing?](#what-role-does-etl-play-in-data-processing) |  
 | 78 | [What are common UI issues in web applications?](#what-are-common-ui-issues-in-web-applications) |  
@@ -87,6 +88,19 @@
 | 71 | [How can logs be efficiently managed when time is limited?](#how-can-logs-be-efficiently-managed-when-time-is-limited) |  
 | 73 | [What is the importance of frontend and backend testing in application development?](#what-is-the-importance-of-frontend-and-backend-testing-in-application-development) |  
 | 80 | [How do Unix command-line tools assist in data processing?](#how-do-unix-command-line-tools-assist-in-data-processing) |  
+
+---
+
+## What is the purpose of Cogito SQL in reporting?
+
+> **Cogito SQL helps in reporting by:**
+> 
+> - Retrieving structured data from databases using predefined query templates.
+> - Automating report generation with consistent and reusable SQL queries.
+> - Enhancing data analysis by filtering, aggregating, and formatting results efficiently.
+> - Supporting business intelligence by providing structured insights from large datasets.
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
 ---
 
