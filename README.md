@@ -6,6 +6,7 @@
 
 | No. | Questions |
 | --- | --------- |
+| 20 | [As a first QA, what would you do?](#as-a-first-qa-what-would-you-do) |
 | 19 | [If you need to start automation from scratch, what would your steps and processes be?](#if-you-need-to-start-automation-from-scratch-what-would-your-steps-and-processes-be) |
 | 18 | [What’s the difference between a test case and a bug report, and how do you write a good bug report?](#whats-the-difference-between-a-test-case-and-a-bug-report-and-how-do-you-write-a-good-bug-report) |
 | 17 | [What is the difference between a good test case and a bad test case?](#what-is-the-difference-between-a-good-test-case-and-a-bad-test-case) |
@@ -25,6 +26,27 @@
 | 5 | [How can you compare flat files and tables using the Linux command line?](#how-can-you-compare-flat-files-and-tables-using-the-linux-command-line) |
 | 6 | [What are the key validations for testing ETL target objects structure?](#what-are-the-key-validations-for-testing-etl-target-objects-structure) |
 | 15 | [What are Slowly Changing Dimensions (SCD), and how can they be managed?](#what-are-slowly-changing-dimensions-scd-and-how-can-they-be-managed) |
+
+---
+
+## As a first QA, what would you do?
+
+> **1. Request Documentation:**  
+> The first step is to ask for all available documentation, including design tables and any tickets.
+
+> **2. Meet with Team Members:**  
+> Meet with every team member to understand their perspective on the product, what was built, and what is currently being built.
+
+> **3. Take Responsibility for Code Review:**  
+> Take responsibility for code review.
+
+> **4. Create Basic Test Scenarios:**  
+> When time is limited, create a list of basic test scenarios. These test scenarios should be enough to cover critical functionality.
+
+> **5. Document Test Cases:**  
+> Once the process is more stable, focus on documenting test cases in detail.
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
 ---
 
