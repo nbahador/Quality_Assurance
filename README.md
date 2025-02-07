@@ -6,6 +6,7 @@
 
 | No. | Questions |
 | --- | --------- |
+| 51 | [What is TestGrid and what are its key features?](#what-is-testgrid-and-what-are-its-key-features) |  
 | 50 | [What is the importance of debugging emails and ensuring proper deliverability?](#what-is-the-importance-of-debugging-emails-and-ensuring-proper-deliverability) |  
 | 49 | [How should UI issues be investigated to determine the root cause?](#how-should-ui-issues-be-investigated-to-determine-the-root-cause) |  
 | 48 | [How should issues with the user interface be handled?](#how-should-issues-with-the-user-interface-be-handled) |  
@@ -56,6 +57,26 @@
 | 36 | [What are the common ETL challenges and their solutions?](#what-are-the-common-etl-challenges-and-their-solutions) |  
 | 40 | [What is the difference between functional and nonfunctional testing?](#what-is-the-difference-between-functional-and-nonfunctional-testing) |  
 | 41 | [What are the common challenges faced by QA teams?](#what-are-the-common-challenges-faced-by-qa-teams) |
+
+---
+
+## What is TestGrid and what are its key features?
+
+> **TestGrid** is a tool used to analyze test results, often presented in a grid format. It helps identify patterns and failures over time, making it easier to spot recurring issues. For example, it allows you to see consistently failing tests, flaky tests, and tests that agree or pass frequently.  
+
+### **Key Features of TestGrid:**  
+- **Sorting:** Organize tests based on specific criteria.  
+- **Filtering:** Narrow down tests by selecting what you want to see or exclude.  
+- **Graphing:** Visualize test results through graphs to identify trends.  
+- **Grouping:** Group tests by certain patterns or categories for easy viewing.  
+- **Dashboard Groups:** Organize test results into meaningful groups for easier access.  
+- **Summaries:** Get summarized insights from tests to understand overall performance.  
+- **Clustered Failures:** Identify tests with failures occurring in clusters, making it easier to pinpoint issues.  
+
+> **Why is this important?**  
+> These features allow teams to efficiently track and analyze test results, simplifying test performance evaluation and helping focus on areas that need improvement.  
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**  
 
 ---
 
