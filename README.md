@@ -88,7 +88,7 @@
 > **Combining Sharding and Replication:**
 > - Sharding and replication can be used together. For instance, each shard can have its own replication structure, where reads are offloaded to slave databases, and data is partitioned for scalability.
 > 
-> **Summary:**
+> So
 > - **Replication** improves read performance and fault tolerance.
 > - **Sharding** helps distribute large datasets across multiple servers, enabling horizontal scaling.
 > - **Combining both** techniques enhances both performance and availability.
