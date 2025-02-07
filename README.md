@@ -6,6 +6,7 @@
 
 | No. | Questions |
 | --- | --------- |
+| 85 | [What are boundary validation, range checks, threshold checks, and data truncation in data quality assurance?](#what-are-boundary-validation-range-checks-threshold-checks-and-data-truncation-in-data-quality-assurance) |  
 | 84 | [What are constraint violations in databases, and how do they impact data integrity?](#what-are-constraint-violations-in-databases-and-how-do-they-impact-data-integrity) |  
 | 83 | [What are the different types of testing?](#what-are-the-different-types-of-testing) |  
 | 82 | [What is the purpose of Cogito SQL in reporting?](#what-is-the-purpose-of-cogito-sql-in-reporting) |  
@@ -90,6 +91,19 @@
 | 71 | [How can logs be efficiently managed when time is limited?](#how-can-logs-be-efficiently-managed-when-time-is-limited) |  
 | 73 | [What is the importance of frontend and backend testing in application development?](#what-is-the-importance-of-frontend-and-backend-testing-in-application-development) |  
 | 80 | [How do Unix command-line tools assist in data processing?](#how-do-unix-command-line-tools-assist-in-data-processing) |  
+
+---
+
+## What are boundary validation, range checks, threshold checks, and data truncation in data quality assurance?
+
+> **These techniques ensure data accuracy and prevent errors:**  
+>  
+> - **Boundary Validation:** Verifies input values fall within expected limits.  
+> - **Range Check:** Ensures numeric values stay within a predefined range.  
+> - **Threshold Checks:** Flags values exceeding acceptable thresholds.  
+> - **Data Truncation:** Prevents loss of information by ensuring data fits within storage constraints.  
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
 ---
 
