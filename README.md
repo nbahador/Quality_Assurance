@@ -254,7 +254,7 @@
 
 > **Slowly Changing Dimensions (SCD)** refer to data that does not change frequently, such as a customer’s address or name.
 
-> There are three main types of SCD management:
+> There are three ways of SCD management:
 
 > - **Overwriting Old Data**: Use this when you only need the most recent data and do not need to keep the historical record.
 >   When data changes, the old value is replaced with the new one, with no record of the old value.  
