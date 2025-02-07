@@ -6,6 +6,7 @@
 
 | No. | Questions |
 | --- | --------- |
+| 70 | [What should be included in test reports for analysis?](#what-should-be-included-in-test-reports-for-analysis) |  
 | 69 | [What is fault tolerance in a system?](#what-is-fault-tolerance-in-a-system) |  
 | 68 | [What is refactoring in software development?](#what-is-refactoring-in-software-development) |  
 | 67 | [What should be included in a well-written bug report?](#what-should-be-included-in-a-well-written-bug-report) |  
@@ -75,6 +76,23 @@
 | 62 | [What would you do if you filed a bug and the developer tells you it’s not a bug?](#what-would-you-do-if-you-filed-a-bug-and-the-developer-tells-you-its-not-a-bug) |  
 | 65 | [What would you do if asked to write test cases based on requirements provided?](#what-would-you-do-if-asked-to-write-test-cases-based-on-requirements-provided) |  
 | 66 | [What are the steps in a bug lifecycle?](#what-are-the-steps-in-a-bug-lifecycle) |  
+
+---
+
+## What should be included in test reports for analysis?
+
+> **Test reports for analysis should include both graphical and table formats, showing key metrics such as:**
+> 
+> - Tests Run vs. Tests Passed
+> - Percentage of Tests Passed
+> - Total Rows vs. Percentage of Bad Rows
+> - Validation Failures Report
+> - Bad Rows Report
+> - Failed Tests Report
+> 
+> **Each report provides insights into data quality and helps identify areas needing attention.** For example, the Bad Rows Report details specific records that failed validation, including the Key, Bad Value, and the Test Case that caused the failure.
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
 ---
 
