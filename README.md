@@ -6,6 +6,7 @@
 
 | No. | Questions |
 | --- | --------- |
+| 56 | [What tool can be used to measure performance and load test web applications?](#what-tool-can-be-used-to-measure-performance-and-load-test-web-applications) |  
 | 55 | [What is json-server, and how does it help with API testing?](#what-is-json-server-and-how-does-it-help-with-api-testing) |  
 | 54 | [What are some open-source tools for browser automation, API testing, accessibility, security, and monitoring?](#what-are-some-open-source-tools-for-browser-automation-api-testing-accessibility-security-and-monitoring) |  
 | 53 | [How do database scaling techniques like replication and sharding address performance challenges?](#how-do-database-scaling-techniques-like-replication-and-sharding-address-performance-challenges) |  
@@ -61,6 +62,19 @@
 | 36 | [What are the common ETL challenges and their solutions?](#what-are-the-common-etl-challenges-and-their-solutions) |  
 | 40 | [What is the difference between functional and nonfunctional testing?](#what-is-the-difference-between-functional-and-nonfunctional-testing) |  
 | 41 | [What are the common challenges faced by QA teams?](#what-are-the-common-challenges-faced-by-qa-teams) |
+
+---
+
+## What tool can be used to measure performance and load test web applications?
+
+> **Apache JMeter is a performance testing tool that can load test both static and dynamic web applications.**  
+>  
+> - Simulates heavy traffic to analyze server performance and scalability.  
+> - Supports testing of various protocols, including HTTP, HTTPS, FTP, and databases.  
+> - Provides real-time monitoring and detailed dynamic HTML reports for easy analysis.  
+> - Helps identify performance bottlenecks by measuring response times and system behavior under load.  
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
 ---
 
