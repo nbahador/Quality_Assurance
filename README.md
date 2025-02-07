@@ -1,6 +1,6 @@
 # 🎯 Quality Assurance Interview Questions and Answers 🎯
 
-### Table of Contents - Quality Assurance
+### <a id="table-of-contents"></a>Table of Contents - Quality Assurance
 
 | No. | Questions |
 | --- | --------- |
@@ -25,7 +25,7 @@
 > HAVING COUNT(*) > 1;
 > ```
 
-**[ Back to the question in the Table ⬆ ](#how-can-duplicates-be-identified-in-a-database-table-using-sql)**
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
 ---
 
@@ -44,4 +44,4 @@
 > SELECT * FROM TableB MINUS SELECT * FROM TableA;
 > ```
 
-**[ Back to the question in the Table ⬆ ](#how-can-i-find-records-that-are-present-in-one-table-but-not-in-another-using-sql)**
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
