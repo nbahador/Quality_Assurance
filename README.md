@@ -61,9 +61,9 @@
 > **4. Install Dependencies:** Create a Python virtual environment and install the necessary packages.  
 > **5. Run Metadata Builder:** Add metadata to the database using the relevant command.  
 > **6. Create Indexes:** Improve database performance by creating indexes on important fields (e.g., `patient_id`).  
-> **7. Partition Data:** If needed, partition large tables for better query performance. This links the raw binary data with the metadata.  
+> **7. Partition Data:** If needed, partition large tables for better query performance. This links the raw data with the metadata.  
 
-> **Once the data is loaded, you can use SQL queries to access seizure data, patient information, and binary recordings.**  
+> **Once the data is loaded, you can use SQL queries to access data.**  
 
 > **Additional setup includes:**  
 > - Commands for setting up PostgreSQL and creating the database.  
