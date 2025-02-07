@@ -6,12 +6,28 @@
 
 | No. | Questions |
 | --- | --------- |
-| 1 | [How can duplicates be identified in a database table using SQL?](#how-can-duplicates-be-identified-in-a-database-table-using-sql) |
-| 2 | [How can you load a CSV table into a database?](#how-can-you-load-a-csv-table-into-a-database) |
-| 3 | [How can I find records that are present in one table but not in another using SQL?](#how-can-i-find-records-that-are-present-in-one-table-but-not-in-another-using-sql) |
+| 1 | [How can you compare database data with extracted CSV data using command-line tools?](#how-can-you-compare-database-data-with-extracted-csv-data-using-command-line-tools) |
+| 2 | [How can duplicates be identified in a database table using SQL?](#how-can-duplicates-be-identified-in-a-database-table-using-sql) |
+| 3 | [How can you load a CSV table into a database?](#how-can-you-load-a-csv-table-into-a-database) |
+| 4 | [How can I find records that are present in one table but not in another using SQL?](#how-can-i-find-records-that-are-present-in-one-table-but-not-in-another-using-sql) |
 
 ---
 
+## How can you compare database data with extracted CSV data using command-line tools?
+
+> **To compare data from a database and a CSV file:**
+> 
+> - **Extract data** from the database to a CSV file.
+> - Use **diff** (a command-line tool in Linux) to compare the two files.
+> 
+> ### Example Command:
+> ```bash
+> diff database_data.csv extracted_data.csv
+> ```
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
+
+---
 ## How can duplicates be identified in a database table using SQL?
 
 > **To identify duplicates in a database table:**
@@ -65,3 +81,22 @@
 > ```
 
 **[ Back to the question in the Table ⬆ ](#table-of-contents)**
+
+---
+
+## How can you compare database data with extracted CSV data using command-line tools?
+
+> **To compare data from a database and a CSV file:**
+> 
+> - **Extract data** from the database to a CSV file.
+> - Use **diff** (a command-line tool in Linux) to compare the two files.
+> 
+> ### Example Command:
+> ```bash
+> diff database_data.csv extracted_data.csv
+> ```
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
+
+---
+
