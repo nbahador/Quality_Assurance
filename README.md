@@ -6,6 +6,7 @@
 
 | No. | Questions |
 | --- | --------- |
+| 63 | [What is the difference between smoke, sanity, regression, and other types of testing?](#what-is-the-difference-between-smoke-sanity-regression-and-other-types-of-testing) |  
 | 61 | [What are the common HTTP methods used for retrieving, creating, and updating resources?](#what-are-the-common-http-methods-used-for-retrieving-creating-and-updating-resources) |  
 | 60 | [What is the Red-Green-Refactor cycle in Test-Driven Development (TDD)?](#what-is-the-red-green-refactor-cycle-in-test-driven-development-tdd) |  
 | 59 | [What steps do you follow when testing a database to ensure data accuracy and integrity?](#what-steps-do-you-follow-when-testing-a-database-to-ensure-data-accuracy-and-integrity) |  
@@ -68,6 +69,19 @@
 | 40 | [What is the difference between functional and nonfunctional testing?](#what-is-the-difference-between-functional-and-nonfunctional-testing) |  
 | 41 | [What are the common challenges faced by QA teams?](#what-are-the-common-challenges-faced-by-qa-teams) |
 | 62 | [What would you do if you filed a bug and the developer tells you it’s not a bug?](#what-would-you-do-if-you-filed-a-bug-and-the-developer-tells-you-its-not-a-bug) |  
+
+---
+
+## What is the difference between smoke, sanity, regression, and other types of testing?
+
+> **The key differences between testing types:**
+>  
+> - **Smoke Testing:** Verifies the basic functionality of a build to ensure that it’s stable enough for further testing.
+> - **Sanity Testing:** Checks if the new changes or fixes are working as expected without causing other issues.
+> - **Regression Testing:** Ensures that new code doesn’t break any existing functionality.
+> - **End-to-End Testing:** Covers the entire application flow, from start to finish, to ensure the system works as a whole.
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
 ---
 
