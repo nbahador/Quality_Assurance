@@ -85,6 +85,7 @@
 | 66 | [What are the steps in a bug lifecycle?](#what-are-the-steps-in-a-bug-lifecycle) |  
 | 71 | [How can logs be efficiently managed when time is limited?](#how-can-logs-be-efficiently-managed-when-time-is-limited) |  
 | 73 | [What is the importance of frontend and backend testing in application development?](#what-is-the-importance-of-frontend-and-backend-testing-in-application-development) |  
+| 80 | [How do Unix command-line tools assist in data processing?](#how-do-unix-command-line-tools-assist-in-data-processing) |  
 
 ---
 
@@ -1554,6 +1555,19 @@ So when a UI defect occurs, you should:
 > - **Backend testing** validates data integrity, system security, and overall functionality to prevent critical failures.
 > 
 > Together, they ensure the application is both user-friendly and robust.
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
+
+---
+
+## How do Unix command-line tools assist in data processing?
+
+> **Unix command-line tools assist in data processing by:**
+> 
+> - Using `awk` for pattern scanning and processing.
+> - Utilizing `grep` to filter and search through text efficiently.
+> - Applying `sed` for stream editing and text transformation.
+> - Automating repetitive data processing tasks with minimal overhead.
 
 **[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
