@@ -6,6 +6,7 @@
 
 | No. | Questions |
 | --- | --------- |
+| 96 | [What is a traceable record?](#what-is-a-traceable-record) |  
 | 95 | [What is an integrity rule in database management?](#what-is-an-integrity-rule-in-database-management) |  
 | 94 | [What is source-target reconciliation in data validation?](#what-is-source-target-reconciliation-in-data-validation) |  
 | 93 | [Why are email notifications for success and failure important in automated systems?](#why-are-email-notifications-for-success-and-failure-important-in-automated-systems) |  
@@ -100,6 +101,18 @@
 | 71 | [How can logs be efficiently managed when time is limited?](#how-can-logs-be-efficiently-managed-when-time-is-limited) |  
 | 73 | [What is the importance of frontend and backend testing in application development?](#what-is-the-importance-of-frontend-and-backend-testing-in-application-development) |  
 | 80 | [How do Unix command-line tools assist in data processing?](#how-do-unix-command-line-tools-assist-in-data-processing) |  
+
+---
+
+## What is a traceable record?
+
+> **A traceable record maintains a verifiable history of data changes, ensuring transparency and accountability. It is important for:**  
+>  
+> - **Audit Trails:** Tracking modifications for compliance and security.  
+> - **Data Integrity:** Ensuring accuracy by recording updates and deletions.  
+> - **Regulatory Compliance:** Meeting industry standards for record-keeping.  
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
 ---
 
