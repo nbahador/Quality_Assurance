@@ -6,6 +6,7 @@
 
 | No. | Questions |
 | --- | --------- |
+| 55 | [What is json-server, and how does it help with API testing?](#what-is-json-server-and-how-does-it-help-with-api-testing) |  
 | 54 | [What are some open-source tools for browser automation, API testing, accessibility, security, and monitoring?](#what-are-some-open-source-tools-for-browser-automation-api-testing-accessibility-security-and-monitoring) |  
 | 53 | [How do database scaling techniques like replication and sharding address performance challenges?](#how-do-database-scaling-techniques-like-replication-and-sharding-address-performance-challenges) |  
 | 52 | [How does GitHub Actions automate workflows?](#how-does-github-actions-automate-workflows) |  
@@ -60,6 +61,19 @@
 | 36 | [What are the common ETL challenges and their solutions?](#what-are-the-common-etl-challenges-and-their-solutions) |  
 | 40 | [What is the difference between functional and nonfunctional testing?](#what-is-the-difference-between-functional-and-nonfunctional-testing) |  
 | 41 | [What are the common challenges faced by QA teams?](#what-are-the-common-challenges-faced-by-qa-teams) |
+
+---
+
+## What is json-server, and how does it help with API testing?
+
+> **json-server is a free tool that allows developers to quickly create a local RESTful API for prototyping and mocking.**  
+>  
+> - It enables frontend developers to test applications without setting up a full backend.  
+> - Supports CRUD operations (Create, Read, Update, Delete) using a simple JSON file.  
+> - Provides a quick and zero-configuration way to test API calls.  
+> - Helps speed up development by simulating an actual backend service.  
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
 ---
 
