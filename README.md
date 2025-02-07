@@ -6,6 +6,7 @@
 
 | No. | Questions |
 | --- | --------- |
+| 21 | [If you have three tasks that are all high priority, how will you decide which task to take on?](#if-you-have-three-tasks-that-are-all-high-priority-how-will-you-decide-which-task-to-take-on) |
 | 20 | [As a first QA, what would you do?](#as-a-first-qa-what-would-you-do) |
 | 19 | [If you need to start automation from scratch, what would your steps and processes be?](#if-you-need-to-start-automation-from-scratch-what-would-your-steps-and-processes-be) |
 | 18 | [What’s the difference between a test case and a bug report, and how do you write a good bug report?](#whats-the-difference-between-a-test-case-and-a-bug-report-and-how-do-you-write-a-good-bug-report) |
@@ -26,6 +27,14 @@
 | 5 | [How can you compare flat files and tables using the Linux command line?](#how-can-you-compare-flat-files-and-tables-using-the-linux-command-line) |
 | 6 | [What are the key validations for testing ETL target objects structure?](#what-are-the-key-validations-for-testing-etl-target-objects-structure) |
 | 15 | [What are Slowly Changing Dimensions (SCD), and how can they be managed?](#what-are-slowly-changing-dimensions-scd-and-how-can-they-be-managed) |
+
+---
+
+## If you have three tasks that are all high priority, how will you decide which task to take on?
+
+> Whatever it takes, if they're all high priority, they’ve got to be tested, and as the QA engineer, I have to find a way to do so. I’d probably delegate some tasks to other team members if I can, and if we’re running short on time or resources, I’d pull in extra help to make sure everything gets done. So, I will bring more resources from the side.
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
 ---
 
