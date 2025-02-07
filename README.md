@@ -71,6 +71,7 @@
 | 41 | [What are the common challenges faced by QA teams?](#what-are-the-common-challenges-faced-by-qa-teams) |
 | 62 | [What would you do if you filed a bug and the developer tells you it’s not a bug?](#what-would-you-do-if-you-filed-a-bug-and-the-developer-tells-you-its-not-a-bug) |  
 | 65 | [What would you do if asked to write test cases based on requirements provided?](#what-would-you-do-if-asked-to-write-test-cases-based-on-requirements-provided) |  
+| 66 | [What are the steps in a bug lifecycle?](#what-are-the-steps-in-a-bug-lifecycle) |  
 
 ---
 
@@ -1348,4 +1349,19 @@ So when a UI defect occurs, you should:
 **[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
 ---
+
+## What are the steps in a bug lifecycle?
+
+> **The typical steps in a bug lifecycle:**
+> 
+> - **New:** The bug is identified and reported.
+> - **Assigned:** A developer takes ownership of fixing the bug.
+> - **Resolved:** The developer fixes the issue.
+> - **Verified:** QA tests the fix to ensure it works.
+> - **Closed:** If the issue is resolved, the bug is closed. If not, it's reopened for further investigation.
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
+
+---
+
 
