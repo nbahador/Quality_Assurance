@@ -6,6 +6,7 @@
 
 | No. | Questions |
 | --- | --------- |
+| 50 | [What is the importance of debugging emails and ensuring proper deliverability?](#what-is-the-importance-of-debugging-emails-and-ensuring-proper-deliverability) |  
 | 49 | [How should UI issues be investigated to determine the root cause?](#how-should-ui-issues-be-investigated-to-determine-the-root-cause) |  
 | 48 | [How should issues with the user interface be handled?](#how-should-issues-with-the-user-interface-be-handled) |  
 | 47 | [How should failures be monitored over time during testing?](#how-should-failures-be-monitored-over-time-during-testing) |  
@@ -55,6 +56,25 @@
 | 36 | [What are the common ETL challenges and their solutions?](#what-are-the-common-etl-challenges-and-their-solutions) |  
 | 40 | [What is the difference between functional and nonfunctional testing?](#what-is-the-difference-between-functional-and-nonfunctional-testing) |  
 | 41 | [What are the common challenges faced by QA teams?](#what-are-the-common-challenges-faced-by-qa-teams) |
+
+---
+
+## What is the importance of debugging emails and ensuring proper deliverability?
+
+> Debugging emails is the responsibility of the dev/QA team. Not all email clients support HTML and CSS in the same way, meaning certain clients, like Outlook or Gmail app for non-Google accounts, might not render background images or may display emails incorrectly. This can result in a poor user experience (UX), with the email appearing clipped, with a shifted layout, unresponsive, or containing unsupported content, which can discourage customers from returning.  
+
+### **Key Factors in Email Debugging:**
+- **Ensuring a high deliverability rate:** Measures factors like spam reports, user interactions, and bounce rates.  
+- **Avoiding spam triggers:** Content should be checked to prevent emails from being flagged as spam.  
+- **Rendering consistency across email clients:** Emails should be tested in multiple clients to ensure proper formatting and readability.  
+- **Testing links and images:** Ensure all embedded links and images work as expected.  
+
+> **Why is this important?**  
+> If a QA or dev team ignores spam checks and deliverability testing, important emails may not reach the end-user, negatively affecting communication and engagement.  
+
+---
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**  
 
 ---
 
