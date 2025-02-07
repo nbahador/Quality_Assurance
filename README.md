@@ -6,6 +6,7 @@
 
 | No. | Questions |
 | --- | --------- |
+| 19 | [If you need to start automation from scratch, what would your steps and processes be?](#if-you-need-to-start-automation-from-scratch-what-would-your-steps-and-processes-be) |
 | 18 | [What’s the difference between a test case and a bug report, and how do you write a good bug report?](#whats-the-difference-between-a-test-case-and-a-bug-report-and-how-do-you-write-a-good-bug-report) |
 | 17 | [What is the difference between a good test case and a bad test case?](#what-is-the-difference-between-a-good-test-case-and-a-bad-test-case) |
 | 16 | [Why should tasks be automated?](#why-should-tasks-be-automated) |
@@ -24,6 +25,36 @@
 | 5 | [How can you compare flat files and tables using the Linux command line?](#how-can-you-compare-flat-files-and-tables-using-the-linux-command-line) |
 | 6 | [What are the key validations for testing ETL target objects structure?](#what-are-the-key-validations-for-testing-etl-target-objects-structure) |
 | 15 | [What are Slowly Changing Dimensions (SCD), and how can they be managed?](#what-are-slowly-changing-dimensions-scd-and-how-can-they-be-managed) |
+
+---
+
+## If you need to start automation from scratch, what would your steps and processes be?
+
+> **1. Resource Assessment:**
+> - The first step is to assess the resources available to build automation. This involves understanding the size of the team, their skill sets, and any existing tools or infrastructure in place.
+> - Decide on the tools and frameworks to use: Is there a need to invest in new tools? What’s the budget for cloud services (e.g., AWS, Azure) or CI/CD tools (e.g., Jenkins, GitLab)?
+
+> **2. Timeline Consideration:**
+> - Consider the timeline and urgency of automation. If it's urgent, prioritize quick-to-implement solutions, even if they’re less scalable. Choose frameworks that integrate well with the current tech stack.
+> - If there’s more time, aim for more robust, scalable frameworks that align with long-term goals.
+
+> **3. Requirement Analysis:**
+> - Analyze the requirements by understanding what needs to be automated and how existing processes are structured.
+> - Evaluate current automation frameworks or tools, and assess whether they need to be integrated or migrated.
+
+> **4. Scope of Automation:**
+> - Assess which areas of the application or business processes should be automated first. Focus on areas that are repetitive, error-prone, and high-value. 
+> - Prioritize based on the needs of the project and business.
+
+> **5. Detailed Planning:**
+> - Create a detailed plan for each phase of automation, which includes setting up environments, writing test cases/scripts, and ensuring proper integration with the development pipeline.
+> - Plan for continuous feedback and improvement since automation requires regular updates and maintenance.
+
+> **6. Monitoring and Reporting Framework:**
+> - Establish a monitoring and reporting framework to track the success and failure of automated tasks.
+> - Implement monitoring tools, dashboards, and alerting mechanisms to identify and address issues quickly.
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
 ---
 
@@ -312,4 +343,3 @@
 
 **[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
----
