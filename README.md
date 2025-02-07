@@ -6,6 +6,7 @@
 
 | No. | Questions |
 | --- | --------- |
+| 78 | [What are common UI issues in web applications?](#what-are-common-ui-issues-in-web-applications) |  
 | 77 | [Why is regression testing crucial in software development?](#why-is-regression-testing-crucial-in-software-development) |  
 | 76 | [How does workflow validation improve process execution?](#how-does-workflow-validation-improve-process-execution) |  
 | 75 | [What factors affect email deliverability and user experience?](#what-factors-affect-email-deliverability-and-user-experience) |  
@@ -83,6 +84,21 @@
 | 66 | [What are the steps in a bug lifecycle?](#what-are-the-steps-in-a-bug-lifecycle) |  
 | 71 | [How can logs be efficiently managed when time is limited?](#how-can-logs-be-efficiently-managed-when-time-is-limited) |  
 | 73 | [What is the importance of frontend and backend testing in application development?](#what-is-the-importance-of-frontend-and-backend-testing-in-application-development) |  
+
+---
+
+## What are common UI issues in web applications?
+
+> **Common UI issues include:**
+> 
+> - **Broken Links:** Links that do not navigate to the correct destination.
+> - **Missing Attachments:** Files or images failing to load.
+> - **Unresponsive Hover Effects:** Elements that do not respond to user interactions.
+> - **Misaligned UI Elements:** Components that appear incorrectly positioned on different screen sizes.
+
+> Identifying and fixing these issues enhances user experience and accessibility.
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
 ---
 
