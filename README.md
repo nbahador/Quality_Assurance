@@ -11,6 +11,7 @@
 | 2 | [How can duplicates be identified in a database table using SQL?](#how-can-duplicates-be-identified-in-a-database-table-using-sql) |
 | 3 | [How can you load a CSV table into a database?](#how-can-you-load-a-csv-table-into-a-database) |
 | 4 | [How can I find records that are present in one table but not in another using SQL?](#how-can-i-find-records-that-are-present-in-one-table-but-not-in-another-using-sql) |
+| 8 | [What are the key aspects of target data completeness testing?](#what-are-the-key-aspects-of-target-data-completeness-testing) |
 | 5 | [How can you compare flat files and tables using the Linux command line?](#how-can-you-compare-flat-files-and-tables-using-the-linux-command-line) |
 | 6 | [What are the key validations for testing ETL target objects structure?](#what-are-the-key-validations-for-testing-etl-target-objects-structure) |
 
@@ -98,6 +99,20 @@
 > UNION ALL
 > SELECT * FROM TableB MINUS SELECT * FROM TableA;
 > ```
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
+
+---
+
+## What are the key aspects of target data completeness testing?
+
+> **Key aspects of target data completeness testing:**
+> 
+> - **Validate that all expected source data has been successfully loaded to the target**: Ensure all data from the source system is captured and loaded into the target.
+> - **Perform records reconciliation between source and target (record counts)**: Compare the number of records in the source and target to ensure they match.
+> - **Investigate and analyze rejected records**: Examine any records that were rejected during the ETL process to identify potential issues.
+> - **Verify the presence of duplicate records**: Check that there are no unexpected duplicates in the target data.
+> - **Check data referential integrity**: Ensure that primary and foreign key relationships are intact, and validate the format of natural keys.
 
 **[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
