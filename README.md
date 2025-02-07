@@ -6,6 +6,7 @@
 
 | No. | Questions |
 | --- | --------- |
+| 99 | [What are environment details in testing?](#what-are-environment-details-in-testing) |  
 | 98 | [What is the difference between expected and actual results in software testing?](#what-is-the-difference-between-expected-and-actual-results-in-software-testing) | 
 | 97 | [What are positive and negative testing?](#what-are-positive-and-negative-testing) |  
 | 96 | [What is a traceable record?](#what-is-a-traceable-record) |  
@@ -103,6 +104,19 @@
 | 71 | [How can logs be efficiently managed when time is limited?](#how-can-logs-be-efficiently-managed-when-time-is-limited) |  
 | 73 | [What is the importance of frontend and backend testing in application development?](#what-is-the-importance-of-frontend-and-backend-testing-in-application-development) |  
 | 80 | [How do Unix command-line tools assist in data processing?](#how-do-unix-command-line-tools-assist-in-data-processing) |  
+
+---
+
+## What are environment details in testing?
+
+> **Environment details in testing** refer to the specific configurations and settings of the hardware, software, and network where the application is tested. This includes:
+> 
+> - Operating system
+> - Browsers or devices
+> - Database versions
+> - Network configurations
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
 ---
 
