@@ -6,6 +6,7 @@
 
 | No. | Questions |
 | --- | --------- |
+| 57 | [What is the difference between functional and non-functional testing in database testing?](#what-is-the-difference-between-functional-and-non-functional-testing-in-database-testing) |
 | 56 | [What tool can be used to measure performance and load test web applications?](#what-tool-can-be-used-to-measure-performance-and-load-test-web-applications) |  
 | 55 | [What is json-server, and how does it help with API testing?](#what-is-json-server-and-how-does-it-help-with-api-testing) |  
 | 54 | [What are some open-source tools for browser automation, API testing, accessibility, security, and monitoring?](#what-are-some-open-source-tools-for-browser-automation-api-testing-accessibility-security-and-monitoring) |  
@@ -62,6 +63,19 @@
 | 36 | [What are the common ETL challenges and their solutions?](#what-are-the-common-etl-challenges-and-their-solutions) |  
 | 40 | [What is the difference between functional and nonfunctional testing?](#what-is-the-difference-between-functional-and-nonfunctional-testing) |  
 | 41 | [What are the common challenges faced by QA teams?](#what-are-the-common-challenges-faced-by-qa-teams) |
+
+---
+
+## What is the difference between functional and non-functional testing in database testing?
+
+> **Functional vs. Non-Functional Testing in Database Testing:**  
+>  
+> - **Functional Testing:** Ensures the database correctly performs operations like CRUD (Create, Read, Update, Delete).  
+>   - Example: Verifying that an e-commerce database correctly processes orders and updates inventory.  
+> - **Non-Functional Testing:** Evaluates performance, scalability, security, and reliability.  
+>   - Example: Testing if the database can handle peak traffic during a holiday sale without crashing.  
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
 ---
 
