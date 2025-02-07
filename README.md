@@ -1,4 +1,6 @@
-# 🎯 Quality Assurance Interview Questions and Answers 🎯
+<h1 style="border: 2px solid #000; padding: 10px; text-align: center;">
+  Quality Assurance Interview Questions and Answers
+</h1>
 
 ### <a id="table-of-contents"></a>Table of Contents - Quality Assurance
 
