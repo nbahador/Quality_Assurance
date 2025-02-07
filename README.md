@@ -70,6 +70,7 @@
 | 40 | [What is the difference between functional and nonfunctional testing?](#what-is-the-difference-between-functional-and-nonfunctional-testing) |  
 | 41 | [What are the common challenges faced by QA teams?](#what-are-the-common-challenges-faced-by-qa-teams) |
 | 62 | [What would you do if you filed a bug and the developer tells you it’s not a bug?](#what-would-you-do-if-you-filed-a-bug-and-the-developer-tells-you-its-not-a-bug) |  
+| 65 | [What would you do if asked to write test cases based on requirements provided?](#what-would-you-do-if-asked-to-write-test-cases-based-on-requirements-provided) |  
 
 ---
 
@@ -1331,6 +1332,18 @@ So when a UI defect occurs, you should:
 > - Review the original requirements or specifications to see if there's any documentation or user story that contradicts their reasoning. Suggest revisiting it together if necessary.
 > - Present new data, logs, or examples to clarify the issue, as more context can help highlight why it might be a bug.
 > - If there’s still no consensus, especially for a critical issue, escalate it to a manager, product owner, or lead for a third-party perspective.
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
+
+---
+
+## What would you do if asked to write test cases based on requirements provided?
+
+> **Steps to writing test cases based on provided requirements:**
+>  
+> - **Review Requirements:** Carefully go through the provided requirements to understand the expected functionality.
+> - **Break Down Functional Scenarios:** Identify test scenarios based on functional requirements.
+> - **Write Test Cases:** Create detailed test cases covering both positive and negative paths, ensuring edge cases are included for comprehensive testing.
 
 **[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
