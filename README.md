@@ -45,6 +45,7 @@
 | 28 | [What tools do you use for QA and how are they utilized?](#what-tools-do-you-use-for-qa-and-how-are-they-utilized) |
 | 29 | [How did you improve the onboarding process for new employees?](#how-did-you-improve-the-onboarding-process-for-new-employees) |
 | 36 | [What are the common ETL challenges and their solutions?](#what-are-the-common-etl-challenges-and-their-solutions) |  
+| 40 | [What is the difference between functional and nonfunctional testing?](#what-is-the-difference-between-functional-and-nonfunctional-testing) |  
 
 ---
 
@@ -855,3 +856,13 @@
 **[ Back to the question in the Table ⬆ ](#table-of-contents)**  
 
 ---
+
+## What is the difference between functional and nonfunctional testing?
+
+> **Functional Testing:** Verifies key software features meet requirements.  
+> **Nonfunctional Testing:** Tests aspects like load time and performance.  
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**  
+
+---
+
