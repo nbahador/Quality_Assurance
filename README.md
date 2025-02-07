@@ -11,6 +11,7 @@
 | 3 | [How can you load a CSV table into a database?](#how-can-you-load-a-csv-table-into-a-database) |
 | 4 | [How can I find records that are present in one table but not in another using SQL?](#how-can-i-find-records-that-are-present-in-one-table-but-not-in-another-using-sql) |
 | 5 | [How can you compare flat files and tables using the Linux command line?](#how-can-you-compare-flat-files-and-tables-using-the-linux-command-line) |
+| 6 | [What are the key validations for testing ETL target objects structure?](#what-are-the-key-validations-for-testing-etl-target-objects-structure) |
 
 ---
 
@@ -83,6 +84,8 @@
 
 **[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
+---
+
 ## How can you compare flat files and tables using the Linux command line?
 
 > **To compare flat files and tables:**
@@ -97,10 +100,21 @@
 
 **[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
-
 ---
 
+## What are the key validations for testing ETL target objects structure?
 
+> **Key validations for testing ETL target objects structure:**
+> 
+> - **Verify table and column names**: Ensure the table and column names in the target match the expected names.
+> - **Check column data types and lengths**: Confirm that column data types and lengths align with the source data and business requirements.
+> - **Confirm "Not Null" constraints**: Ensure all required columns have the correct "Not Null" constraints applied.
+> - **Validate primary key constraints**: Verify the correct primary key constraints are in place for ensuring uniqueness.
+> - **Ensure foreign key constraints**: Ensure foreign key constraints are correctly implemented to maintain data relationships.
+> - **Verify flat file structure**: For flat files, ensure the structure (fields, delimiters) is consistent with the expected format.
+> - **Check all required data elements from the business template**: Confirm that all data elements required by the business are present and correctly mapped.
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
 ---
 
