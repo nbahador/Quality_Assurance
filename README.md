@@ -6,6 +6,7 @@
 
 | No. | Questions |
 | --- | --------- |
+| 79 | [What role does ETL play in data processing?](#what-role-does-etl-play-in-data-processing) |  
 | 78 | [What are common UI issues in web applications?](#what-are-common-ui-issues-in-web-applications) |  
 | 77 | [Why is regression testing crucial in software development?](#why-is-regression-testing-crucial-in-software-development) |  
 | 76 | [How does workflow validation improve process execution?](#how-does-workflow-validation-improve-process-execution) |  
@@ -84,6 +85,20 @@
 | 66 | [What are the steps in a bug lifecycle?](#what-are-the-steps-in-a-bug-lifecycle) |  
 | 71 | [How can logs be efficiently managed when time is limited?](#how-can-logs-be-efficiently-managed-when-time-is-limited) |  
 | 73 | [What is the importance of frontend and backend testing in application development?](#what-is-the-importance-of-frontend-and-backend-testing-in-application-development) |  
+
+---
+
+## What role does ETL play in data processing?
+
+> **ETL (Extract, Transform, Load) plays a critical role in data processing by:**
+> 
+> - **Extracting** data from multiple sources, such as databases, APIs, or flat files.
+> - **Transforming** data through cleaning, validation, and enrichment to ensure consistency.
+> - **Loading** the processed data into a target system, such as a data warehouse, for analysis and reporting.
+
+> ETL ensures that data is structured, accurate, and ready for decision-making.
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
 ---
 
