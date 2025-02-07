@@ -6,6 +6,7 @@
 
 | No. | Questions |
 | --- | --------- |
+| 12 | [What is the purpose of checking ETL logs?](#what-is-the-purpose-of-checking-etl-logs) |
 | 11 | [What is the purpose of testing success/failure emails in a process?](#what-is-the-purpose-of-testing-successfailure-emails-in-a-process) |
 | 10 | [What is the purpose of testing dependencies in workflows?](#what-is-the-purpose-of-testing-dependencies-in-workflows) |
 | 7 | [What are the key aspects of ETL workflow validation?](#what-are-the-key-aspects-of-etl-workflow-validation) |
@@ -17,6 +18,17 @@
 | 8 | [What are the key aspects of Target Data Completeness testing?](#what-are-the-key-aspects-of-target-data-completeness-testing) |
 | 5 | [How can you compare flat files and tables using the Linux command line?](#how-can-you-compare-flat-files-and-tables-using-the-linux-command-line) |
 | 6 | [What are the key validations for testing ETL target objects structure?](#what-are-the-key-validations-for-testing-etl-target-objects-structure) |
+
+---
+
+## What is the purpose of checking ETL logs?
+
+> **The purpose of checking ETL logs:**
+> 
+> - To review the logs and ensure no errors occurred during the ETL process.
+> - For example, checking for any failed rows, missing data, or unexpected issues that might have occurred during the load.
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
 ---
 
