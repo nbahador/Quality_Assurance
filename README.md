@@ -6,6 +6,7 @@
 
 | No. | Questions |
 | --- | --------- |
+| 90 | [What is negative testing?](#what-is-negative-testing) |  
 | 89 | [What is frontend testing?](#what-is-frontend-testing) |  
 | 88 | [What is database testing?](#what-is-database-testing) |  
 | 87 | [What are test artifacts in software testing?](#what-are-test-artifacts-in-software-testing) |  
@@ -95,6 +96,18 @@
 | 71 | [How can logs be efficiently managed when time is limited?](#how-can-logs-be-efficiently-managed-when-time-is-limited) |  
 | 73 | [What is the importance of frontend and backend testing in application development?](#what-is-the-importance-of-frontend-and-backend-testing-in-application-development) |  
 | 80 | [How do Unix command-line tools assist in data processing?](#how-do-unix-command-line-tools-assist-in-data-processing) |  
+
+---
+
+## What is frontend testing?
+
+> **Frontend testing ensures a smooth and responsive user experience by validating:**  
+>  
+> - **UI Testing:** Checks layout, scaling, and clickable elements.  
+> - **UX Testing:** Evaluates usability, responsiveness, and potential freezing issues.  
+> - **Network & Data Handling:** Verifies API calls, database connectivity, and handles failed network requests.  
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
 ---
 
