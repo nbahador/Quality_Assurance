@@ -6,6 +6,7 @@
 
 | No. | Questions |
 | --- | --------- |
+| 54 | [What are some open-source tools for browser automation, API testing, accessibility, security, and monitoring?](#what-are-some-open-source-tools-for-browser-automation-api-testing-accessibility-security-and-monitoring) |  
 | 53 | [How do database scaling techniques like replication and sharding address performance challenges?](#how-do-database-scaling-techniques-like-replication-and-sharding-address-performance-challenges) |  
 | 52 | [How does GitHub Actions automate workflows?](#how-does-github-actions-automate-workflows) |  
 | 51 | [What is TestGrid and what are its key features?](#what-is-testgrid-and-what-are-its-key-features) |  
@@ -59,6 +60,32 @@
 | 36 | [What are the common ETL challenges and their solutions?](#what-are-the-common-etl-challenges-and-their-solutions) |  
 | 40 | [What is the difference between functional and nonfunctional testing?](#what-is-the-difference-between-functional-and-nonfunctional-testing) |  
 | 41 | [What are the common challenges faced by QA teams?](#what-are-the-common-challenges-faced-by-qa-teams) |
+
+---
+
+## What are some open-source tools for browser automation, API testing, accessibility, security, and monitoring?
+
+> **A variety of open-source tools exist to assist with different aspects of web development and testing. Below are some key tools categorized by their primary function:**  
+> 
+> **Browser Automation:**  
+> - **Playwright** – An open-source tool by Microsoft for automating web browsers, similar to Selenium.
+> 
+> **API Testing:**  
+> - **Newman** – A command-line Collection Runner for Postman that allows running and testing Postman collections from the terminal.
+> 
+> **Web Accessibility Evaluation:**  
+> - **Wave** – A suite of tools that helps evaluate web content for accessibility compliance with WCAG standards.
+> 
+> **Security:**  
+> - **OWASP Top 10** – A widely recognized open-source awareness document listing the top 10 security risks in web applications.
+> 
+> **Monitoring:**  
+> - **Datadog** – An open-source monitoring and analytics platform for infrastructure, applications, and logs.
+> 
+> **Observability:**  
+> - **Grafana** – An open-source tool for visualizing and analyzing metrics from multiple data sources.
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
 ---
 
