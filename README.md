@@ -6,6 +6,7 @@
 
 | No. | Questions |
 | --- | --------- |
+| 45 | [What do test logs include?](#what-do-test-logs-include) |  
 | 44 | [What are the steps involved in setting up a PostgreSQL database for storing data?](#what-are-the-steps-involved-in-setting-up-a-postgresql-database-for-storing-data) |  
 | 43 | [What are triggers in SQL and what is the purpose of the sync changes table?](#what-are-triggers-in-sql-and-what-is-the-purpose-of-the-sync-changes-table) |  
 | 42 | [What does a Test Plan include?](#what-does-a-test-plan-include) |  
@@ -50,6 +51,18 @@
 | 36 | [What are the common ETL challenges and their solutions?](#what-are-the-common-etl-challenges-and-their-solutions) |  
 | 40 | [What is the difference between functional and nonfunctional testing?](#what-is-the-difference-between-functional-and-nonfunctional-testing) |  
 | 41 | [What are the common challenges faced by QA teams?](#what-are-the-common-challenges-faced-by-qa-teams) |
+
+---
+
+## What do test logs include?
+
+> **Test logs include:**  
+> - Details about the bugs  
+> - The issues encountered  
+> - Severity levels  
+> - Steps to reproduce  
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**  
 
 ---
 
