@@ -6,7 +6,7 @@
 
 | No. | Questions |
 | --- | --------- |
-| 31 | [What key information should be included in a test case?](#what-key-information-should-be-included-in-a-test-case) |
+| 31 | [What information should be included in a test case?](#what-information-should-be-included-in-a-test-case) |
 | 30 | [How do you handle bug triage and bug reports?](#how-do-you-handle-bug-triage-and-bug-reports) |
 | 24 | [What to include in a bug report?](#what-to-include-in-a-bug-report) |
 | 23 | [What's included in Jira and how is it used?](#whats-included-in-jira-and-how-is-it-used) |
@@ -40,7 +40,7 @@
 
 ---
 
-## What key information should be included in a test case?
+## What information should be included in a test case?
 
 > **Test Case ID:** Unique identifier for each test case (like TC_001). Helps track and reference test cases efficiently.  
 > **Test Case Title:** Brief description of the test case purpose (like "Login functionality with valid credentials").  
