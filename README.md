@@ -30,29 +30,23 @@
 
 ## If you need to start automation from scratch, what would your steps and processes be?
 
-> **1. Resource Assessment:**
-> - The first step is to assess the resources available to build automation. This involves understanding the size of the team, their skill sets, and any existing tools or infrastructure in place.
-> - Decide on the tools and frameworks to use: Is there a need to invest in new tools? What’s the budget for cloud services (e.g., AWS, Azure) or CI/CD tools (e.g., Jenkins, GitLab)?
+> **1. Resource Assessment:**  
+> The first thing to ask is how many resources are available to start building automation. This means understanding the size of the team, their skill sets, and any existing tools or infrastructure already in place. A solution for which automation tools to use must also be determined. Is there a need to invest in a specific toolset or framework? What is the budget for things like cloud services (AWS, Azure, etc.) or CI/CD tools (like Jenkins, GitLab, etc.)?
 
-> **2. Timeline Consideration:**
-> - Consider the timeline and urgency of automation. If it's urgent, prioritize quick-to-implement solutions, even if they’re less scalable. Choose frameworks that integrate well with the current tech stack.
-> - If there’s more time, aim for more robust, scalable frameworks that align with long-term goals.
+> **2. Timeline Consideration:**  
+> Secondly, it's crucial to consider the timeline: how urgent is the automation need? If the automation is needed quickly, quick-to-implement solutions are likely to be prioritized, even if they aren’t as scalable or sophisticated in the long term. In this case, frameworks that are more accessible or integrate better with the current tech stack may be used. If there’s more time to build out a sustainable solution, the focus can shift to selecting more robust, scalable frameworks that align with future goals.
 
-> **3. Requirement Analysis:**
-> - Analyze the requirements by understanding what needs to be automated and how existing processes are structured.
-> - Evaluate current automation frameworks or tools, and assess whether they need to be integrated or migrated.
+> **3. Requirement Analysis:**  
+> Next, dive into the requirements. What needs to be automated, and how are the existing processes structured? If there’s already some level of automation in place, assess what frameworks or tools have been used before. If automation has been done with other frameworks, it may be necessary to migrate or integrate them into the new approach. This also involves looking at the current tech stack and ensuring compatibility with the tools planned to be used.
 
-> **4. Scope of Automation:**
-> - Assess which areas of the application or business processes should be automated first. Focus on areas that are repetitive, error-prone, and high-value. 
-> - Prioritize based on the needs of the project and business.
+> **4. Scope of Automation:**  
+> After that, assess the scope of automation—deciding which areas of the application or business processes should be automated first. Typically, the most repetitive, error-prone, and high-value areas should be prioritized. Once priorities are set, the automation strategy can be designed.
 
-> **5. Detailed Planning:**
-> - Create a detailed plan for each phase of automation, which includes setting up environments, writing test cases/scripts, and ensuring proper integration with the development pipeline.
-> - Plan for continuous feedback and improvement since automation requires regular updates and maintenance.
+> **5. Detailed Planning:**  
+> Then, focus on creating a detailed plan and timeline for each phase of automation. This involves setting up environments, writing test cases or scripts, and ensuring proper integration with the development pipeline. It's also important to plan for continuous feedback and improvement—automation is not a "set it and forget it" process, so ensuring the automation is maintained and updated regularly is necessary.
 
-> **6. Monitoring and Reporting Framework:**
-> - Establish a monitoring and reporting framework to track the success and failure of automated tasks.
-> - Implement monitoring tools, dashboards, and alerting mechanisms to identify and address issues quickly.
+> **6. Monitoring and Reporting Framework:**  
+> Finally, always have a monitoring and reporting framework in place. Automation is not just about running tests; it's essential to have visibility into the success and failure of automated tasks. Monitoring tools, dashboards, and alerting mechanisms will be crucial to identify issues early and respond quickly.
 
 **[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
