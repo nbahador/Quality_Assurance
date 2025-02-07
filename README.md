@@ -20,6 +20,7 @@
 | 8 | [What are the key aspects of Target Data Completeness testing?](#what-are-the-key-aspects-of-target-data-completeness-testing) |
 | 5 | [How can you compare flat files and tables using the Linux command line?](#how-can-you-compare-flat-files-and-tables-using-the-linux-command-line) |
 | 6 | [What are the key validations for testing ETL target objects structure?](#what-are-the-key-validations-for-testing-etl-target-objects-structure) |
+| 15 | [What are Slowly Changing Dimensions (SCD), and how can they be managed?](#what-are-slowly-changing-dimensions-scd-and-how-can-they-be-managed) |
 
 ---
 
@@ -249,3 +250,26 @@
 
 ---
 
+## What are Slowly Changing Dimensions (SCD), and how can they be managed?
+
+> **Slowly Changing Dimensions (SCD)** refer to data that does not change frequently, such as a customer’s address or name.
+
+> There are three main types of SCD management:
+
+> - **Type 1 (Overwriting Old Data)**: When data changes, the old value is replaced with the new one, with no record of the old value.  
+>   *Example*: If a customer moves, the old address is replaced with the new one, and no trace of the old address remains.
+
+> - **Type 2 (Creating a New Record)**: When data changes, a new record is created, and both the old and new values are stored, often with dates showing when each value was valid.  
+>   *Example*: If a customer moves, a new record is added with the new address, and the old address remains in the system along with the valid dates.
+
+> - **Type 3 (Tracking Old and New Values)**: The old and new values are stored in the same record. The old value is saved in one field, while the new value is kept in the main field.  
+>   *Example*: If a customer changes their email, the old email is stored in a separate column, and the new email is placed in the main email field.
+
+> **Usage:**
+> - **Type 1**: Use this when you only need the most recent data and do not need to keep the historical record.
+> - **Type 2**: Best when you need to preserve the complete history of changes over time.
+> - **Type 3**: Useful if you need to store both the current and previous values but not the entire history.
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
+
+---
