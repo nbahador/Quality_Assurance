@@ -7,7 +7,8 @@
 | No. | Questions |
 | --- | --------- |
 | 1 | [How can duplicates be identified in a database table using SQL?](#how-can-duplicates-be-identified-in-a-database-table-using-sql) |
-| 2 | [How can I find records that are present in one table but not in another using SQL?](#how-can-i-find-records-that-are-present-in-one-table-but-not-in-another-using-sql) |
+| 2 | [How can you load a CSV table into a database?](#how-can-you-load-a-csv-table-into-a-database) |
+| 3 | [How can I find records that are present in one table but not in another using SQL?](#how-can-i-find-records-that-are-present-in-one-table-but-not-in-another-using-sql) |
 
 ---
 
@@ -25,6 +26,23 @@
 > FROM A 
 > GROUP BY X, Y, Z 
 > HAVING COUNT(*) > 1;
+> ```
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
+
+---
+
+## How can you load a CSV file into a database using SQL?
+
+> **To load a CSV file into a database:**
+> 
+> - **BULK INSERT** is used to quickly load data from a file into a table.
+> - **FIELDTERMINATOR** specifies the delimiter between fields (e.g., commas for CSV files).
+> - **ROWTERMINATOR** specifies the delimiter that separates rows.
+> 
+> ### Example Query:
+> ```sql
+> BULK INSERT MyTable FROM 'C:\path\to\file.csv' WITH (FIELDTERMINATOR = ',', ROWTERMINATOR = '\n');
 > ```
 
 **[ Back to the question in the Table ⬆ ](#table-of-contents)**
