@@ -103,6 +103,7 @@
    - **Deploy** → If all previous steps succeed, runs `npm run deploy`.
 
 **Why Use GitHub Actions?**
+
 ✅ Automates repetitive tasks (**build, test, deploy**)  
 ✅ Provides a **streamlined** and **efficient** workflow  
 ✅ Supports **parallel execution** for faster processing  
