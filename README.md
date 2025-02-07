@@ -575,7 +575,7 @@
 > 
 > **Parallel Processing / Partitioning / Batch Processing:** Used for optimizing ETL data processing, reducing time from days to hours.
 > 
-> **Test Automation Frameworks:** Used to automate testing, reducing testing time by 40-50%.
+> **Test Automation Frameworks:** Used to automate testing.
 > 
 > **Email Automation System:** Used to send notifications and updates about onboarding requirements.
 
