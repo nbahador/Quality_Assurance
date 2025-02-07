@@ -6,6 +6,7 @@
 
 | No. | Questions |
 | --- | --------- | 
+| 42 | [What does a Test Plan include?](#what-does-a-test-plan-include) |  
 | 39 | [What is a good test case?](#what-is-a-good-test-case) |  
 | 38 | [What is a Test Plan?](#what-is-a-test-plan) |  
 | 37 | [What is the difference between severity and priority?](#what-is-the-difference-between-severity-and-priority) |  
@@ -46,7 +47,34 @@
 | 29 | [How did you improve the onboarding process for new employees?](#how-did-you-improve-the-onboarding-process-for-new-employees) |
 | 36 | [What are the common ETL challenges and their solutions?](#what-are-the-common-etl-challenges-and-their-solutions) |  
 | 40 | [What is the difference between functional and nonfunctional testing?](#what-is-the-difference-between-functional-and-nonfunctional-testing) |  
-| 41 | [What are the common challenges faced by QA teams?](#what-are-the-common-challenges-faced-by-qa-teams) | 
+| 41 | [What are the common challenges faced by QA teams?](#what-are-the-common-challenges-faced-by-qa-teams) |
+
+---
+
+## What does a Test Plan include?
+
+> A **Test Plan** outlines:  
+> - **Areas to be tested** (e.g., registration, logging in, changing the language, account settings).  
+> - **Areas not to be tested** (e.g., vouchers and coupons).  
+> - **Types of tests** (e.g., smoke tests, exploratory sessions, regression, functional, cross-browser).  
+> - **Individuals responsible** for specific activities.  
+> - **Resources required** for testing.  
+> - **Schedule** necessary to complete the described tasks.  
+
+> **Example:**  
+> - **Functionality Being Tested**: Logging in via email.  
+> - **Goal**: Verify basic functionality and assess software quality.  
+> - **Purpose**: Identify defects before delivery and confirm functionality meets expectations.  
+> - **Outcome**: Test results will be documented in a report detailing performed activities.  
+
+> **Additional components of a Test Plan:**  
+> - **Test Tools**  
+> - **Test Devices and Environment**  
+> - **Schedule of Tests**  
+> - **Priority levels** (rated from 1 = lowest to 5 = highest).  
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**  
+
 ---
 
 ## What is a good test case?
