@@ -6,6 +6,7 @@
 
 | No. | Questions |
 | --- | --------- |
+| 95 | [What is an integrity rule in database management?](#what-is-an-integrity-rule-in-database-management) |  
 | 94 | [What is source-target reconciliation in data validation?](#what-is-source-target-reconciliation-in-data-validation) |  
 | 93 | [Why are email notifications for success and failure important in automated systems?](#why-are-email-notifications-for-success-and-failure-important-in-automated-systems) |  
 | 91 | [What is deliverability testing?](#what-is-deliverability-testing) |  
@@ -99,6 +100,18 @@
 | 71 | [How can logs be efficiently managed when time is limited?](#how-can-logs-be-efficiently-managed-when-time-is-limited) |  
 | 73 | [What is the importance of frontend and backend testing in application development?](#what-is-the-importance-of-frontend-and-backend-testing-in-application-development) |  
 | 80 | [How do Unix command-line tools assist in data processing?](#how-do-unix-command-line-tools-assist-in-data-processing) |  
+
+---
+
+## What is an integrity rule in database management?
+
+> **Integrity rules ensure data accuracy and consistency in a database. They include:**  
+>  
+> - **Entity Integrity:** Ensures each row has a unique primary key.  
+> - **Referential Integrity:** Maintains valid relationships between tables using foreign keys.  
+> - **Domain Integrity:** Enforces valid data types, formats, and constraints.  
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
 ---
 
