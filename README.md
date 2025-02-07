@@ -6,6 +6,7 @@
 
 | No. | Questions |
 | --- | --------- |
+| 52 | [How does GitHub Actions automate workflows?](#how-does-github-actions-automate-workflows) |  
 | 51 | [What is TestGrid and what are its key features?](#what-is-testgrid-and-what-are-its-key-features) |  
 | 50 | [What is the importance of debugging emails and ensuring proper deliverability?](#what-is-the-importance-of-debugging-emails-and-ensuring-proper-deliverability) |  
 | 49 | [How should UI issues be investigated to determine the root cause?](#how-should-ui-issues-be-investigated-to-determine-the-root-cause) |  
@@ -57,6 +58,57 @@
 | 36 | [What are the common ETL challenges and their solutions?](#what-are-the-common-etl-challenges-and-their-solutions) |  
 | 40 | [What is the difference between functional and nonfunctional testing?](#what-is-the-difference-between-functional-and-nonfunctional-testing) |  
 | 41 | [What are the common challenges faced by QA teams?](#what-are-the-common-challenges-faced-by-qa-teams) |
+
+---
+
+## How does GitHub Actions automate workflows?
+> **GitHub Actions** is an automation tool integrated directly within GitHub, enabling **continuous integration (CI) and continuous deployment (CD)** in repositories.
+
+**How It Works:**
+**Workflows**
+- Automated processes that define CI/CD tasks for a repository.
+- Defined in YAML files stored in `.github/workflows/` directory.
+- Consist of **jobs** that perform tasks such as building, testing, and deploying code.
+
+**Events**
+- Workflows are triggered by **events** in the repository (e.g., push, pull request, release).
+- Defined using the `on` keyword in the workflow file.
+
+**Jobs**
+- Individual units of work in a workflow.
+- Can run sequentially or in parallel.
+- Each job runs in its own virtual environment (**runner**) and can be configured for **Ubuntu, macOS, or Windows**.
+
+**Steps**
+- Tasks within a job, such as checking out code, installing dependencies, or running tests.
+- Can be **individual commands** or **GitHub Actions** (predefined automation tasks).
+
+**Actions**
+- Reusable pieces of code that automate common tasks (e.g., setting up environments, deploying apps).
+- Available in **GitHub Marketplace** or can be custom-built.
+
+**Runners**
+- **GitHub-hosted runners**: Pre-configured servers for Ubuntu, Windows, and macOS.
+- **Self-hosted runners**: Custom servers for greater control over the environment.
+
+**Example Workflow (YAML Format)**
+
+1. **Trigger** → The workflow is triggered by a **push** to the `main` branch.
+2. **Job** → A job named `build` runs on **Ubuntu**.
+3. **Steps**:
+   - **Checkout code** → Retrieves repository code.
+   - **Set up Node.js** → Installs Node.js v14.
+   - **Install dependencies** → Runs `npm install`.
+   - **Run tests** → Executes `npm test`.
+   - **Deploy** → If all previous steps succeed, runs `npm run deploy`.
+
+**Why Use GitHub Actions?**
+✅ Automates repetitive tasks (**build, test, deploy**)  
+✅ Provides a **streamlined** and **efficient** workflow  
+✅ Supports **parallel execution** for faster processing  
+✅ Integrates seamlessly with **GitHub repositories**  
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**  
 
 ---
 
