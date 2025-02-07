@@ -6,6 +6,7 @@
 
 | No. | Questions |
 | --- | --------- |
+| 16 | [Why should tasks be automated?](#why-should-tasks-be-automated) |
 | 14 | [What are the key checks for ensuring target data quality and accuracy?](#what-are-the-key-checks-for-ensuring-target-data-quality-and-accuracy) |
 | 13 | [What are the key checks for ensuring target data completeness?](#what-are-the-key-checks-for-ensuring-target-data-completeness) |
 | 12 | [What is the purpose of checking ETL logs?](#what-is-the-purpose-of-checking-etl-logs) |
@@ -21,6 +22,19 @@
 | 5 | [How can you compare flat files and tables using the Linux command line?](#how-can-you-compare-flat-files-and-tables-using-the-linux-command-line) |
 | 6 | [What are the key validations for testing ETL target objects structure?](#what-are-the-key-validations-for-testing-etl-target-objects-structure) |
 | 15 | [What are Slowly Changing Dimensions (SCD), and how can they be managed?](#what-are-slowly-changing-dimensions-scd-and-how-can-they-be-managed) |
+
+---
+
+## Why should tasks be automated?
+
+> **Tasks should be automated** because manual, repetitive tasks consume a lot of time and are prone to human error. Automation increases efficiency and reduces the chances of mistakes. Some examples of tasks that should be automated include:
+
+> - **Data Entry**: Automating tasks like copying and pasting or moving data.
+> - **Email Responses**: Automatically sending similar responses to customers.
+> - **Report Generation**: Automating the creation of regular reports or the analysis of data trends.
+> - **Inventory Updates**: Automatically updating stock levels or order statuses.
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
 ---
 
