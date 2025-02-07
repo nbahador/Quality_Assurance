@@ -6,6 +6,7 @@
 
 | No. | Questions |
 | --- | --------- |
+| 38 | [What is a Test Plan?](#what-is-a-test-plan) |  
 | 37 | [What is the difference between severity and priority?](#what-is-the-difference-between-severity-and-priority) |  
 | 35 | [What is the bug triage process and how is it carried out?](#what-is-the-bug-triage-process-and-how-is-it-carried-out) |
 | 34 | [How do you estimate the time for bug fixing?](#how-do-you-estimate-the-time-for-bug-fixing) |
@@ -43,6 +44,15 @@
 | 28 | [What tools do you use for QA and how are they utilized?](#what-tools-do-you-use-for-qa-and-how-are-they-utilized) |
 | 29 | [How did you improve the onboarding process for new employees?](#how-did-you-improve-the-onboarding-process-for-new-employees) |
 | 36 | [What are the common ETL challenges and their solutions?](#what-are-the-common-etl-challenges-and-their-solutions) |  
+
+---
+
+## What is a Test Plan?
+
+> **A Test Plan** is a document outlining the details of intended testing, roles, risks, and resources.  
+> It describes test design, execution, defect management, and reporting.  
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**  
 
 ---
 
