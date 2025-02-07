@@ -6,6 +6,7 @@
 
 | No. | Questions |
 | --- | --------- |
+| 67 | [What should be included in a well-written bug report?](#what-should-be-included-in-a-well-written-bug-report) |  
 | 64 | [What’s the difference between backend testing and frontend testing?](#whats-the-difference-between-backend-testing-and-frontend-testing) |  
 | 63 | [What is the difference between smoke, sanity, regression, and other types of testing?](#what-is-the-difference-between-smoke-sanity-regression-and-other-types-of-testing) |  
 | 61 | [What are the common HTTP methods used for retrieving, creating, and updating resources?](#what-are-the-common-http-methods-used-for-retrieving-creating-and-updating-resources) |  
@@ -72,6 +73,21 @@
 | 62 | [What would you do if you filed a bug and the developer tells you it’s not a bug?](#what-would-you-do-if-you-filed-a-bug-and-the-developer-tells-you-its-not-a-bug) |  
 | 65 | [What would you do if asked to write test cases based on requirements provided?](#what-would-you-do-if-asked-to-write-test-cases-based-on-requirements-provided) |  
 | 66 | [What are the steps in a bug lifecycle?](#what-are-the-steps-in-a-bug-lifecycle) |  
+
+---
+
+## What should be included in a well-written bug report?
+
+> **A well-written bug report should include the following:**
+> 
+> - **A clear title** describing the issue.
+> - **Steps to reproduce the issue** to help others replicate the problem.
+> - **Expected vs actual results** to clarify the discrepancy.
+> - **Screenshots or screen recordings** to visually demonstrate the issue.
+> - **Environment details** (e.g., OS, version) for context.
+> - **Relevant logs or error messages** to provide technical insights.
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
 ---
 
