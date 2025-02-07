@@ -76,6 +76,7 @@
 | 62 | [What would you do if you filed a bug and the developer tells you it’s not a bug?](#what-would-you-do-if-you-filed-a-bug-and-the-developer-tells-you-its-not-a-bug) |  
 | 65 | [What would you do if asked to write test cases based on requirements provided?](#what-would-you-do-if-asked-to-write-test-cases-based-on-requirements-provided) |  
 | 66 | [What are the steps in a bug lifecycle?](#what-are-the-steps-in-a-bug-lifecycle) |  
+| 71 | [How can logs be efficiently managed when time is limited?](#how-can-logs-be-efficiently-managed-when-time-is-limited) |  
 
 ---
 
@@ -1415,5 +1416,22 @@ So when a UI defect occurs, you should:
 **[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
 ---
+
+## How can logs be efficiently managed when time is limited?
+
+> **When time is limited, logs can be efficiently managed by:**
+> 
+> ### Retrieving Key Logs:
+> - **Session Log:** Provides detailed execution information for each task.
+> - **Workflow Log:** Gives insights into success/failure and task status.
+> 
+> ### Managing Logs Efficiently:
+> - **Sorting Logs:** Filtering and sorting errors to pinpoint issues quickly.
+> - **Searching Logs:** Using specific keywords to focus on critical sections without manually scanning the entire log.
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
+
+---
+
 
 
