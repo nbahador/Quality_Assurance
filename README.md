@@ -9,6 +9,7 @@
 | 7 | [What are the key aspects of ETL workflow validation?](#what-are-the-key-aspects-of-etl-workflow-validation) |
 | 1 | [How can you compare database data with extracted CSV data using command-line tools?](#how-can-you-compare-database-data-with-extracted-csv-data-using-command-line-tools) |
 | 2 | [How can duplicates be identified in a database table using SQL?](#how-can-duplicates-be-identified-in-a-database-table-using-sql) |
+| 9 | [What are the key checks for ensuring data quality in the target system after data is loaded?](#what-are-the-key-checks-for-ensuring-data-quality-in-the-target-system-after-data-is-loaded) |
 | 3 | [How can you load a CSV table into a database?](#how-can-you-load-a-csv-table-into-a-database) |
 | 4 | [How can I find records that are present in one table but not in another using SQL?](#how-can-i-find-records-that-are-present-in-one-table-but-not-in-another-using-sql) |
 | 8 | [What are the key aspects of Target Data Completeness testing?](#what-are-the-key-aspects-of-target-data-completeness-testing) |
@@ -80,6 +81,28 @@
 > ```sql
 > BULK INSERT MyTable FROM 'C:\path\to\file.csv' WITH (FIELDTERMINATOR = ',', ROWTERMINATOR = '\n');
 > ```
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
+
+---
+
+## What are the key checks for ensuring data quality in the target system after data is loaded?
+
+> **Key checks for ensuring data quality and accuracy:**
+> 
+> - **Ensuring numeric fields are filled correctly**: Verify that numeric fields contain appropriate values and are correctly populated.
+> - **Verifying that not-null fields are populated**: Ensure that all fields that are required to be non-null are properly populated with data.
+> - **Performing boundary value, case, and special character validations**: Check for proper handling of boundary values, case sensitivity, and special characters.
+> - **Counting updates, inserts, and deletions of records**: Confirm that the correct number of records were updated, inserted, or deleted during the ETL process.
+> - **Validating transformations against business rules**: Ensure that any data transformations applied during the ETL process comply with the defined business rules.
+> - **Checking change capture logic for slowly changing dimensions (Type 2)**: Verify that Type 2 slowly changing dimensions are accurately capturing changes over time.
+> - **Verifying default values and destructive updates (Type 1)**: Confirm that default values are applied correctly and that destructive updates (overwrites) follow proper logic.
+> - **Ensuring correct dates, and proper validation for incorrect dates (e.g., February 30th)**: Verify that all dates are accurate and reject invalid dates.
+> - **Verifying the correct date format when stored as a string (day/month/year)**: Ensure that date strings follow the correct format (day/month/year) where applicable.
+> - **Ensuring no data truncation occurs**: Check that no data is being truncated, especially for fields with length restrictions.
+> - **Checking for proper left and right space trimming**: Confirm that unnecessary spaces before or after data are removed.
+> - **Confirming correct date format and values for DATE or TIMESTAMP types**: Ensure that DATE or TIMESTAMP fields are correctly formatted and populated.
+> - **Testing both positive and negative data**: Test the system with both valid (positive) and invalid (negative) data to ensure robustness.
 
 **[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
