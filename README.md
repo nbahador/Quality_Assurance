@@ -9,7 +9,7 @@
 
 ---
 
-## <a id="how-can-duplicates-be-identified-in-a-database-table-using-sql"></a>How can duplicates be identified in a database table using SQL?
+## How can duplicates be identified in a database table using SQL?
 
 > **To identify duplicates in a database table:**
 > 
@@ -29,7 +29,7 @@
 
 ---
 
-## <a id="how-can-i-find-records-that-are-present-in-one-table-but-not-in-another-using-sql"></a>How can I find records that are present in one table but not in another using SQL?
+## How can I find records that are present in one table but not in another using SQL?
 
 > **To identify records that exist in one table but not the other:**
 > 
