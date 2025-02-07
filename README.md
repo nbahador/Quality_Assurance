@@ -6,6 +6,7 @@
 
 | No. | Questions |
 | --- | --------- |
+| 64 | [What’s the difference between backend testing and frontend testing?](#whats-the-difference-between-backend-testing-and-frontend-testing) |  
 | 63 | [What is the difference between smoke, sanity, regression, and other types of testing?](#what-is-the-difference-between-smoke-sanity-regression-and-other-types-of-testing) |  
 | 61 | [What are the common HTTP methods used for retrieving, creating, and updating resources?](#what-are-the-common-http-methods-used-for-retrieving-creating-and-updating-resources) |  
 | 60 | [What is the Red-Green-Refactor cycle in Test-Driven Development (TDD)?](#what-is-the-red-green-refactor-cycle-in-test-driven-development-tdd) |  
@@ -69,6 +70,17 @@
 | 40 | [What is the difference between functional and nonfunctional testing?](#what-is-the-difference-between-functional-and-nonfunctional-testing) |  
 | 41 | [What are the common challenges faced by QA teams?](#what-are-the-common-challenges-faced-by-qa-teams) |
 | 62 | [What would you do if you filed a bug and the developer tells you it’s not a bug?](#what-would-you-do-if-you-filed-a-bug-and-the-developer-tells-you-its-not-a-bug) |  
+
+---
+
+## What’s the difference between backend testing and frontend testing?
+
+> **The key differences between backend and frontend testing:**
+>  
+> - **Frontend Testing:** Focuses on the user interface and user experience, ensuring that UI elements are functional and display correctly.
+> - **Backend Testing:** Focuses on server-side logic, databases, APIs, and ensuring data integrity.
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
 ---
 
