@@ -6,6 +6,7 @@
 
 | No. | Questions |
 | --- | --------- |
+| 81 | [How does MongoDB differ from relational databases?](#how-does-mongodb-differ-from-relational-databases) |  
 | 79 | [What role does ETL play in data processing?](#what-role-does-etl-play-in-data-processing) |  
 | 78 | [What are common UI issues in web applications?](#what-are-common-ui-issues-in-web-applications) |  
 | 77 | [Why is regression testing crucial in software development?](#why-is-regression-testing-crucial-in-software-development) |  
@@ -86,6 +87,19 @@
 | 71 | [How can logs be efficiently managed when time is limited?](#how-can-logs-be-efficiently-managed-when-time-is-limited) |  
 | 73 | [What is the importance of frontend and backend testing in application development?](#what-is-the-importance-of-frontend-and-backend-testing-in-application-development) |  
 | 80 | [How do Unix command-line tools assist in data processing?](#how-do-unix-command-line-tools-assist-in-data-processing) |  
+
+---
+
+## How does MongoDB differ from relational databases?
+
+> **MongoDB differs from relational databases in the following ways:**
+> 
+> - It is a NoSQL database that stores data in JSON-like documents instead of tables.
+> - It supports flexible schema design, allowing dynamic fields and structures.
+> - It scales horizontally using sharding, whereas relational databases typically scale vertically.
+> - It is optimized for unstructured and semi-structured data, unlike relational databases that enforce strict schemas.
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
 ---
 
