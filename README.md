@@ -6,7 +6,6 @@
 
 | No. | Questions |
 | --- | --------- |
-| 62 | [What would you do if you filed a bug and the developer tells you it’s not a bug?](#what-would-you-do-if-you-filed-a-bug-and-the-developer-tells-you-its-not-a-bug) |  
 | 61 | [What are the common HTTP methods used for retrieving, creating, and updating resources?](#what-are-the-common-http-methods-used-for-retrieving-creating-and-updating-resources) |  
 | 60 | [What is the Red-Green-Refactor cycle in Test-Driven Development (TDD)?](#what-is-the-red-green-refactor-cycle-in-test-driven-development-tdd) |  
 | 59 | [What steps do you follow when testing a database to ensure data accuracy and integrity?](#what-steps-do-you-follow-when-testing-a-database-to-ensure-data-accuracy-and-integrity) |  
@@ -68,19 +67,7 @@
 | 36 | [What are the common ETL challenges and their solutions?](#what-are-the-common-etl-challenges-and-their-solutions) |  
 | 40 | [What is the difference between functional and nonfunctional testing?](#what-is-the-difference-between-functional-and-nonfunctional-testing) |  
 | 41 | [What are the common challenges faced by QA teams?](#what-are-the-common-challenges-faced-by-qa-teams) |
-
----
-
-## What would you do if you filed a bug and the developer tells you it’s not a bug?
-
-> **What to do in case of disagreement on a bug report:**
->  
-> - Ask the developer to explain their reasoning so you can understand their perspective.
-> - Review the original requirements or specifications to see if there's any documentation or user story that contradicts their reasoning. Suggest revisiting it together if necessary.
-> - Present new data, logs, or examples to clarify the issue, as more context can help highlight why it might be a bug.
-> - If there’s still no consensus, especially for a critical issue, escalate it to a manager, product owner, or lead for a third-party perspective.
-
-**[ Back to the question in the Table ⬆ ](#table-of-contents)**
+| 62 | [What would you do if you filed a bug and the developer tells you it’s not a bug?](#what-would-you-do-if-you-filed-a-bug-and-the-developer-tells-you-its-not-a-bug) |  
 
 ---
 
@@ -1310,5 +1297,16 @@ So when a UI defect occurs, you should:
 **[ Back to the question in the Table ⬆ ](#table-of-contents)**  
 
 ---
+## What would you do if you filed a bug and the developer tells you it’s not a bug?
 
+> **What to do in case of disagreement on a bug report:**
+>  
+> - Ask the developer to explain their reasoning so you can understand their perspective.
+> - Review the original requirements or specifications to see if there's any documentation or user story that contradicts their reasoning. Suggest revisiting it together if necessary.
+> - Present new data, logs, or examples to clarify the issue, as more context can help highlight why it might be a bug.
+> - If there’s still no consensus, especially for a critical issue, escalate it to a manager, product owner, or lead for a third-party perspective.
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
+
+---
 
