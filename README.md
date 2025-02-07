@@ -6,6 +6,7 @@
 
 | No. | Questions |
 | --- | --------- |
+| 18 | [What’s the difference between a test case and a bug report, and how do you write a good bug report?](#whats-the-difference-between-a-test-case-and-a-bug-report-and-how-do-you-write-a-good-bug-report) |
 | 17 | [What is the difference between a good test case and a bad test case?](#what-is-the-difference-between-a-good-test-case-and-a-bad-test-case) |
 | 16 | [Why should tasks be automated?](#why-should-tasks-be-automated) |
 | 14 | [What are the key checks for ensuring target data quality and accuracy?](#what-are-the-key-checks-for-ensuring-target-data-quality-and-accuracy) |
@@ -23,6 +24,22 @@
 | 5 | [How can you compare flat files and tables using the Linux command line?](#how-can-you-compare-flat-files-and-tables-using-the-linux-command-line) |
 | 6 | [What are the key validations for testing ETL target objects structure?](#what-are-the-key-validations-for-testing-etl-target-objects-structure) |
 | 15 | [What are Slowly Changing Dimensions (SCD), and how can they be managed?](#what-are-slowly-changing-dimensions-scd-and-how-can-they-be-managed) |
+
+---
+
+## What’s the difference between a test case and a bug report, and how do you write a good bug report?
+
+> **A test case** is used to verify the steps for testing a specific functionality to ensure it works as expected.  
+> **A bug report**, on the other hand, focuses on reproducing the steps to identify and describe a bug.
+
+> **Writing a good bug report**:
+> - **Be clear and concise**: Start with a descriptive but short title, such as "Menu button doesn’t work on the home screen." This title tells the team exactly what’s wrong and where it happens.
+> - **Provide a brief explanation**: Include a short description if necessary to clarify the issue.
+> - **List the steps to reproduce**: Clearly describe the steps needed to recreate the bug.
+> - **Include visuals**: Add short GIFs (6-7 seconds), screenshots with arrows, or a video clip (15-20 seconds) to demonstrate the steps if they are complex.
+> - **Make the bug easy to understand and reproduce**: The goal is to ensure that the team can easily replicate the issue to troubleshoot effectively.
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
 ---
 
