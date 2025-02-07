@@ -6,6 +6,7 @@
 
 | No. | Questions |
 | --- | --------- |
+| 48 | [How should issues with the user interface be handled?](#how-should-issues-with-the-user-interface-be-handled) |  
 | 47 | [How should failures be monitored over time during testing?](#how-should-failures-be-monitored-over-time-during-testing) |  
 | 46 | [What is an example of negative testing?](#what-is-an-example-of-negative-testing) |  
 | 45 | [What do test logs include?](#what-do-test-logs-include) |  
@@ -53,6 +54,19 @@
 | 36 | [What are the common ETL challenges and their solutions?](#what-are-the-common-etl-challenges-and-their-solutions) |  
 | 40 | [What is the difference between functional and nonfunctional testing?](#what-is-the-difference-between-functional-and-nonfunctional-testing) |  
 | 41 | [What are the common challenges faced by QA teams?](#what-are-the-common-challenges-faced-by-qa-teams) |
+
+---
+
+## How should issues with the user interface be handled?
+
+> **Handling UI Issues:**  
+> - UI issues involve elements like buttons, forms, images, and navigation.  
+> - Examples include non-clickable buttons, broken links, missing images, or distorted layouts.  
+> - Quickly determine why an issue is occurring.  
+> - Investigate deeply to identify the root cause, not just surface-level problems.  
+> - Explore backend, frontend, and database interactions to diagnose defects.  
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**  
 
 ---
 
