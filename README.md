@@ -32,7 +32,7 @@
 
 ---
 
-## How can you load a CSV file into a database using SQL?
+## How can you load a CSV table into a database?
 
 > **To load a CSV file into a database:**
 > 
