@@ -1,8 +1,8 @@
 <h1 style="border: 2px solid #000; padding: 10px; text-align: center;">
-  Quality Assurance Interview Questions and Answers
+A set of FAQs for someone involved in Quality Assurance, Software Testing, Data Validation, or Database Management
 </h1>
 
-### <a id="table-of-contents"></a>Table of Contents - Quality Assurance
+### <a id="table-of-contents"></a>Table of Contents
 
 | No. | Questions |
 | --- | --------- |
