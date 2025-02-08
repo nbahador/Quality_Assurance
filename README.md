@@ -6,6 +6,7 @@
 
 | No. | Questions |
 | --- | --------- |
+| 108 | [What is a Traceability Matrix?](#what-is-a-traceability-matrix) |  
 | 107 | [What are aggregate tests, set tests, and value tests in data validation?](#what-are-aggregate-tests-set-tests-and-value-tests-in-data-validation) |  
 | 106 | [What are some basic MongoDB shell (Mongosh) commands for database operations?](#what-are-some-basic-mongodb-shell-mongosh-commands-for-database-operations) |  
 | 105 | [How to build a robust ETL workflow?](#how-to-build-a-robust-etl-workflow) |  
@@ -111,6 +112,17 @@
 | 71 | [How can logs be efficiently managed when time is limited?](#how-can-logs-be-efficiently-managed-when-time-is-limited) |  
 | 73 | [What is the importance of frontend and backend testing in application development?](#what-is-the-importance-of-frontend-and-backend-testing-in-application-development) |  
 | 80 | [How do Unix command-line tools assist in data processing?](#how-do-unix-command-line-tools-assist-in-data-processing) |  
+
+---
+
+## What is a Traceability Matrix?
+
+> **The purpose of a Traceability Matrix:**
+> 
+> - A Traceability Matrix is a document that maps and traces the relationship between different project artifacts.
+> - It typically links requirements to test cases, test cases to defects, and requirements to design or implementation.
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
 ---
 
