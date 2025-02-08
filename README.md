@@ -10,7 +10,7 @@
 
 <hr style="border: none; border-top: 1px solid #2980B9; margin: 10px 0;">
 <p style="text-align: center; font-size: 16px; color: #34495E; margin-bottom: 10px;">
-  Contributions to expand the FAQ on QA, Testing, Data Validation, and DB Management are welcome!
+  Contributions to expand the FAQ are welcome!
 </p>
 <hr style="border: none; border-top: 1px solid #2980B9; margin: 10px 0;">
 
