@@ -112,6 +112,7 @@
 | 71 | [How can logs be efficiently managed when time is limited?](#how-can-logs-be-efficiently-managed-when-time-is-limited) |  
 | 73 | [What is the importance of frontend and backend testing in application development?](#what-is-the-importance-of-frontend-and-backend-testing-in-application-development) |  
 | 80 | [How do Unix command-line tools assist in data processing?](#how-do-unix-command-line-tools-assist-in-data-processing) |  
+| 109 | [How do you manage planning, estimation, and execution when working on a release with evolving requirements?](#how-do-you-manage-planning-estimation-and-execution-when-working-on-a-release-with-evolving-requirements) |  
 
 ---
 
@@ -1922,6 +1923,21 @@ So when a UI defect occurs, you should:
 > - Utilizing `grep` to filter and search through text efficiently.
 > - Applying `sed` for stream editing and text transformation.
 > - Automating repetitive data processing tasks with minimal overhead.
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
+
+---
+
+## How do you manage planning, estimation, and execution when working on a release with evolving requirements?
+
+> **Managing planning, estimation, and execution with evolving requirements:**
+> 
+> - **Document Assumptions**: Track assumptions and update them as information comes in (e.g., assume login exists, then adjust as needed).
+> - **Update Requirements**: Record new details about the product as they emerge.
+> - **Use Traceability Matrix**: Link requirements to test cases to track what’s been tested.
+> - **Adjust Estimates**: Revise test time estimates when new information is available.
+> - **Focus on Regression Testing**: Re-test old features as new ones are added.
+> - **Flag Missing Docs**: Raise issues if missing documentation impacts testing.
 
 **[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
