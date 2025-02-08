@@ -6,6 +6,7 @@
 
 | No. | Questions |
 | --- | --------- |
+| 104 | [What is involved in a mapping task?](#what-is-involved-in-a-mapping-task) |  
 | 103 | [What is a CICD pipeline with GitHub Actions?](#what-is-a-cicd-pipeline-with-github-actions) |  
 | 102 | [What is exploratory testing?](#what-is-exploratory-testing) |  
 | 101 | [What does "cosmetic" refer to in software testing?](#what-does-cosmetic-refer-to-in-software-testing) |  
@@ -107,6 +108,24 @@
 | 71 | [How can logs be efficiently managed when time is limited?](#how-can-logs-be-efficiently-managed-when-time-is-limited) |  
 | 73 | [What is the importance of frontend and backend testing in application development?](#what-is-the-importance-of-frontend-and-backend-testing-in-application-development) |  
 | 80 | [How do Unix command-line tools assist in data processing?](#how-do-unix-command-line-tools-assist-in-data-processing) |  
+
+---
+
+## What is involved in a mapping task?
+
+> **A mapping task** involves transferring and transforming data between a source and a target system. Key components include:
+> 
+> - **Design Menu:** A user interface for configuring mappings.
+> - **Drag/Drop Mapping Canvas:** Visual layout for connecting source to target fields.
+> - **Joiner:** Combines data from multiple sources based on a common key.
+> - **Union:** Merges multiple datasets into one.
+> - **Parallel Task:** Executes tasks simultaneously for efficiency.
+> - **Sorter:** Orders data based on specified criteria.
+> - **Structure Parser:** Analyzes and organizes the data structure.
+> - **Rank, Normaliser, Aggregator:** These tasks rank, standardize, and summarize data, respectively.
+> - **Masking:** Likely refers to a masking task, where sensitive data is hidden or anonymized.
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
 ---
 
