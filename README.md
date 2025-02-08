@@ -8,6 +8,7 @@
 | --- | --------- |
 | 108 | [What is a Traceability Matrix?](#what-is-a-traceability-matrix) |  
 | 107 | [What are aggregate tests, set tests, and value tests in data validation?](#what-are-aggregate-tests-set-tests-and-value-tests-in-data-validation) |  
+| 110 | [How can you handle testing when time is limited, and requirements are evolving?](#how-can-you-handle-testing-when-time-is-limited-and-requirements-are-evolving) | 
 | 106 | [What are some basic MongoDB shell (Mongosh) commands for database operations?](#what-are-some-basic-mongodb-shell-mongosh-commands-for-database-operations) |  
 | 105 | [How to build a robust ETL workflow?](#how-to-build-a-robust-etl-workflow) |  
 | 104 | [What is involved in a mapping task?](#what-is-involved-in-a-mapping-task) |  
@@ -134,6 +135,21 @@
 > **Set Tests:** Compare the distinct values of one field with another.
 > 
 > **Value Tests:** Validate individual data values, ensuring they meet specific conditions or fall within expected ranges.
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
+
+---
+
+## How can you handle testing when time is limited, and requirements are evolving?
+
+> **Handling testing with limited time and evolving requirements:**
+> 
+> - **Exploratory Testing**: Quickly explore the product to find issues without following detailed test cases (e.g., log in, create an account, make a purchase).
+> - **Risk-Based Testing**: Focus on areas with high risk and impact, like data loss (e.g., test data-critical features first).
+> - **Prioritize Testing**: Test major areas first (e.g., login, payments), test more on widely used features, and skip non-critical aspects (e.g., UI colors).
+> - **Automate Tests**: Automate repetitive tests, like login, to save time.
+> - **Speed Up Testing**: Conduct quick, focused tests on the most critical functions without over-documenting.
+> - **Prioritize by Impact**: Focus on testing areas with the highest potential impact first (e.g., checkout process), leaving cosmetic issues for later.
 
 **[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
