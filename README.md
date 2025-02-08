@@ -1,6 +1,13 @@
-<h1 style="border: 2px solid #000; padding: 10px; text-align: center; font-size: 18px;">
-  FAQs for Quality Assurance, Software Testing, Data Validation, and Database Management
-</h1>
+<p style="font-size: 18px; text-align: center;">
+  FAQs for:
+</p>
+<ul style="padding-left: 20px; font-size: 18px;">
+  <li>Quality Assurance</li>
+  <li>Software Testing</li>
+  <li>Data Validation</li>
+  <li>Database Management</li>
+</ul>
+
 
 ### <a id="table-of-contents"></a>Table of Contents
 
