@@ -14,114 +14,114 @@
 
 | No. | Questions |
 | --- | --------- |
-| 108 | [What is a Traceability Matrix?](#what-is-a-traceability-matrix) |
-| 111 | [What is a Master Test Plan?](#what-is-a-master-test-plan) |  
-| 107 | [What are aggregate tests, set tests, and value tests in data validation?](#what-are-aggregate-tests-set-tests-and-value-tests-in-data-validation) |  
-| 110 | [How can you handle testing when time is limited, and requirements are evolving?](#how-can-you-handle-testing-when-time-is-limited-and-requirements-are-evolving) | 
-| 106 | [What are some basic MongoDB shell (Mongosh) commands for database operations?](#what-are-some-basic-mongodb-shell-mongosh-commands-for-database-operations) |  
-| 105 | [How to build a robust ETL workflow?](#how-to-build-a-robust-etl-workflow) |  
-| 104 | [What is involved in a mapping task?](#what-is-involved-in-a-mapping-task) |  
-| 103 | [What is a CICD pipeline with GitHub Actions?](#what-is-a-cicd-pipeline-with-github-actions) |  
-| 102 | [What is exploratory testing?](#what-is-exploratory-testing) |  
-| 101 | [What does "cosmetic" refer to in software testing?](#what-does-cosmetic-refer-to-in-software-testing) |  
-| 99 | [What are environment details in testing?](#what-are-environment-details-in-testing) |  
-| 98 | [What is the difference between expected and actual results in software testing?](#what-is-the-difference-between-expected-and-actual-results-in-software-testing) | 
-| 97 | [What are positive and negative testing?](#what-are-positive-and-negative-testing) |  
-| 96 | [What is a traceable record?](#what-is-a-traceable-record) |  
-| 95 | [What is an integrity rule in database management?](#what-is-an-integrity-rule-in-database-management) |  
-| 94 | [What is source-target reconciliation in data validation?](#what-is-source-target-reconciliation-in-data-validation) |  
-| 93 | [Why are email notifications for success and failure important in automated systems?](#why-are-email-notifications-for-success-and-failure-important-in-automated-systems) |  
-| 91 | [What is deliverability testing?](#what-is-deliverability-testing) |  
-| 90 | [What is negative testing?](#what-is-negative-testing) |  
-| 89 | [What is frontend testing?](#what-is-frontend-testing) |  
-| 88 | [What is database testing?](#what-is-database-testing) |  
-| 87 | [What are test artifacts in software testing?](#what-are-test-artifacts-in-software-testing) |  
-| 86 | [What are the key types of software testing?](#what-are-the-key-types-of-software-testing) |  
-| 85 | [What are boundary validation, range checks, threshold checks, and data truncation in data quality assurance?](#what-are-boundary-validation-range-checks-threshold-checks-and-data-truncation-in-data-quality-assurance) |  
-| 84 | [What are constraint violations in databases, and how do they impact data integrity?](#what-are-constraint-violations-in-databases-and-how-do-they-impact-data-integrity) |  
-| 83 | [What are the different types of testing?](#what-are-the-different-types-of-testing) |  
-| 82 | [What is the purpose of Cogito SQL in reporting?](#what-is-the-purpose-of-cogito-sql-in-reporting) |  
-| 81 | [How does MongoDB differ from relational databases?](#how-does-mongodb-differ-from-relational-databases) |  
-| 79 | [What role does ETL play in data processing?](#what-role-does-etl-play-in-data-processing) |  
-| 78 | [What are common UI issues in web applications?](#what-are-common-ui-issues-in-web-applications) |  
-| 77 | [Why is regression testing crucial in software development?](#why-is-regression-testing-crucial-in-software-development) |  
-| 76 | [How does workflow validation improve process execution?](#how-does-workflow-validation-improve-process-execution) |  
-| 75 | [What factors affect email deliverability and user experience?](#what-factors-affect-email-deliverability-and-user-experience) |  
-| 74 | [How do failed network requests impact an application?](#how-do-failed-network-requests-impact-an-application) |  
-| 72 | [What are common test operations in data validation?](#what-are-common-test-operations-in-data-validation) |  
-| 70 | [What should be included in test reports for analysis?](#what-should-be-included-in-test-reports-for-analysis) |  
-| 69 | [What is fault tolerance in a system?](#what-is-fault-tolerance-in-a-system) |  
-| 68 | [What is refactoring in software development?](#what-is-refactoring-in-software-development) |  
-| 67 | [What should be included in a well-written bug report?](#what-should-be-included-in-a-well-written-bug-report) |  
-| 64 | [What’s the difference between backend testing and frontend testing?](#whats-the-difference-between-backend-testing-and-frontend-testing) |  
-| 63 | [What is the difference between smoke, sanity, regression, and other types of testing?](#what-is-the-difference-between-smoke-sanity-regression-and-other-types-of-testing) |  
-| 61 | [What are the common HTTP methods used for retrieving, creating, and updating resources?](#what-are-the-common-http-methods-used-for-retrieving-creating-and-updating-resources) |  
-| 60 | [What is the Red-Green-Refactor cycle in Test-Driven Development (TDD)?](#what-is-the-red-green-refactor-cycle-in-test-driven-development-tdd) |  
-| 59 | [What steps do you follow when testing a database to ensure data accuracy and integrity?](#what-steps-do-you-follow-when-testing-a-database-to-ensure-data-accuracy-and-integrity) |  
-| 58 | [What are the key types of queries used in database testing?](#what-are-the-key-types-of-queries-used-in-database-testing) |  
-| 57 | [What is the difference between functional and non-functional testing in database testing?](#what-is-the-difference-between-functional-and-non-functional-testing-in-database-testing) |
-| 56 | [What tool can be used to measure performance and load test web applications?](#what-tool-can-be-used-to-measure-performance-and-load-test-web-applications) |  
-| 55 | [What is json-server, and how does it help with API testing?](#what-is-json-server-and-how-does-it-help-with-api-testing) |  
-| 54 | [What are some open-source tools for browser automation, API testing, accessibility, security, and monitoring?](#what-are-some-open-source-tools-for-browser-automation-api-testing-accessibility-security-and-monitoring) |  
-| 53 | [How do database scaling techniques like replication and sharding address performance challenges?](#how-do-database-scaling-techniques-like-replication-and-sharding-address-performance-challenges) |  
-| 52 | [How does GitHub Actions automate workflows?](#how-does-github-actions-automate-workflows) |  
-| 51 | [What is TestGrid and what are its key features?](#what-is-testgrid-and-what-are-its-key-features) |  
-| 50 | [What is the importance of debugging emails and ensuring proper deliverability?](#what-is-the-importance-of-debugging-emails-and-ensuring-proper-deliverability) |  
-| 49 | [How should UI issues be investigated to determine the root cause?](#how-should-ui-issues-be-investigated-to-determine-the-root-cause) |  
-| 48 | [How should issues with the user interface be handled?](#how-should-issues-with-the-user-interface-be-handled) |  
-| 47 | [How should failures be monitored over time during testing?](#how-should-failures-be-monitored-over-time-during-testing) |  
-| 46 | [What is an example of negative testing?](#what-is-an-example-of-negative-testing) |  
-| 45 | [What do test logs include?](#what-do-test-logs-include) |  
-| 44 | [What are the steps involved in setting up a PostgreSQL database for storing data?](#what-are-the-steps-involved-in-setting-up-a-postgresql-database-for-storing-data) |  
-| 43 | [What are triggers in SQL and what is the purpose of the sync changes table?](#what-are-triggers-in-sql-and-what-is-the-purpose-of-the-sync-changes-table) |  
-| 42 | [What does a Test Plan include?](#what-does-a-test-plan-include) |  
-| 39 | [What is a good test case?](#what-is-a-good-test-case) |  
-| 38 | [What is a Test Plan?](#what-is-a-test-plan) |  
-| 37 | [What is the difference between severity and priority?](#what-is-the-difference-between-severity-and-priority) |  
-| 35 | [What is the bug triage process and how is it carried out?](#what-is-the-bug-triage-process-and-how-is-it-carried-out) |
-| 34 | [How do you estimate the time for bug fixing?](#how-do-you-estimate-the-time-for-bug-fixing) |
-| 33 | [How do you classify bug priority?](#how-do-you-classify-bug-priority) |
-| 32 | [What are the key components of a test plan?](#what-are-the-key-components-of-a-test-plan) |
-| 31 | [What information should be included in a test case?](#what-information-should-be-included-in-a-test-case) |
-| 30 | [How do you handle bug triage and bug reports?](#how-do-you-handle-bug-triage-and-bug-reports) |
-| 24 | [What to include in a bug report?](#what-to-include-in-a-bug-report) |
-| 23 | [What's included in Jira and how is it used?](#whats-included-in-jira-and-how-is-it-used) |
-| 22 | [What are the definitions of Backlog and Sprint?](#what-are-the-definitions-of-backlog-and-sprint) |
-| 21 | [If you have three tasks that are all high priority, how will you decide which task to take on?](#if-you-have-three-tasks-that-are-all-high-priority-how-will-you-decide-which-task-to-take-on) |
-| 20 | [As a first QA, what would you do?](#as-a-first-qa-what-would-you-do) |
-| 19 | [If you need to start automation from scratch, what would your steps and processes be?](#if-you-need-to-start-automation-from-scratch-what-would-your-steps-and-processes-be) |
-| 18 | [What’s the difference between a test case and a bug report, and how do you write a good bug report?](#whats-the-difference-between-a-test-case-and-a-bug-report-and-how-do-you-write-a-good-bug-report) |
-| 17 | [What is the difference between a good test case and a bad test case?](#what-is-the-difference-between-a-good-test-case-and-a-bad-test-case) |
-| 16 | [Why should tasks be automated?](#why-should-tasks-be-automated) |
-| 14 | [What are the key checks for ensuring target data quality and accuracy?](#what-are-the-key-checks-for-ensuring-target-data-quality-and-accuracy) |
-| 13 | [What are the key checks for ensuring target data completeness?](#what-are-the-key-checks-for-ensuring-target-data-completeness) |
-| 12 | [What is the purpose of checking ETL logs?](#what-is-the-purpose-of-checking-etl-logs) |
-| 11 | [What is the purpose of testing success/failure emails in a process?](#what-is-the-purpose-of-testing-successfailure-emails-in-a-process) |
-| 10 | [What is the purpose of testing dependencies in workflows?](#what-is-the-purpose-of-testing-dependencies-in-workflows) |
-| 7 | [What are the key aspects of ETL workflow validation?](#what-are-the-key-aspects-of-etl-workflow-validation) |
-| 1 | [How can you compare database data with extracted CSV data using command-line tools?](#how-can-you-compare-database-data-with-extracted-csv-data-using-command-line-tools) |
-| 2 | [How can duplicates be identified in a database table using SQL?](#how-can-duplicates-be-identified-in-a-database-table-using-sql) |
-| 9 | [What are the key checks for ensuring data quality in the target system after data is loaded?](#what-are-the-key-checks-for-ensuring-data-quality-in-the-target-system-after-data-is-loaded) |
-| 3 | [How can you load a CSV table into a database?](#how-can-you-load-a-csv-table-into-a-database) |
-| 4 | [How can I find records that are present in one table but not in another using SQL?](#how-can-i-find-records-that-are-present-in-one-table-but-not-in-another-using-sql) |
-| 8 | [What are the key aspects of Target Data Completeness testing?](#what-are-the-key-aspects-of-target-data-completeness-testing) |
-| 5 | [How can you compare flat files and tables using the Linux command line?](#how-can-you-compare-flat-files-and-tables-using-the-linux-command-line) |
-| 6 | [What are the key validations for testing ETL target objects structure?](#what-are-the-key-validations-for-testing-etl-target-objects-structure) |
-| 15 | [What are Slowly Changing Dimensions (SCD), and how can they be managed?](#what-are-slowly-changing-dimensions-scd-and-how-can-they-be-managed) |
-| 25 | [How do you develop your skills and stay up-to-date?](#how-do-you-develop-your-skills-and-stay-up-to-date) |
-| 26 | [How do you ensure effective requirement management in QA?](#how-do-you-ensure-effective-requirement-management-in-qa) |
-| 27 | [How do you address the failure to simulate concurrent users in testing?](#how-do-you-address-the-failure-to-simulate-concurrent-users-in-testing) |
-| 28 | [What tools do you use for QA and how are they utilized?](#what-tools-do-you-use-for-qa-and-how-are-they-utilized) |
-| 29 | [How did you improve the onboarding process for new employees?](#how-did-you-improve-the-onboarding-process-for-new-employees) |
-| 36 | [What are the common ETL challenges and their solutions?](#what-are-the-common-etl-challenges-and-their-solutions) |  
-| 40 | [What is the difference between functional and nonfunctional testing?](#what-is-the-difference-between-functional-and-nonfunctional-testing) |  
-| 41 | [What are the common challenges faced by QA teams?](#what-are-the-common-challenges-faced-by-qa-teams) |
-| 62 | [What would you do if you filed a bug and the developer tells you it’s not a bug?](#what-would-you-do-if-you-filed-a-bug-and-the-developer-tells-you-its-not-a-bug) |  
-| 65 | [What would you do if asked to write test cases based on requirements provided?](#what-would-you-do-if-asked-to-write-test-cases-based-on-requirements-provided) |  
-| 66 | [What are the steps in a bug lifecycle?](#what-are-the-steps-in-a-bug-lifecycle) |  
-| 71 | [How can logs be efficiently managed when time is limited?](#how-can-logs-be-efficiently-managed-when-time-is-limited) |  
-| 73 | [What is the importance of frontend and backend testing in application development?](#what-is-the-importance-of-frontend-and-backend-testing-in-application-development) |  
-| 80 | [How do Unix command-line tools assist in data processing?](#how-do-unix-command-line-tools-assist-in-data-processing) |  
+| 1 | [What is a Traceability Matrix?](#what-is-a-traceability-matrix) |
+| 2 | [What is a Master Test Plan?](#what-is-a-master-test-plan) |  
+| 3 | [What are aggregate tests, set tests, and value tests in data validation?](#what-are-aggregate-tests-set-tests-and-value-tests-in-data-validation) |  
+| 4 | [How can you handle testing when time is limited, and requirements are evolving?](#how-can-you-handle-testing-when-time-is-limited-and-requirements-are-evolving) | 
+| 5 | [What are some basic MongoDB shell (Mongosh) commands for database operations?](#what-are-some-basic-mongodb-shell-mongosh-commands-for-database-operations) |  
+| 6 | [How to build a robust ETL workflow?](#how-to-build-a-robust-etl-workflow) |  
+| 7 | [What is involved in a mapping task?](#what-is-involved-in-a-mapping-task) |  
+| 8 | [What is a CICD pipeline with GitHub Actions?](#what-is-a-cicd-pipeline-with-github-actions) |  
+| 9 | [What is exploratory testing?](#what-is-exploratory-testing) |  
+| 10 | [What does "cosmetic" refer to in software testing?](#what-does-cosmetic-refer-to-in-software-testing) |  
+| 11 | [What are environment details in testing?](#what-are-environment-details-in-testing) |  
+| 12 | [What is the difference between expected and actual results in software testing?](#what-is-the-difference-between-expected-and-actual-results-in-software-testing) | 
+| 13 | [What are positive and negative testing?](#what-are-positive-and-negative-testing) |  
+| 14 | [What is a traceable record?](#what-is-a-traceable-record) |  
+| 15 | [What is an integrity rule in database management?](#what-is-an-integrity-rule-in-database-management) |  
+| 16 | [What is source-target reconciliation in data validation?](#what-is-source-target-reconciliation-in-data-validation) |  
+| 17 | [Why are email notifications for success and failure important in automated systems?](#why-are-email-notifications-for-success-and-failure-important-in-automated-systems) |  
+| 18 | [What is deliverability testing?](#what-is-deliverability-testing) |  
+| 19 | [What is negative testing?](#what-is-negative-testing) |  
+| 20 | [What is frontend testing?](#what-is-frontend-testing) |  
+| 21 | [What is database testing?](#what-is-database-testing) |  
+| 22 | [What are test artifacts in software testing?](#what-are-test-artifacts-in-software-testing) |  
+| 23 | [What are the key types of software testing?](#what-are-the-key-types-of-software-testing) |  
+| 24 | [What are boundary validation, range checks, threshold checks, and data truncation in data quality assurance?](#what-are-boundary-validation-range-checks-threshold-checks-and-data-truncation-in-data-quality-assurance) |  
+| 25 | [What are constraint violations in databases, and how do they impact data integrity?](#what-are-constraint-violations-in-databases-and-how-do-they-impact-data-integrity) |  
+| 26 | [What are the different types of testing?](#what-are-the-different-types-of-testing) |  
+| 27 | [What is the purpose of Cogito SQL in reporting?](#what-is-the-purpose-of-cogito-sql-in-reporting) |  
+| 28 | [How does MongoDB differ from relational databases?](#how-does-mongodb-differ-from-relational-databases) |  
+| 29 | [What role does ETL play in data processing?](#what-role-does-etl-play-in-data-processing) |  
+| 30 | [What are common UI issues in web applications?](#what-are-common-ui-issues-in-web-applications) |  
+| 31 | [Why is regression testing crucial in software development?](#why-is-regression-testing-crucial-in-software-development) |  
+| 32 | [How does workflow validation improve process execution?](#how-does-workflow-validation-improve-process-execution) |  
+| 33 | [What factors affect email deliverability and user experience?](#what-factors-affect-email-deliverability-and-user-experience) |  
+| 34 | [How do failed network requests impact an application?](#how-do-failed-network-requests-impact-an-application) |  
+| 35 | [What are common test operations in data validation?](#what-are-common-test-operations-in-data-validation) |  
+| 36 | [What should be included in test reports for analysis?](#what-should-be-included-in-test-reports-for-analysis) |  
+| 37 | [What is fault tolerance in a system?](#what-is-fault-tolerance-in-a-system) |  
+| 38 | [What is refactoring in software development?](#what-is-refactoring-in-software-development) |  
+| 39 | [What should be included in a well-written bug report?](#what-should-be-included-in-a-well-written-bug-report) |  
+| 40 | [What’s the difference between backend testing and frontend testing?](#whats-the-difference-between-backend-testing-and-frontend-testing) |  
+| 41 | [What is the difference between smoke, sanity, regression, and other types of testing?](#what-is-the-difference-between-smoke-sanity-regression-and-other-types-of-testing) |  
+| 42 | [What are the common HTTP methods used for retrieving, creating, and updating resources?](#what-are-the-common-http-methods-used-for-retrieving-creating-and-updating-resources) |  
+| 43 | [What is the Red-Green-Refactor cycle in Test-Driven Development (TDD)?](#what-is-the-red-green-refactor-cycle-in-test-driven-development-tdd) |  
+| 44 | [What steps do you follow when testing a database to ensure data accuracy and integrity?](#what-steps-do-you-follow-when-testing-a-database-to-ensure-data-accuracy-and-integrity) |  
+| 45 | [What are the key types of queries used in database testing?](#what-are-the-key-types-of-queries-used-in-database-testing) |  
+| 46 | [What is the difference between functional and non-functional testing in database testing?](#what-is-the-difference-between-functional-and-non-functional-testing-in-database-testing) |
+| 47 | [What tool can be used to measure performance and load test web applications?](#what-tool-can-be-used-to-measure-performance-and-load-test-web-applications) |  
+| 48 | [What is json-server, and how does it help with API testing?](#what-is-json-server-and-how-does-it-help-with-api-testing) |  
+| 49 | [What are some open-source tools for browser automation, API testing, accessibility, security, and monitoring?](#what-are-some-open-source-tools-for-browser-automation-api-testing-accessibility-security-and-monitoring) |  
+| 50 | [How do database scaling techniques like replication and sharding address performance challenges?](#how-do-database-scaling-techniques-like-replication-and-sharding-address-performance-challenges) |  
+| 51 | [How does GitHub Actions automate workflows?](#how-does-github-actions-automate-workflows) |  
+| 52 | [What is TestGrid and what are its key features?](#what-is-testgrid-and-what-are-its-key-features) |  
+| 53 | [What is the importance of debugging emails and ensuring proper deliverability?](#what-is-the-importance-of-debugging-emails-and-ensuring-proper-deliverability) |  
+| 54 | [How should UI issues be investigated to determine the root cause?](#how-should-ui-issues-be-investigated-to-determine-the-root-cause) |  
+| 55 | [How should issues with the user interface be handled?](#how-should-issues-with-the-user-interface-be-handled) |  
+| 56 | [How should failures be monitored over time during testing?](#how-should-failures-be-monitored-over-time-during-testing) |  
+| 57 | [What is an example of negative testing?](#what-is-an-example-of-negative-testing) |  
+| 58 | [What do test logs include?](#what-do-test-logs-include) |  
+| 59 | [What are the steps involved in setting up a PostgreSQL database for storing data?](#what-are-the-steps-involved-in-setting-up-a-postgresql-database-for-storing-data) |  
+| 60 | [What are triggers in SQL and what is the purpose of the sync changes table?](#what-are-triggers-in-sql-and-what-is-the-purpose-of-the-sync-changes-table) |  
+| 61 | [What does a Test Plan include?](#what-does-a-test-plan-include) |  
+| 62 | [What is a good test case?](#what-is-a-good-test-case) |  
+| 63 | [What is a Test Plan?](#what-is-a-test-plan) |  
+| 64 | [What is the difference between severity and priority?](#what-is-the-difference-between-severity-and-priority) |  
+| 65 | [What is the bug triage process and how is it carried out?](#what-is-the-bug-triage-process-and-how-is-it-carried-out) |
+| 66 | [How do you estimate the time for bug fixing?](#how-do-you-estimate-the-time-for-bug-fixing) |
+| 67 | [How do you classify bug priority?](#how-do-you-classify-bug-priority) |
+| 68 | [What are the key components of a test plan?](#what-are-the-key-components-of-a-test-plan) |
+| 69 | [What information should be included in a test case?](#what-information-should-be-included-in-a-test-case) |
+| 70 | [How do you handle bug triage and bug reports?](#how-do-you-handle-bug-triage-and-bug-reports) |
+| 71 | [What to include in a bug report?](#what-to-include-in-a-bug-report) |
+| 72 | [What's included in Jira and how is it used?](#whats-included-in-jira-and-how-is-it-used) |
+| 73 | [What are the definitions of Backlog and Sprint?](#what-are-the-definitions-of-backlog-and-sprint) |
+| 74 | [If you have three tasks that are all high priority, how will you decide which task to take on?](#if-you-have-three-tasks-that-are-all-high-priority-how-will-you-decide-which-task-to-take-on) |
+| 75 | [As a first QA, what would you do?](#as-a-first-qa-what-would-you-do) |
+| 76 | [If you need to start automation from scratch, what would your steps and processes be?](#if-you-need-to-start-automation-from-scratch-what-would-your-steps-and-processes-be) |
+| 77 | [What’s the difference between a test case and a bug report, and how do you write a good bug report?](#whats-the-difference-between-a-test-case-and-a-bug-report-and-how-do-you-write-a-good-bug-report) |
+| 78 | [What is the difference between a good test case and a bad test case?](#what-is-the-difference-between-a-good-test-case-and-a-bad-test-case) |
+| 79 | [Why should tasks be automated?](#why-should-tasks-be-automated) |
+| 80 | [What are the key checks for ensuring target data quality and accuracy?](#what-are-the-key-checks-for-ensuring-target-data-quality-and-accuracy) |
+| 81 | [What are the key checks for ensuring target data completeness?](#what-are-the-key-checks-for-ensuring-target-data-completeness) |
+| 82 | [What is the purpose of checking ETL logs?](#what-is-the-purpose-of-checking-etl-logs) |
+| 83 | [What is the purpose of testing success/failure emails in a process?](#what-is-the-purpose-of-testing-successfailure-emails-in-a-process) |
+| 84 | [What is the purpose of testing dependencies in workflows?](#what-is-the-purpose-of-testing-dependencies-in-workflows) |
+| 85 | [What are the key aspects of ETL workflow validation?](#what-are-the-key-aspects-of-etl-workflow-validation) |
+| 86 | [How can you compare database data with extracted CSV data using command-line tools?](#how-can-you-compare-database-data-with-extracted-csv-data-using-command-line-tools) |
+| 87 | [How can duplicates be identified in a database table using SQL?](#how-can-duplicates-be-identified-in-a-database-table-using-sql) |
+| 88 | [What are the key checks for ensuring data quality in the target system after data is loaded?](#what-are-the-key-checks-for-ensuring-data-quality-in-the-target-system-after-data-is-loaded) |
+| 89 | [How can you load a CSV table into a database?](#how-can-you-load-a-csv-table-into-a-database) |
+| 90 | [How can I find records that are present in one table but not in another using SQL?](#how-can-i-find-records-that-are-present-in-one-table-but-not-in-another-using-sql) |
+| 91 | [What are the key aspects of Target Data Completeness testing?](#what-are-the-key-aspects-of-target-data-completeness-testing) |
+| 92 | [How can you compare flat files and tables using the Linux command line?](#how-can-you-compare-flat-files-and-tables-using-the-linux-command-line) |
+| 93 | [What are the key validations for testing ETL target objects structure?](#what-are-the-key-validations-for-testing-etl-target-objects-structure) |
+| 94 | [What are Slowly Changing Dimensions (SCD), and how can they be managed?](#what-are-slowly-changing-dimensions-scd-and-how-can-they-be-managed) |
+| 95 | [How do you develop your skills and stay up-to-date?](#how-do-you-develop-your-skills-and-stay-up-to-date) |
+| 96 | [How do you ensure effective requirement management in QA?](#how-do-you-ensure-effective-requirement-management-in-qa) |
+| 97 | [How do you address the failure to simulate concurrent users in testing?](#how-do-you-address-the-failure-to-simulate-concurrent-users-in-testing) |
+| 98 | [What tools do you use for QA and how are they utilized?](#what-tools-do-you-use-for-qa-and-how-are-they-utilized) |
+| 99 | [How did you improve the onboarding process for new employees?](#how-did-you-improve-the-onboarding-process-for-new-employees) |
+| 100 | [What are the common ETL challenges and their solutions?](#what-are-the-common-etl-challenges-and-their-solutions) |  
+| 101 | [What is the difference between functional and nonfunctional testing?](#what-is-the-difference-between-functional-and-nonfunctional-testing) |  
+| 102 | [What are the common challenges faced by QA teams?](#what-are-the-common-challenges-faced-by-qa-teams) |
+| 103 | [What would you do if you filed a bug and the developer tells you it’s not a bug?](#what-would-you-do-if-you-filed-a-bug-and-the-developer-tells-you-its-not-a-bug) |  
+| 104 | [What would you do if asked to write test cases based on requirements provided?](#what-would-you-do-if-asked-to-write-test-cases-based-on-requirements-provided) |  
+| 105 | [What are the steps in a bug lifecycle?](#what-are-the-steps-in-a-bug-lifecycle) |  
+| 106 | [How can logs be efficiently managed when time is limited?](#how-can-logs-be-efficiently-managed-when-time-is-limited) |  
+| 107 | [What is the importance of frontend and backend testing in application development?](#what-is-the-importance-of-frontend-and-backend-testing-in-application-development) |  
+| 108 | [How do Unix command-line tools assist in data processing?](#how-do-unix-command-line-tools-assist-in-data-processing) |  
 | 109 | [How do you manage planning, estimation, and execution when working on a release with evolving requirements?](#how-do-you-manage-planning-estimation-and-execution-when-working-on-a-release-with-evolving-requirements) |  
 
 ---
