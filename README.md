@@ -114,11 +114,7 @@
 
 ## How to build a robust ETL workflow?
 
-> **Building a robust ETL workflow** involves a combination of checks, waits, and notifications to ensure reliability. Key components include:
-> 
-> - **Checks:** Validating data at each stage to ensure it meets quality standards.
-> - **Waits:** Ensuring data dependencies are met before proceeding to the next step.
-> - **Notifications:** Alerting stakeholders of process status, success, or failure.
+> **Building a robust ETL workflow** involves a combination of checks, waits, and notifications to ensure reliability. 
 
 **[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
