@@ -6,6 +6,7 @@
 
 | No. | Questions |
 | --- | --------- |
+| 103 | [What is a CICD pipeline with GitHub Actions?](#what-is-a-cicd-pipeline-with-github-actions) |  
 | 102 | [What is exploratory testing?](#what-is-exploratory-testing) |  
 | 101 | [What does "cosmetic" refer to in software testing?](#what-does-cosmetic-refer-to-in-software-testing) |  
 | 99 | [What are environment details in testing?](#what-are-environment-details-in-testing) |  
@@ -106,6 +107,17 @@
 | 71 | [How can logs be efficiently managed when time is limited?](#how-can-logs-be-efficiently-managed-when-time-is-limited) |  
 | 73 | [What is the importance of frontend and backend testing in application development?](#what-is-the-importance-of-frontend-and-backend-testing-in-application-development) |  
 | 80 | [How do Unix command-line tools assist in data processing?](#how-do-unix-command-line-tools-assist-in-data-processing) |  
+
+---
+
+## What is a CICD pipeline with GitHub Actions?
+
+> **A CICD (Continuous Integration and Continuous Deployment) pipeline** automates the process of integrating and deploying code changes. GitHub Actions enables this automation by triggering workflows based on repository events, such as:
+> 
+> - Pushing code or creating pull requests
+> - Running tasks sequentially or in parallel
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
 ---
 
