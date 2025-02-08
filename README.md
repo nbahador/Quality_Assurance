@@ -6,6 +6,7 @@
 
 | No. | Questions |
 | --- | --------- |
+| 105 | [How to build a robust ETL workflow?](#how-to-build-a-robust-etl-workflow) |  
 | 104 | [What is involved in a mapping task?](#what-is-involved-in-a-mapping-task) |  
 | 103 | [What is a CICD pipeline with GitHub Actions?](#what-is-a-cicd-pipeline-with-github-actions) |  
 | 102 | [What is exploratory testing?](#what-is-exploratory-testing) |  
@@ -108,6 +109,18 @@
 | 71 | [How can logs be efficiently managed when time is limited?](#how-can-logs-be-efficiently-managed-when-time-is-limited) |  
 | 73 | [What is the importance of frontend and backend testing in application development?](#what-is-the-importance-of-frontend-and-backend-testing-in-application-development) |  
 | 80 | [How do Unix command-line tools assist in data processing?](#how-do-unix-command-line-tools-assist-in-data-processing) |  
+
+---
+
+## How to build a robust ETL workflow?
+
+> **Building a robust ETL workflow** involves a combination of checks, waits, and notifications to ensure reliability. Key components include:
+> 
+> - **Checks:** Validating data at each stage to ensure it meets quality standards.
+> - **Waits:** Ensuring data dependencies are met before proceeding to the next step.
+> - **Notifications:** Alerting stakeholders of process status, success, or failure.
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
 ---
 
