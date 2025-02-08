@@ -6,7 +6,8 @@
 
 | No. | Questions |
 | --- | --------- |
-| 108 | [What is a Traceability Matrix?](#what-is-a-traceability-matrix) |  
+| 108 | [What is a Traceability Matrix?](#what-is-a-traceability-matrix) |
+| 111 | [What is a Master Test Plan?](#what-is-a-master-test-plan) |  
 | 107 | [What are aggregate tests, set tests, and value tests in data validation?](#what-are-aggregate-tests-set-tests-and-value-tests-in-data-validation) |  
 | 110 | [How can you handle testing when time is limited, and requirements are evolving?](#how-can-you-handle-testing-when-time-is-limited-and-requirements-are-evolving) | 
 | 106 | [What are some basic MongoDB shell (Mongosh) commands for database operations?](#what-are-some-basic-mongodb-shell-mongosh-commands-for-database-operations) |  
@@ -123,6 +124,20 @@
 > 
 > - A Traceability Matrix is a document that maps and traces the relationship between different project artifacts.
 > - It typically links requirements to test cases, test cases to defects, and requirements to design or implementation.
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
+
+---
+
+## What is a Master Test Plan?
+
+> **A Master Test Plan is a comprehensive document that outlines the overall testing strategy, scope, approach, and resources for a project. It includes:**
+> 
+> - **Test Objectives**: Defines the goals of the testing process.
+> - **Test Strategy and Scope**: Outlines the testing approach and the boundaries of what will and won't be tested.
+> - **Test Deliverables**: Lists the documents and reports expected from the testing process.
+> - **Roles and Responsibilities**: Defines the roles of each team member involved in testing.
+> - **Schedules and Resources**: Details the timeline for testing and the resources needed.
 
 **[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
