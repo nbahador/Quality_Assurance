@@ -6,6 +6,7 @@
 
 | No. | Questions |
 | --- | --------- |
+| 106 | [What are some basic MongoDB shell (Mongosh) commands for database operations?](#what-are-some-basic-mongodb-shell-mongosh-commands-for-database-operations) |  
 | 105 | [How to build a robust ETL workflow?](#how-to-build-a-robust-etl-workflow) |  
 | 104 | [What is involved in a mapping task?](#what-is-involved-in-a-mapping-task) |  
 | 103 | [What is a CICD pipeline with GitHub Actions?](#what-is-a-cicd-pipeline-with-github-actions) |  
@@ -109,6 +110,26 @@
 | 71 | [How can logs be efficiently managed when time is limited?](#how-can-logs-be-efficiently-managed-when-time-is-limited) |  
 | 73 | [What is the importance of frontend and backend testing in application development?](#what-is-the-importance-of-frontend-and-backend-testing-in-application-development) |  
 | 80 | [How do Unix command-line tools assist in data processing?](#how-do-unix-command-line-tools-assist-in-data-processing) |  
+
+---
+
+## What are some basic MongoDB shell (Mongosh) commands for database operations?
+
+> **Basic MongoDB shell (Mongosh) commands** and their uses include:
+> 
+> - **create:** Defines a new collection or index.
+> - **drop:** Removes a collection or index from the database.
+> - **insertOne():** Inserts a single document into a collection.
+> - **insertMany():** Inserts multiple documents into a collection.
+> - **find():** Retrieves documents from a collection.
+> - **sort():** Sorts the retrieved documents based on specified fields.
+> - **limit():** Limits the number of documents returned by a query.
+> - **updateOne():** Updates a single document matching the specified filter.
+> - **updateMany():** Updates multiple documents based on the filter.
+> - **deleteMany():** Deletes multiple documents matching a filter.
+> - **getIndexes():** Lists all indexes on a collection.
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
 ---
 
