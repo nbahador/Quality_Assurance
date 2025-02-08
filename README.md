@@ -2,6 +2,10 @@
   FAQs for Quality Assurance, Software Testing, Data Validation, and Database Management
 </h2>
 
+<p style="text-align: center; font-size: 16px; color: #34495E; margin-bottom: 20px;">
+  Contributions to expand the FAQ on QA, Testing, Data Validation, and DB Management are welcome!
+</p>
+
 <ul style="padding-left: 40px; font-size: 18px; color: #34495E; line-height: 1.6;">
   <li>Quality Assurance</li>
   <li>Software Testing</li>
