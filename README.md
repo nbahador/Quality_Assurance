@@ -1,4 +1,4 @@
-<h1 style="border: 2px solid #000; padding: 10px; text-align: center; font-size: 24px;">
+<h1 style="border: 2px solid #000; padding: 10px; text-align: center; font-size: 22px;">
   FAQs for Quality Assurance, Software Testing, Data Validation, and Database Management
 </h1>
 
