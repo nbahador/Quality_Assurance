@@ -1,5 +1,5 @@
 <h1 style="border: 2px solid #000; padding: 10px; text-align: center;">
-A set of FAQs for someone involved in Quality Assurance, Software Testing, Data Validation, or Database Management
+  FAQs for Quality Assurance, Software Testing, Data Validation, and Database Management
 </h1>
 
 ### <a id="table-of-contents"></a>Table of Contents
