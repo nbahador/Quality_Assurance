@@ -123,7 +123,7 @@
 > - **Sorter:** Orders data based on specified criteria.
 > - **Structure Parser:** Analyzes and organizes the data structure.
 > - **Rank, Normaliser, Aggregator:** These tasks rank, standardize, and summarize data, respectively.
-> - **Masking:** Likely refers to a masking task, where sensitive data is hidden or anonymized.
+> - **Masking:** refers to a masking task, where sensitive data is hidden or anonymized.
 
 **[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
