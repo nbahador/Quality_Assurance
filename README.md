@@ -9,11 +9,11 @@
   <li>Database Management</li>
 </ul>
 
-<hr style="border: none; border-top: 2px solid #2980B9; margin: 20px 0;">
+<hr style="border: none; border-top: 1px solid #2980B9; margin: 10px 0;">
 <p style="text-align: center; font-size: 16px; color: #34495E; margin-bottom: 20px;">
   Contributions to expand the FAQ on QA, Testing, Data Validation, and DB Management are welcome!
 </p>
-<hr style="border: none; border-top: 2px solid #2980B9; margin: 20px 0;">
+<hr style="border: none; border-top: 1px solid #2980B9; margin: 10px 0;">
 
 
 ### <a id="table-of-contents"></a>Table of Contents
