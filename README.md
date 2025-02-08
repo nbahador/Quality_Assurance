@@ -1,7 +1,8 @@
-<p style="font-size: 18px; text-align: center;">
-  FAQs for:
-</p>
-<ul style="padding-left: 20px; font-size: 18px;">
+<h2 style="font-size: 24px; text-align: center; font-weight: bold; color: #2C3E50; border-bottom: 2px solid #2980B9; padding-bottom: 10px; margin-bottom: 20px;">
+  FAQs for Quality Assurance, Software Testing, Data Validation, and Database Management
+</h2>
+
+<ul style="padding-left: 40px; font-size: 18px; color: #34495E; line-height: 1.6;">
   <li>Quality Assurance</li>
   <li>Software Testing</li>
   <li>Data Validation</li>
