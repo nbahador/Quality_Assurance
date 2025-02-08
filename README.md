@@ -1,7 +1,6 @@
 <h2 style="font-size: 24px; text-align: center; font-weight: bold; color: #2C3E50; border-bottom: 2px solid #2980B9; padding-bottom: 10px; margin-bottom: 20px;">
   FAQs for Quality Assurance, Software Testing, Data Validation, and Database Management
 </h2>
-<hr style="border: none; border-top: 1px solid #2980B9; margin: 10px 0;">
 <ul style="padding-left: 40px; font-size: 18px; color: #34495E; line-height: 1.6;">
   <li>Quality Assurance</li>
   <li>Software Testing</li>
@@ -10,7 +9,7 @@
 </ul>
 
 <hr style="border: none; border-top: 1px solid #2980B9; margin: 10px 0;">
-<p style="text-align: center; font-size: 16px; color: #34495E; margin-bottom: 20px;">
+<p style="text-align: center; font-size: 16px; color: #34495E; margin-bottom: 10px;">
   Contributions to expand the FAQ on QA, Testing, Data Validation, and DB Management are welcome!
 </p>
 <hr style="border: none; border-top: 1px solid #2980B9; margin: 10px 0;">
