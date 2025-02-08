@@ -6,6 +6,7 @@
 
 | No. | Questions |
 | --- | --------- |
+| 107 | [What are aggregate tests, set tests, and value tests in data validation?](#what-are-aggregate-tests-set-tests-and-value-tests-in-data-validation) |  
 | 106 | [What are some basic MongoDB shell (Mongosh) commands for database operations?](#what-are-some-basic-mongodb-shell-mongosh-commands-for-database-operations) |  
 | 105 | [How to build a robust ETL workflow?](#how-to-build-a-robust-etl-workflow) |  
 | 104 | [What is involved in a mapping task?](#what-is-involved-in-a-mapping-task) |  
@@ -110,6 +111,18 @@
 | 71 | [How can logs be efficiently managed when time is limited?](#how-can-logs-be-efficiently-managed-when-time-is-limited) |  
 | 73 | [What is the importance of frontend and backend testing in application development?](#what-is-the-importance-of-frontend-and-backend-testing-in-application-development) |  
 | 80 | [How do Unix command-line tools assist in data processing?](#how-do-unix-command-line-tools-assist-in-data-processing) |  
+
+---
+
+## What are aggregate tests, set tests, and value tests in data validation?
+
+> **Aggregate Tests:** Summarize and analyze data to retrieve overall insights, such as averages, totals, or counts.
+> 
+> **Set Tests:** Compare the distinct values of one field with another.
+> 
+> **Value Tests:** Validate individual data values, ensuring they meet specific conditions or fall within expected ranges.
+
+**[ Back to the question in the Table ⬆ ](#table-of-contents)**
 
 ---
 
